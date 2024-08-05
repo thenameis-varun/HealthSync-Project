@@ -1,0 +1,6 @@
+streamlit
+PIL
+transformers
+IPython
+streamlit_cropperjs
+io

@@ -1,0 +1,45 @@
+CHIEF COMPLAINT: Abdominal Pain
+PRESENT ILLNESS: 35-year-old woman with a history of gastritis presented to the emergency department with severe abdominal pain.
+
+CHIEF COMPLAINT: Chest Tightness
+PRESENT ILLNESS: 45-year-old man with a history of coronary artery disease presented to the emergency department with complaints of chest tightness.
+
+CHIEF COMPLAINT: Shortness of Breath
+PRESENT ILLNESS: 70-year-old woman with a history of chronic obstructive pulmonary disease (COPD) presented to the emergency department with acute shortness of breath.
+
+CHIEF COMPLAINT: Back Pain
+PRESENT ILLNESS: 40-year-old man with a history of lumbar disc herniation presented to the emergency department with excruciating back pain radiating down his left leg.
+
+CHIEF COMPLAINT: Fatigue
+PRESENT ILLNESS: 55-year-old woman with a history of hypothyroidism presented to the emergency department with complaints of persistent fatigue despite adequate thyroid hormone replacement therapy.
+
+CHIEF COMPLAINT: Headaches\n\nPRESENT ILLNESS: 58yo man w/ hx of hypertension, AFib on coumadin presented to ED with the worst headache of his life
+
+
+
+CASE: A 40-year-old woman with a history of asthma presented with a 4-week history of wheezing episodes. The symptoms occurred mainly during physical exertion, occurring daily and lasting for about 15 minutes each time, accompanied by chest tightness. Physical examination revealed scattered expiratory wheezes throughout the lung fields.
+
+CASE: A 65-year-old man with a history of hypertension presented with a 2-month history of intermittent dizziness. The symptoms occurred randomly throughout the day, about once a week, lasting for a few seconds each time, and were associated with a feeling of lightheadedness. Physical examination revealed orthostatic hypotension upon standing.
+
+CASE: A 55-year-old woman with a history of diabetes presented with a 3-week history of visual disturbances. The symptoms occurred intermittently, especially after meals, about 4–5 times per week, lasting for approximately 20 minutes each time, and were associated with blurred vision. Physical examination revealed bilateral papilledema on fundoscopic examination.
+
+CASE: A 30-year-old man with no significant medical history presented with a 2-week history of joint pain. The symptoms occurred mainly in the morning upon waking up, occurring daily, lasting for about an hour each time, and were associated with stiffness. Physical examination revealed tenderness and swelling in multiple joints, suggestive of rheumatoid arthritis.
+
+CASE: A 50-year-old woman with a history of migraines presented with a 5-week history of recurrent headaches. The symptoms occurred unpredictably, about twice a week, lasting for several hours each time, and were associated with photophobia and nausea. Physical examination yielded unremarkable findings except for mild tenderness over the temporal region.
+
+
+
+
+
+CASE: A 28-year-old previously healthy man presented with a 6-week history of palpitations. 
+      The symptoms occurred during rest, 2–3 times per week, lasted up to 30 minutes at a time 
+      and were associated with dyspnea. Except for a grade 2/6 holosystolic tricuspid regurgitation 
+      murmur (best heard at the left sternal border with inspiratory accentuation), physical 
+      examination yielded unremarkable findings. generate 5 senetmces like this with different ages and different conditions
+
+"C:\Users\prath\Downloads\CODING\Healthsync\llama.cpp\pytorch_model-00002-of-00003.bin"
+
+
+
+
+

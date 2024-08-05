@@ -1,0 +1,1064 @@
+id,drug_name,substitute0,substitute1,substitute2,substitute3,substitute4,sideEffect0,sideEffect1,sideEffect2
+1,augmentin 625 duo tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+2,azithral 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Cazithro 500mg Tablet,Trulimax 500mg Tablet,Vomiting,Nausea,Abdominal pain
+3,ascoril ls syrup,Solvin LS Syrup,Ambrodil-LX Syrup,Zerotuss XP Syrup,Capex LS Syrup,Broxum LS Syrup,Nausea,Vomiting,Diarrhea
+4,allegra 120mg tablet,Lcfex Tablet,Etofex 120mg Tablet,Nexofex 120mg Tablet,Fexise 120mg Tablet,Histafree 120 Tablet,Headache,Drowsiness,Dizziness
+5,avil 25 tablet,Eralet 25mg Tablet,,,,,Sleepiness,Dryness in mouth,
+6,allegra-m tablet,Emlukast-FX Tablet,LCFEX-Mont Tablet,Fixar 10mg/120mg Tablet,Histakind-M Tablet,Histafree-M Tablet,Nausea,Diarrhea,Vomiting
+7,amoxyclav 625 tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+8,azee 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Cazithro 500mg Tablet,Trulimax 500mg Tablet,Vomiting,Nausea,Abdominal pain
+9,atarax 25mg tablet,HD Zine 25mg Tablet,Hyzox 25 Tablet,Hizet 25mg Tablet,Hydil 25mg Tablet,Zyzine 25mg Tablet,Sedation,Nausea,Vomiting
+10,ascoril d plus syrup sugar free,Arnikof D Syrup,Cofsolve-D Syrup,Tucin D Syrup,Akof-D Syrup Sugar Free,Krisbro D Syrup,Nausea,Vomiting,Loss of appetite
+11,aciloc 150 tablet,Zinemac 150 Tablet,Monoloc 150mg Tablet,Ranitas 150mg Tablet,Ranloc 150mg Tablet,Zynol 150mg Tablet,Headache,Diarrhea,Gastrointestinal disturbance
+12,alex syrup,Alkof Junior Syrup,Respicure-D Syrup,Torex Junior Syrup,Chericof Syrup,Respicure-D Syrup,Nausea,Vomiting,Loss of appetite
+13,anovate cream,Pilo GO Cream,PileClear Cream,Proctosedyl BD Cream,,,"Application site reactions (burning, irritation, itching and redness)",,
+14,augmentin duo oral suspension,Goldclav Oral Suspension,Moxiclip Dry Syrup,Tervis DS Oral Suspension,Bestomax Dry Syrup,Amoxyril-CV Dry Syrup,Nausea,Vomiting,Abdominal pain
+15,ambrodil-s syrup,,,,,,Headache,Palpitations,Upset stomach
+16,arkamin tablet,Albamine 100mcg Tablet,Arkapres 100 Tablet,Cloud 100mcg Tablet,Closidin 100mcg Tablet,Cata-Dict 0.1 Tablet,Dizziness,Dryness in mouth,Headache
+17,avomine tablet,Propazine Tablet,Progene 25mg Tablet,Proz 25mg Tablet,Prometh 25mg Tablet,Emin 25mg Tablet,Unusual production of breast milk in women and men,,
+18,asthakind-dx syrup sugar free,Wytuss-DMR Syrup Mint Sugar Free,Dcrocof-DX Syrup Sugar Free,Broxino-DX Syrup Sugar Free,Imotus D Syrup,Brikuff-DX Syrup,Nausea,Vomiting,Loss of appetite
+19,allegra 180mg tablet,Lcfex 180 Tablet,Fexofen 180mg Tablet,Mavifex 180mg Tablet,Histafree 180 Tablet,Vilofex 180 Tablet,Headache,Drowsiness,Dizziness
+20,albendazole 400mg tablet,Olworm 400mg Tablet,Zeebee Tablet,Zybend Tablet,Albekem 400mg Tablet,Sezole 400mg Tablet,Vomiting,Dizziness,Increased liver enzymes
+21,asthalin syrup,Brethmol 2mg/5ml Syrup,Salvent 2mg Syrup,Ralbet 2mg Syrup,Asthabon 2mg Syrup,VENTORLIN 2MG/5ML SYRUP,Tremors,Headache,Palpitations
+22,alprax 0.25 tablet,Alltop 0.25mg Tablet,Alprasafe 0.25mg Tablet,Nindra 0.25mg Tablet,Alora 0.25mg Tablet,Exal 0.25mg Tablet,Lightheadedness,Drowsiness,
+23,altraday capsule sr,Krd AR 200mg/20mg Capsule SR,Rient-A Capsule SR,Rabispan-AC Capsule SR,Douxrab Ace 200mg/20mg Capsule SR,Rabewan AC 200mg/20mg Capsule SR,Nausea,Flatulence,Indigestion
+24,ativan 2mg tablet,Zepnap 2mg Tablet,Lorel 2mg Tablet,Texina 2mg Tablet,Larpose 2mg Tablet,Zelor 2mg Tablet,Fatigue,Balance disorder (loss of balance),Dizziness
+25,ascoril ls junior syrup,Bronkolyte Levo PD Syrup,Nakuf LS Syrup,Cleartuss LS Syrup,Chericof-LS Junior Syrup,Ventiphylline LS Junior Syrup,Nausea,Vomiting,Diarrhea
+26,asthalin 100mcg inhaler,RHEOLIN 100 MCG INHALER,Ventorlin Inhaler CFC Free,Bronkonat 100mcg Inhaler,Durasal Breathaler 100mcg Inhaler,Asthavent 100mcg Inhaler,Tachycardia,Tremors,Headache
+27,almox 500 capsule,Tormoxin 500mg Capsule,Cipmox 500 Capsule,Tidoxyl 500mg Capsule,Actimox 500mg Capsule,SB Mox 500mg Capsule,Rash,Vomiting,Allergic reaction
+28,atarax 10mg tablet,Evall 10mg Tablet,Hydil 10mg Tablet,Stoprax 10mg Tablet,Hynorax 10mg Tablet,Hydrobal 10 Tablet,Sedation,Nausea,Vomiting
+29,aciloc rd 20 tablet,Zydero 10mg/20mg Tablet,Try DM 10mg/20mg Tablet,Omtro D 10mg/20mg Tablet,Prazowel D 10mg/20mg Tablet,Ospicid D 10mg/20mg Tablet,Diarrhea,Stomach pain,Dryness in mouth
+30,aldactone tablet,Aldobloc 25mg Tablet,Spirix 25mg Tablet,Spiromax 25mg Tablet,Spirolact 25mg Tablet,Spironot 25 Tablet,Nausea,Vomiting,Leg cramps
+31,allegra suspension raspberry & vanilla,Fexovis 30mg Oral Suspension,Fextric Oral Suspension,Fexonix Oral Suspension,Fext Oral Suspension,Xaria Kidz Oral Suspension Mango,Headache,Drowsiness,Dizziness
+32,atarax syrup,Hydil 10mg Syrup,Pru 10mg Syrup,Hedosat 10mg Syrup,Livrox 10mg Syrup,Anzine 10mg Syrup,Sedation,Nausea,Vomiting
+33,amlokind-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+34,axcer  90mg tablet,Tikacad 90 Tablet,Brigrel Tablet,Xygrel 90 Tablet,Ticastro 90 Tablet,Ticavic 90 Tablet,Bleeding,Breathlessness,
+35,ativan 1mg tablet,Lzepam 1mg Tablet,Lopam 1mg Tablet,Zepnap 1mg Tablet,Lorel 1mg Tablet,Larpose 1mg Tablet,Dizziness,Weakness,Sedation
+36,alkasol oral solution,Uridol Oral Solution,,,,,Stomach pain,Tiredness,Diarrhea
+37,aldigesic p 100mg/325mg tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+38,alfoo 10mg tablet pr,DavaIndia Alfuzosin 10mg Tablet PR,Alfucal 10mg Tablet PR,Alfugress Tablet PR,Emzosin Tablet PR,Zyalfa Tablet PR,Upper respiratory tract infection,Dizziness,Headache
+39,alprax 0.5mg tablet,Alprasafe 0.5mg Tablet,Alparazole 0.5mg Tablet,Alprazol 0.5mg Tablet,Texidep 0.5mg Tablet,Zolipax 0.5mg Tablet,Lightheadedness,Drowsiness,
+40,arachitol 6l injection,Sychitol 600000IU Injection,Devita 600000IU Injection,Huch D3 Injection,Dvital 600000IU Injection,Gen-D3 600000IU Injection,"Injection site reactions (pain, swelling, redness)",Weakness,Muscle pain
+41,anafortan 25 mg/300 mg tablet,Carespas CP 25mg/300mg Tablet,Camyfyl 25mg/300mg Tablet,Cyclobid CP 25mg/300mg Tablet,Camylyn-P Tablet,Cyclobrex CP 25mg/300mg Tablet,Dryness in mouth,Constipation,Blurred vision
+42,alex junior syrup,Kuffery-DMR Junior Syrup,Rizet DX Jr Syrup Kiwi,Irinil D Syrup,Dexgen Syrup,Abrotus DX Junior Syrup,Upset stomach,Sleepiness,
+43,azithral 200 liquid,Azam 200 Oral Suspension,Spazit Suspension,Azimox 200mg Oral Suspension,Uber 200 Oral Suspension,Azee 200mg Dry Syrup,Vomiting,Nausea,Abdominal pain
+44,ab phylline capsule,Broncocet ACB Capsule,Broncofil 100mg Capsule,Bronet 100mg Capsule,Axeldox 100 Capsule,Ambrodil-XP Capsule,Nausea,Headache,Vomiting
+45,althrocin 500 tablet,Erythromycin Estol 500mg Tablet,Eryster 500mg Tablet,Eltocin 500mg Tablet,Erytho 500mg Tablet,Elucin 500mg Tablet,Vomiting,Nausea,Abdominal pain
+46,augmentin dds suspension,Bactoclav DS 457 Dry Syrup,Extclav-DS Dry Syrup,Clavio-DS Oral Suspension,Medgud-CV Forte Dry Syrup,Clomaxin-DS Dry Syrup,Nausea,Vomiting,Abdominal pain
+47,azicip 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Cazithro 500mg Tablet,Trulimax 500mg Tablet,Vomiting,Nausea,Abdominal pain
+48,aldigesic-sp tablet,Asozen SR Plus 100mg/325mg/10mg Tablet,Accept-SP Tablet,Combifenac SP 100mg/325mg/10mg Tablet,Aceloflam SP Tablet,Parofen-S Tablet,Nausea,Vomiting,Stomach pain
+49,amoxycillin 500mg capsule,Tormoxin 500mg Capsule,Cipmox 500 Capsule,Tidoxyl 500mg Capsule,Actimox 500mg Capsule,SB Mox 500mg Capsule,Rash,Vomiting,Allergic reaction
+50,asthakind expectorant sugar free,Eascof  Expectorant,Ventoranz Cough Expectorant,Eledyl SF Expectorant,Ascoril SF Expectorant,,Nausea,Diarrhea,Bloating
+51,acemiz plus tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Acenext P 100mg/325mg Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+52,aceclo plus tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Acenext P 100mg/325mg Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+53,anobliss cream,Nifedip LA  Cream,Anozest Cream,Anomed L Cream,Anorelief Cream,Escot Cream,Anal irritation,,
+54,alex cough lozenges lemon ginger,CHERICOF 5MG LOZENGES,Tossex D 5mg Lozenges,,,,Sleepiness,Dizziness,Confusion
+55,asthalin respules,Derihaler 2.5mg Respules,Asthavent 2.5mg Respules,Axamol 2.5mg Respules 2.5ml,Pneumasal 2.5mg Respules (2.5ml Each),,Tachycardia,Tremors,Headache
+56,avil injection,Nicophen 22.75mg Injection,Instavil 22.75mg Injection,Eurovil 22.75mg Injection,Kayphen 22.75mg Injection,,Sleepiness,Dryness in mouth,
+57,azee 200mg dry syrup,Azam 200 Oral Suspension,Spazit Suspension,Azimox 200mg Oral Suspension,Uber 200 Oral Suspension,Azmo 200mg Oral Suspension,Vomiting,Nausea,Abdominal pain
+58,atorva tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,Atorlip 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+59,asthakind-ls expectorant cola sugar free,Tarific Expectorant,Nakuf LS+ SF Expectorant Cherry Sugar Free,Piritexyl-LS SF Expectorant,Tuspel LS 1 Expectorant,Macbery LS Expectorant Sugar Free,Nausea,Vomiting,Diarrhea
+60,ascoril ls drops,Usal LS Drops,Levokof Oral Drops,Coffact-S Drop,Nosicold LS Oral Drops,Zerotuss XP Drop,Vomiting,Diarrhea,Excessive salivation
+61,azmarda 50mg tablet,Sacutan 50 Tablet,Sacurise 50 Tablet,Arney 50 Tablet,Sacuval 50 Tablet,Sacu-V 50 Tablet,Dizziness,Increased potassium level in blood,Fatigue
+62,amixide-h tablet,Trixide-H Tablet,Emotrip 12.5 mg/5 mg Tablet,Aculip H 12.5mg/5mg Tablet,Trixide 12.5 mg/5 mg Tablet,Kimitrip 12.5mg/5mg Tablet,Constipation,Difficulty in urination,Weight gain
+63,ab-flo-n tablet,Oxydex Tablet,Pulmotol Tablet,Amucoe Nac Tablet,Aphyren-N Tablet,Asmasafe-N Tablet,Vomiting,Heartburn,Stomach pain
+64,af kit tablet,Afo Kit 1000 mg/750 mg/150 mg Tablet,Femiriv 3 Kit Tablet,Vaginobact 1000 mg/750 mg/150 mg Tablet,,,Taste change,Vomiting,Headache
+65,amlokind 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+66,amlong tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Camlodip 5mg Tablet,Headache,Fatigue,Nausea
+67,akt 4 kit,RF 4 Kit,Anticox 4 Kit,4D Kit,Afb 4 Kit,CAVICIN E KIT,Nausea,Vomiting,Rash
+68,ascoril d junior cough syrup,Alkof Junior Syrup,Respicure-D Syrup,Chericof Syrup,Respicure-D Syrup,Ataqued Syrup,Nausea,Vomiting,Loss of appetite
+69,amitone 10mg tablet,Triptop 10mg Tablet,Relidep 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Odep 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+70,aulin 100mg tablet,Nimprex Tablet,Pyrimide 100mg Tablet,Nicip Tablet,Nimtech 100mg Tablet,Nalgis 100mg Tablet,Vomiting,Nausea,Diarrhea
+71,amikacin sulphate 500mg injection,Amilab 500mg Injection,Acil 500mg Injection,Emica 500mg Injection,Mika Best 500mg Injection,Ivimicin 500mg Injection,Increased blood urea,"Injection site reactions (pain, swelling, redness)",
+72,ambrodil-lx syrup,Solvin LS Syrup,Zerotuss XP Syrup,Capex LS Syrup,Broxum LS Syrup,Asthalin AX Syrup,Nausea,Vomiting,Diarrhea
+73,aquasol a capsule,,,,,,No common side effects seen,,
+74,ab phylline sr 200 tablet,Venphylin-SR Tablet,Uliphyalline 200 SR Tablet,Asmasafe 200mg Tablet SR,Acethama 200 SR Tablet,Abiways 200 SR Tablet,Nausea,Headache,Vomiting
+75,azoran tablet,Transimune 50mg Tablet,Azap 50 Tablet,Zesoris-AZ 50mg Tablet,Autorin 50mg Tablet,Azawan Tablet,Decreased white blood cell count,Increased bleeding tendency,Nausea
+76,aztor 10 tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,Atorlip 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+77,atorva 40 tablet,Atorless 40mg Tablet,Atchol 40 Tablet,Lipikind 40 Tablet,Mactor 40 Tablet,Atorsave 40 Tablet,Dyspepsia,Abdominal pain,Indigestion
+78,azax 500 tablet,Zithrocare 500mg Tablet,Zady 500 Tablet,Cazithro 500mg Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+79,alex syrup sugar free,Alkof Junior Syrup,Respicure-D Syrup,Torex Junior Syrup,Chericof Syrup,Respicure-D Syrup,Nausea,Vomiting,Loss of appetite
+80,anxit 0.5 tablet,Alprasafe 0.5mg Tablet,Alparazole 0.5mg Tablet,Alprazol 0.5mg Tablet,Texidep 0.5mg Tablet,Zolipax 0.5mg Tablet,Lightheadedness,Drowsiness,
+81,anxit 0.25mg tablet,Alltop 0.25mg Tablet,Alprasafe 0.25mg Tablet,Nindra 0.25mg Tablet,Alora 0.25mg Tablet,Exal 0.25mg Tablet,Lightheadedness,Drowsiness,
+82,acitrom 2 tablet,Nicoz 2mg Tablet,Nistrom 2mg Tablet,Acimalone 2 Tablet,Acethromb 2mg Tablet,Cenorol 2mg Tablet,Hemorrhage,,
+83,angispan - tr 2.5mg capsule,Angiplat 2.5 Capsule TR,Angistat 2.5 Capsule TR,Vasovin - XL 2.5 Capsule,,,Blurred vision,Decreased blood pressure,Dizziness
+84,azeflo nasal spray,Sarnase 50 mcg/140 mcg Nasal Spray,Sernase Nasal Spray,Armist Nasal Spray,Lergiset-AF Nasal Spray,Flotaze Nasal Spray,Taste change,Nosebleeds,Headache
+85,acemiz -mr tablet,Acimol MR 100mg/325mg/250mg Tablet,Kapinac CZ Tablet,Zoceclo MR 100mg/325mg/250mg Tablet,Clanac MR Tablet,Acelyn MR 100mg/325mg/250mg Tablet,Nausea,Vomiting,Heartburn
+86,akurit 4 tablet,MONITOR 4 TABLET,Trac 4 Tablet,Coxcure 4 Tablet,Mycurit 4 mg Tablet,Vicox 4 Tablet,Nausea,Vomiting,Rash
+87,aerocort inhaler,,,,,,Hoarseness of voice,Headache,Dizziness
+88,adaferin gel,Alene Gel,Adaple 0.1% Gel,Acfree Gel,Vandep 0.1% Gel,Admark Gel,Erythema (skin redness),Dry skin,Skin peeling
+89,acivir 400 dt tablet,Acivex 400mg Tablet DT,Zoylex 400mg Tablet DT,Acloriv 400mg Tablet DT,Docvir 400mg Tablet DT,Zoster 400mg Tablet DT,Headache,Dizziness,Vomiting
+90,aptimust syrup,Actizer Syrup,Pepcip Syrup,Cycoline Syrup,Yopon  Syrup,Oditril Syrup,Constipation,Dryness in mouth,Drowsiness
+91,augmentin 1000 duo tablet,Moxikind-CV 1gm Tablet,Acuclav 1000mg Tablet,Mega-CV Duo 875mg/125mg Tablet,Bactoclav 875 mg/125 mg Tablet,Lmx Forte 875mg/125mg Tablet,Vomiting,Nausea,Diarrhea
+92,ambrodil syrup,Ambril Syrup,Respolite Syrup,Ambrolene Syrup,Revibrox Plus 30mg/5ml Syrup,Cofnil AM 30mg Syrup,Vomiting,Nausea,Upset stomach
+93,acogut tablet,Actapro Tablet,Dycotiam Tablet,Tocamide Tablet,Actapro Tablet,Acotrust  Tablet,Headache,Diarrhea,
+94,atarax drops,,,,,,Sedation,Nausea,Vomiting
+95,amlip 5 tablet,Amset 5mg Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Camlodip 5mg Tablet,Headache,Fatigue,Nausea
+96,antid 300mcg/ml injection,,,,,,Fever,Headache,Injection site tenderness
+97,alerid syrup,Cetrilix 5mg Syrup,Cetmac 5mg/5ml Syrup,Ralcet 5mg/5ml Syrup,Mast 1 Syrup,Ezin Syrup,Nausea,Headache,Muscle pain
+98,aldactone 50 tablet,Spilactone 50mg Tablet,Spirix 50 Tablet,Spirolact 50mg Tablet,Edeflow 50 Tablet,Aldotone 50mg Tablet,Nausea,Vomiting,Leg cramps
+99,ampoxin 500 capsule,Baciclox Plus Capsule,Cilclox 250mg/250mg Capsule,Dynacil Plus 250mg/250mg Capsule,Mivon 250mg/250mg Capsule,AROCLOX 250MG/250MG CAPSULE,Allergic reaction,Rash,Stomach pain
+100,azee 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+101,alerid tablet,Cetral O 10mg Tablet,Dio 1 10mg Tablet,Leecet Tablet,CTZ Tablet,Cetcip Tablet,Sleepiness,Dizziness,
+102,augmentin 375 tablet,Moxiforce-CV 375 Tablet,Moxikind-CV 375 Tablet,Flemiclav 375 Tablet,Erox CV 250mg/125mg Tablet,Mega-CV 375 Tablet,Vomiting,Nausea,Diarrhea
+103,acenac-p  tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+104,acivir cream,Setuvir Cream,Herpesafe Cream,Zoster Cream,Zovistar Cream,Aciherpin Cream,"Application site reactions (burning, irritation, itching and redness)",,
+105,ab-flo capsule,Broncocet ACB Capsule,Broncofil 100mg Capsule,Bronet 100mg Capsule,Axeldox 100 Capsule,Ambrodil-XP Capsule,Nausea,Headache,Vomiting
+106,ab phylline n tablet,Oxydex Tablet,Pulmotol Tablet,Amucoe Nac Tablet,Aphyren-N Tablet,Asmasafe-N Tablet,Vomiting,Heartburn,Stomach pain
+107,amifru 40 tablet,Frumide 40 mg/5 mg Tablet,Frumil Tablet,LASIRIDE 40MG/5MG TABLET,FRUMIDE 40MG/5MG TABLET,Exna K 40 mg/5 mg Tablet,Nausea,Vomiting,Diarrhea
+108,avamys nasal spray,,,,,,Nasal inflammation,Headache,Nosebleeds
+109,alkasol oral solution sugar free,Uridol Oral Solution,,,,,Stomach pain,Tiredness,Diarrhea
+110,aciloc 300 tablet,Gertac 300mg Tablet,Rancer 300mg Tablet,Zantid 300mg Tablet,Zynol 300mg Tablet,Rdin 300mg Tablet,Headache,Diarrhea,Gastrointestinal disturbance
+111,aziderm 20% cream,Azecne Cream,Azac 20% Cream,Exazel 20% Cream,Dermac 20% Cream,Azecare 20 Cream,"Application site reactions (burning, irritation, itching and redness)",,
+112,ace proxyvon tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+113,avil injection,Nicophen 22.75mg Injection,Instavil 22.75mg Injection,Eurovil 22.75mg Injection,Kayphen 22.75mg Injection,,Sleepiness,Dryness in mouth,
+114,ano metrogyl cream,Sucross Ano Cream,Elfate-LM Rectal Cream,Anosum Cream,Pileclear S Cream,Surect Cream,Burning sensation,Tingling,Rash
+115,admenta 5 tablet,DavaIndia Memantine 5mg Tablet,Almantin 5mg Tablet,Mentra 5mg Tablet,Mentadem 5mg Tablet,Memantal 5mg Tablet,Dizziness,Headache,Confusion
+116,aceclo-mr tablet,Vetory MX Tablet,Dolostat MR 100 mg/325 mg/500 mg Tablet,Arflur-MR Tablet,Nacease MR 100mg/325mg/500mg Tablet,Clorace-MR Tablet,Nausea,Vomiting,Heartburn
+117,alerid-d tablet,Cezor Plus 5mg/10mg Tablet,Zyncet-D Tablet,,,,Dryness in mouth,Headache,Vomiting
+118,acemiz-s tablet,Vetory SP Tablet,Ibugesic ASP Tablet,Dolokind AA Tablet,Anaflam Xps  Tablet,Buta Proxyvon SP Tablet,Nausea,Vomiting,Stomach pain
+119,allercet-dc tablet,Rycez D 10mg/10mg Tablet,Lemoson 10 mg/10 mg Tablet,Rhinocet D Tablet,Lwin DC 10mg/10mg Tablet,Hicet-DC Tablet,Dryness in mouth,Headache,Vomiting
+120,aztolet  10 tablet,Lipiloss CV 10mg/75mg Tablet,Dualclop 10mg/75mg Tablet,Gamator C 10mg/75mg Tablet,Atetor C 10mg/75mg Tablet,Nasclo AT 10mg/75mg Tablet,Stomach pain,Diarrhea,Indigestion
+121,augmentin 1.2gm injection,Amoluck Injection,Aoxy-CV 1.2gm Injection,Blumox-CA 1.2gm Injection,Moxfit CV 1000mg/200mg Powder for Injection,Relin 1000mg/200mg Injection,Vomiting,Nausea,Diarrhea
+122,ambrodil-plus rf syrup,,,,,,Nausea,Stomach discomfort,Sleepiness
+123,amlopres-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+124,ajaduo 25mg/5mg tablet,Glyxambi 25mg/5mg Tablet,Tiptengio 25mg/5mg Tablet,Xilingio 25mg/5mg Tablet,,,Hypoglycemia (low blood glucose level),Cough,Nasopharyngitis (inflammation of the throat and nasal passages)
+125,avanair 100 tablet,Avanext 100mg Tablet,,,,,Headache,"Flushing (sense of warmth in the face, ears, neck and trunk)",Nasal congestion (stuffy nose)
+126,acton-or tablet sr,Xtpara Tablet SR,Parvon 1000 SR Tablet,Instaflex P Tablet SR,Para 1000-SR Tablet,PA 12 Tablet SR,No common side effects seen,,
+127,aquazide 12.5 tablet,DavaIndia Hydrochlorothiazide 12.5mg Tablet,Xenia 12.5mg Tablet,Thiazide 12.5mg Tablet,Bpzide 12.5mg Tablet,Dizide 12.5mg Tablet,Headache,Nausea,Altered blood lipid level
+128,alaspan am tablet,Loridin AM Tablet,Alastin AM Tablet,CLARIDIN AM TABLET,Lorpd AM 60mg/5mg Tablet,Lorich-AM Tablet,Upset stomach,Headache,Sleepiness
+129,althrocin 250 tablet,Agrocin 250mg Tablet,Eryster 250mg Tablet,Erythrokem 250mg Tablet,Erythrotone 250mg Tablet,E Mycin 250mg Tablet,Vomiting,Nausea,Abdominal pain
+130,azikem 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+131,aldosmin 500mg tablet,Venostor 500 Tablet,Daflon 500 MG Tablet,Veinmax Tablet,,,Diarrhea,Dizziness,Hives
+132,amlovas 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+133,acitrom 1 tablet,Nistrom 1mg Tablet,Nicoz 1mg Tablet,Acimalone 1 Tablet,Acethromb 1mg Tablet,Cenorol 1mg Tablet,Hemorrhage,,
+134,af 150 tablet dt,Flika 150mg Tablet DT,Flutican 150mg Tablet DT,Fluco 150mg Tablet DT,Cone 150mg Tablet DT,,Headache,Nausea,Stomach pain
+135,ascoril sf expectorant,Eascof  Expectorant,Ventoranz Cough Expectorant,Eledyl SF Expectorant,Asthakind Expectorant Sugar Free,Asthakind Expectorant Sugar Free,Nausea,Diarrhea,Bloating
+136,amaryl m  1mg tablet pr,Glyzee M1 PR Tablet,Glimestar-M 1 Tablet PR,Metride 1 Tablet PR,Diapride M1 Tablet PR,Glycomet-GP 1 Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+137,azithral xl 200 liquid,Zythro 200mg Oral Suspension,Azimox 200mg Oral Suspension,Azimcin 200mg Oral Suspension,Uber 200 Oral Suspension,Aziitech 200mg Oral Suspension,Vomiting,Nausea,Abdominal pain
+138,af 400 tablet,Q Can 400mg Tablet,Force 400 Tablet,Fole 400mg Tablet,Fazol 400mg Tablet,Flucus 400mg Tablet,Headache,Nausea,Stomach pain
+139,amantrel tablet,Comantrel-T Tablet,Manotrel 100mg Tablet,Amantex Tablet,Parkitidin Tablet,,Nausea,Dryness in mouth,Constipation
+140,atorva 20 tablet,Atchol 20 Tablet,Lipikind 20 Tablet,Atorace 20 Tablet,Zivast 20 Tablet,Lipvas 20 Tablet,Dyspepsia,Abdominal pain,Indigestion
+141,acenac-mr tablet,Thioford AP Tablet,Bakwel-AP Tablet,Fense TH Tablet,Anaflam TH  4  Tablet,Thio-Seradic Tablet,Nausea,Vomiting,Heartburn
+142,ambrolite-s expectorant,Kouf-X Expectorant Mixed Fruit Sugar Free,,,,,Nausea,Diarrhea,Vomiting
+143,asthalin 4 tablet,Salmaplon 4mg Tablet,Salbetol 4mg Tablet,Sal 4mg Tablet,Salcen 4mg Tablet,Avihist 4mg Tablet,Tremors,Headache,Palpitations
+144,abiways tablet,Oxydex Tablet,Amucoe Nac Tablet,Aphyren-N Tablet,Asmasafe-N Tablet,Effenac AB Tablet,Vomiting,Heartburn,Stomach pain
+145,amaryl m  2mg tablet pr,Glimiprex MF 2/500 Tablet PR,Glimestar-M 2 Tablet PR,Metride 2 Tablet PR,Geminor M 2 Tablet PR,Exermet GM 502 Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+146,azoran tablet,Transimune 50mg Tablet,Azap 50 Tablet,Zesoris-AZ 50mg Tablet,Autorin 50mg Tablet,Azawan Tablet,Decreased white blood cell count,Increased bleeding tendency,Nausea
+147,ampilox capsule,Ampoxid 250 mg/250 mg Capsule,Versatillin DC 250 mg/250 mg Capsule,Baxin D 250 mg/250 mg Capsule,Rampiclix 250mg/250mg Capsule,Broadiclox Novo 500 mg Capsule,Rash,Vomiting,Allergic reaction
+148,adrenaline tartrate injection,Enatrate Injection,Adrelin Injection,,,,Headache,Palpitations,Tremors
+149,acogut 300 er tablet,Acotop 300mg Tablet ER,Dycotiam SR 300mg Tablet,Orgamide 300mg Tablet ER,Actapro OD Tablet,Acotrust  OD 300mg Tablet ER,Headache,Diarrhea,
+150,acuvin tablet,Tolydol Tablet,PT 325mg/37.5mg Tablet,Calpol T  Tablet,Dolonat Tablet,Ultramol 325 mg/37.5 mg Tablet,Nausea,Vomiting,Constipation
+151,ab-flo sr tablet,Venphylin-SR Tablet,Uliphyalline 200 SR Tablet,Asmasafe 200mg Tablet SR,Acethama 200 SR Tablet,Abiways 200 SR Tablet,Nausea,Headache,Vomiting
+152,air-m tablet,Emlukast-FX Tablet,LCFEX-Mont Tablet,Fixar 10mg/120mg Tablet,Histakind-M Tablet,Histafree-M Tablet,Nausea,Diarrhea,Vomiting
+153,atorlip-f tablet,Atortrue F 10mg/145mg Tablet,Bettor Plus Tablet,Medistatin F 10mg/145mg Tablet,Fenovast 10mg/145mg Tablet,Atoor F 10mg/145mg Tablet,Nausea,Stomach pain,Constipation
+154,advent forte 457mg syrup tangy orange,Cynoclav DS Syrup,Amoxyclav DS Syrup,Satclav DS Syrup,Amoclave  DS  Syrup,Semox CV Forte Syrup,Nausea,Vomiting,Abdominal pain
+155,amlodac 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+156,aztor 40 tablet,Atorless 40mg Tablet,Atchol 40 Tablet,Lipikind 40 Tablet,Atorsave 40 Tablet,Atorfit 40 Tablet,Dyspepsia,Abdominal pain,Indigestion
+157,ascoril plus expectorant,Megaril Expectorant,Pulmo Rest S Expectorant,Respidac TBG Expectorant,Pedicute-A Expectorant,Sudin-EX Expectorant,Nausea,Indigestion,Bloating
+158,alupent 10mg tablet,Orcibest Tablet,,,,,Tremors,Headache,Restlessness
+159,amlip at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Check AT Tablet,Sleepiness,Headache,Ankle swelling
+160,asthakind-p drops,Afrodyl Oral Drops,Meddryl Oral Drops,Vizcof-AX Oral Drops,Amrox GT Oral Drops,Posthma-X Oral Drops,Excessive salivation,Fatigue,Paresthesia (tingling or pricking sensation)
+161,allegra nasal spray,Isomet-F Nasal Spray,Sinospray-FT Nasal Spray,Spiroflut Nasal Spray,Spiroflut Nasal Spray,Ryno Nasal Spray,Nasal inflammation,Headache,Nosebleeds
+162,addnok 0.2mg tablet,Tidigesic 0.2mg Tablet,Buprocare 0.2mg Tablet,,,,Weakness,Drug withdrawal syndrome,Anxiety
+163,aldosmin 1000mg tablet,Samflav 900mg/100mg Tablet,Daflon 1000mg Tablet,Daflon 1000mg Tablet,Dezoflav Tablet,,Diarrhea,Dizziness,Hives
+164,andre i-kul eye drop,Eyce Eye Drop,Kono-CP Eye Drop,Recool Eye Drop,Cooleye Eye Drop,Relax Plus Eye Drop,Eye pain,Eye irritation,Stinging in the eyes
+165,antiflu 75mg capsule,Oselet 75mg Capsule,Mcosvir 75mg Capsule,Starflu 75mg Capsule,Osiflu 75 Capsule,Oselow 75 Capsule,Nausea,Vomiting,Abdominal pain
+166,alerfix total tablet sr,Trikast Tablet SR,Levotac-Max Tablet SR,Monexia AL 75mg/5mg/10mg Tablet SR,Monticope-A Tablet SR,Albicet AM Plus 75mg/5mg/10mg Tablet SR,Nausea,Upset stomach,Dryness in mouth
+167,alex-l cough syrup mango,Zerotuss Oral Suspension,Kofdip Oral Suspension Mango,Coff-Tuss Oral Suspension Mango,Zerotuss Oral Suspension Sugar Free,Lecofil LC Oral Suspension Delicious Mango,Nausea,Drowsiness,Dizziness
+168,atropine sulphate injection,Atropa 0.6mg Injection,Atronex 0.6mg Injection,Atromac 0.6mg Injection,Atrowok 0.6mg Injection,Atrofine 0.6mg Injection,Injection site pain,,
+169,aquaviron injection 1ml,,,,,,"Injection site reactions (pain, swelling, redness)",Acne,Voice change
+170,aciclovir 400 tablet,Norbita 400mg Tablet,Axovir 400mg Tablet,Cyclopiz 400mg Tablet,Aciv 400mg Tablet,Vircyclo 400mg Tablet,Headache,Dizziness,Vomiting
+171,alkof dx syrup,Terlin DM Syrup,Leerex-DX Syrup,Cofrex-DX Syrup,EL Tuss Syrup,Riacof Kid Syrup,Upset stomach,Sleepiness,
+172,atm 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+173,assurans tablet,Sildaflow 20mg Tablet,Pulmoday 20mg Tablet,PAH 20 Tablet,Esylnafil 20mg Tablet,Penegra Pah Tablet,"Flushing (sense of warmth in the face, ears, neck and trunk)",Headache,Stiffness
+174,ambrolite d syrup,Respicure-D Syrup,Chericof Syrup,Respicure-D Syrup,Ataqued Syrup,Ascoril D Junior Cough Syrup,Nausea,Vomiting,Loss of appetite
+175,actrapid hm 100iu/ml penfill,Wosulin-R DispoPen,Lupisulin R 100IU/ml Cartridge,Insuman Rapid 100IU/ml Solution for Injection,Actrapid 100IU/ml Solution for Injection,Huminsulin R 100IU Cartridge,Hypoglycemia (low blood glucose level),Weight gain,Edema (swelling)
+176,aten 50 tablet,Ziblok 50 Tablet,Ozoten 50mg Tablet,Hipres 50 Tablet,Obeta 50mg Tablet,Anol 50mg Tablet,Cold extremities,Fatigue,Slow heart rate
+177,azmarda 100mg tablet,Sacutan 100 Tablet,Sacurise 100 Tablet,Arney 100 Tablet,Arnicor 100 Tablet,Sacumada 100 Tablet,Dizziness,Increased potassium level in blood,Fatigue
+178,asthalin ax syrup,Solvin LS Syrup,Ambrodil-LX Syrup,Zerotuss XP Syrup,Capex LS Syrup,Broxum LS Syrup,Nausea,Vomiting,Diarrhea
+179,alzolam 0.5mg tablet,Alprasafe 0.5mg Tablet,Alparazole 0.5mg Tablet,Alprazol 0.5mg Tablet,Texidep 0.5mg Tablet,Zolipax 0.5mg Tablet,Lightheadedness,Drowsiness,
+180,a kare combipack,Mifeprin 200 mg/200 mcg Kit,Mifebax Kit,Contra Kit,Herwont Kit,Insta Kit,Nausea,Vomiting,Diarrhea
+181,ambulax tablet,Alltop P 0.25mg/20mg Tablet,Cardilax 0.25mg/20mg Tablet,Beloc Plus 0.25mg/20mg Tablet,Proprazolam 0.25 mg/20 mg Tablet,Zepro 0.25mg/20mg Tablet,Confusion,Drowsiness,Memory impairment
+182,amlovas-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amdepin-AT Tablet,Check AT Tablet,Sleepiness,Headache,Ankle swelling
+183,asthakind-dx junior syrup cherry,Cozymin-DX Junior RF Syrup,Chericof Junior Syrup,Agelite-D Junior Syrup,,,Nausea,Vomiting,Loss of appetite
+184,advent 228.5mg dry syrup,Sarimox-CV Dry Syrup,August Dry Syrup,Oximox XL Dry Syrup,Augwin Dry Syrup,Lymonk CV Dry Syrup,Nausea,Vomiting,Abdominal pain
+185,acivir 800 dt tablet,DavaIndia Acyclovir 800mg Tablet DT,Ospivir Tablet DT,HERPESAFE 800MG TABLET DT,Clovirax 800mg Tablet DT,Avir 800mg Tablet DT,Headache,Dizziness,Vomiting
+186,alfusin tablet pr,DavaIndia Alfuzosin 10mg Tablet PR,Alfucal 10mg Tablet PR,Alfugress Tablet PR,Emzosin Tablet PR,Zyalfa Tablet PR,Upper respiratory tract infection,Dizziness,Headache
+187,aziwok 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Cazithro 500mg Tablet,Trulimax 500mg Tablet,Vomiting,Nausea,Abdominal pain
+188,alkacitral liquid,Nisalka 1.25gm/5ml Syrup,Dicital 1.25gm Syrup,Citalka 1.25gm/5ml Syrup,Alkadin 1.25gm Syrup,Tradium Syrup,Stomach pain,Tiredness,Diarrhea
+189,almox-cv 625 tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+190,azithral 100 liquid,AZ3 100 Liquid,,,,,Vomiting,Nausea,Abdominal pain
+191,azee 100mg dry syrup peppermint,Azicor 100mg/5ml Suspension,Corzi 100mg/5ml Suspension,Azitras 100mg/5ml Suspension,Zithrolect 100mg/5ml Suspension,Aziagio 100mg/5ml Suspension,Vomiting,Nausea,Abdominal pain
+192,ace-proxyvon cr tablet,,,,,,Nausea,Flatulence,Indigestion
+193,ascoril c  syrup,Cosome Lcd 4 mg/10 mg Syrup,Histolate Syrup,Codine  4 mg/10 mg Syrup,Indikof C Syrup,Comtus DX Syrup,Nausea,Vomiting,Constipation
+194,aprezo 30mg tablet,Apremist 30mg Tablet,Aplex 30mg Tablet,Aprotyl 30mg Tablet,Mprila Tablet,Pdlast Tablet,Diarrhea,Nausea,Vomiting
+195,apidra 100iu cartridge,Apidra 100IU/ml Solution for Injection,,,,,Hypoglycemia (low blood glucose level),Nasopharyngitis (inflammation of the throat and nasal passages),Upper respiratory tract infection
+196,amlosafe 3d tablet,Telmiride Amh Tablet,Telmikaa AMH Tablet,Amodep-TMH Tablet,Telmikind-AMH Tablet,Telvas 3D Tablet,Ankle swelling,Dizziness,Nausea
+197,andial 2mg tablet,Tropamide 2mg Tablet,Lopramide 2mg Tablet,Lopidus Tablet,Lopipen 2mg Tablet,Rokamide 2mg Tablet,Constipation,Nausea,Headache
+198,acenext p 100mg/325mg tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+199,acnesol a nano gel,Alight Plus Gel 15gm for Acne Treatment,Nayzit Gel,Cutiwel Gel,Nioclean AD Gel,Acnicin Gel,Skin peeling,Erythema (skin redness),Itching
+200,ascoril flu syrup,Histacare Syrup,Zincold PD Syrup,Noblok-AF Syrup,Welminic Syrup Gluten Free,Solvin Cold AF Syrup,Vomiting,Headache,Restlessness
+201,asomex 2.5 tablet,S-Amcard 2.5 Tablet,Amlocard-S 2.5 Tablet,Big Dvr 2.5mg Tablet,Amlovas S 2.5mg Tablet,S-Amleod 2.5 Tablet,Ankle swelling,Dizziness,Fatigue
+202,angiplat 2.5 capsule tr,Angistat 2.5 Capsule TR,Vasovin - XL 2.5 Capsule,Angispan - TR 2.5mg Capsule,,,Blurred vision,Decreased blood pressure,Dizziness
+203,alkof cofgel  tablet,Cofcad DL Tablet,Mericof Tablet,Coughrest Tablet,,,Nausea,Diarrhea,Stomach pain
+204,azithral 250mg dt tablet,3A 250mg Tablet DT,Elzee 250mg Tablet DT,Azilide 250mg Tablet DT,Azix 250mg Tablet DT,Azbact 250mg Tablet DT,Vomiting,Nausea,Abdominal pain
+205,alzolam 0.25mg tablet,Alltop 0.25mg Tablet,Alprasafe 0.25mg Tablet,Nindra 0.25mg Tablet,Alora 0.25mg Tablet,Exal 0.25mg Tablet,Lightheadedness,Drowsiness,
+206,advent 625 tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+207,alsita m 50mg/500mg tablet,Istamet 50mg/500mg Tablet,Sitanorm M 50mg/500mg Tablet,Sitara-M IR 50/500 Tablet,Sitaglyn M IR 50/500 Tablet,Sitenali M 50mg/500mg Tablet,Hypoglycemia (low blood glucose level),Nausea,Vomiting
+208,axogurd-sr tablet,Mahagaba-M OD Tablet SR,Nervijen-P SR Tablet,Axinerve-P Tablet SR,Gabasafe Plus  SR 75 Tablet,Revlin M Tablet SR,Dizziness,Sleepiness,Tiredness
+209,azoflox uti tablet,Uribolt-O Tablet,Urisort O 200mg/200mg Tablet,Contixate O 200mg/200mg Tablet,Flavrow-O Tablet,Incio-FX Tablet,Nausea,Vomiting,Stomach pain
+210,azulix 2 mf tablet pr,Glimiprex MF 2/500 Tablet PR,Euglim-M 2 Tablet PR,Glimestar-M 2 Tablet PR,Metride 2 Tablet PR,Geminor M 2 Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+211,amaryl mv 2mg tablet sr,Voglimet-Gm Tablet SR,Starvog GM 2 Tablet SR,Metsmall GV 2 Tablet SR,Voglibite-GM 2 Tablet SR,Glyciphage-VG2 Tablet SR,Nausea,Diarrhea,Abdominal pain
+212,azulix 1 mf tablet pr,Glimestar-M 1 Tablet PR,Metride 1 Tablet PR,Diapride M1 Tablet PR,Glycomet-GP 1 Tablet PR,Geminor M 1 Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+213,aten 25 tablet,Ziblok 25 Tablet,Stanol 25mg Tablet,Lonol 25mg Tablet,Temin 25mg Tablet,Hipres 25 Tablet,Cold extremities,Fatigue,Slow heart rate
+214,azibact 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Cazithro 500mg Tablet,Trulimax 500mg Tablet,Vomiting,Nausea,Abdominal pain
+215,amlopres tl tablet,Newtel-AM Tablet,Telmikind-AM Tablet,Tytan-AM Tablet,Telvas-AM Tablet,Telmital-A Tablet,Sleepiness,Ankle swelling,Headache
+216,ambrolite syrup,Ambril Syrup,Respolite Syrup,Ambrolene Syrup,Revibrox Plus 30mg/5ml Syrup,Cofnil AM 30mg Syrup,Vomiting,Nausea,Upset stomach
+217,actapro tablet,Acosat 100mg Tablet,Dycotiam Tablet,Tocamide Tablet,Acogut Tablet,Acotrust  Tablet,Headache,Diarrhea,
+218,aztor 20 tablet,Atchol 20 Tablet,Lipikind 20 Tablet,Atorace 20 Tablet,Zivast 20 Tablet,Lipvas 20 Tablet,Dyspepsia,Abdominal pain,Indigestion
+219,alkof syrup,Nanokof Syrup,Chupp LS Syrup,Lecof Junior Syrup,Agikuff Syrup,Libitus Plus Syrup,Nausea,Diarrhea,Bloating
+220,atorfit cv 10 capsule,Lipikind CV 10mg/75mg Capsule,Atchol CV Capsule,Astin CV 10 Capsule,Avas CV 10 Capsule,Lipitab CV 10mg/75mg Capsule,Stomach pain,Diarrhea,Indigestion
+221,acnesol gel,Acneclin Gel,Clinof Gel,Clincitop Gel,Aclind Gel,Clindamycin Phosphate Gel,"Application site reactions (burning, irritation, itching and redness)",Skin rash,Stomach pain
+222,amtas 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+223,alrgee 120mg tablet,Lcfex Tablet,Etofex 120mg Tablet,Nexofex 120mg Tablet,Fexise 120mg Tablet,Histafree 120 Tablet,Headache,Drowsiness,Dizziness
+224,avil 50mg tablet,Eralet 50mg Tablet,,,,,Sleepiness,Dryness in mouth,
+225,arip mt 5 tablet,Aritab 5mg Tablet,Arip 5mg Tablet,Aripiren 5mg Tablet,Ripramat 5 Tablet,Nulet 5 Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+226,alivher tablet,Silagra 25 Tablet,Optithik 25mg Tablet,Shefill Tablet,Ethic 25mg Tablet,Endowal-S Tablet,"Flushing (sense of warmth in the face, ears, neck and trunk)",Headache,Stiffness
+227,apdrops lp  eye drop bak free,Lotesol-M Eye Drop,Mostika-LP Eye Drop,Moxicule-LP Eye Drop,Kitmox-LD  Opthalmic Suspension,Moxitak LP Eye Drop,Eye irritation,Eye discomfort,
+228,amrox-ls syrup,Acticuf Expectorant,Pulmorest LS Expectorant,Coriminic LS Syrup,Pulmorest LS Expectorant Sugar Free,Dilo-LS Syrup,Nausea,Vomiting,Diarrhea
+229,altonil 3mg tablet,Somelin 3mg Tablet,Melokalm Tablet,Mtonin 3mg Tablet,Meladate Tablet,Melanew 3mg Tablet,Headache,Drowsiness,
+230,allercet cold tablet,Okacet Total 5 mg/10 mg/500 mg Tablet,Vinkold Tablet,Levorhine Cold 5mg/10mg/500mg Tablet,Cezarest-D Tablet,Phenicold Tablet,Vomiting,Dryness in mouth,Headache
+231,atorlip 10 tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,CAAT 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+232,admenta 10 tablet,Mentra 10mg Tablet,Admitine 10mg Tablet,Memantal 10mg Tablet,Lemix 10mg Tablet,Menata 10 Tablet,Dizziness,Headache,Confusion
+233,amox 500mg capsule,Tormoxin 500mg Capsule,Cipmox 500 Capsule,Tidoxyl 500mg Capsule,Actimox 500mg Capsule,SB Mox 500mg Capsule,Rash,Vomiting,Allergic reaction
+234,azee 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+235,asthalin respirator solution,Derihaler 5mg Solution,Salbair Resp 5mg Solution,,,,Tachycardia,Tremors,Headache
+236,add tears lubricant eye drop,Wat-R Eye Drop,Just Tears Eye Drop,Takfresh Eye Drop,Misty Eye Drop,Relub Eye Drop,Eye irritation,Burning eyes,Eye discomfort
+237,almox 250 capsule,Amoxipen 250mg Capsule,Hipen A 250mg Capsule,Moxipal 250mg Capsule,Amoxil 250mg Capsule,Moxikem 250mg Capsule,Rash,Vomiting,Allergic reaction
+238,aztor asp 75 capsule,Liponorm-Asp Capsule,Zivast ASP 10 Capsule,Atchol-ASP Capsule,Lipicure-AS 75 Capsule,Atorlip-ASP 10 Capsule,Abdominal pain,Constipation,Flatulence
+239,alkacip syrup,Alkapil Syrup,Q Citra 1.53gm/5ml Syrup,Oneston 1.53gm/5ml Syrup,Urogard Urogard-SF Syrup Sugar Free,Citrolac 1.53gm Syrup,Stomach pain,Tiredness,Diarrhea
+240,arbitel-trio 50 tablet er,Telmik-Trio 50 Tablet ER,Teldawn LNB 10mg/50mg/40mg Tablet ER,Metolar Trio 50 Tablet ER,Cetanil-TM 50 Tablet ER,Telma LNB 10mg/50mg/40mg Tablet ER,Nausea,Taste change,Constipation
+241,acivir 200 dt tablet,Okavir 200mg Tablet DT,Acicet 200mg Tablet DT,Zoylex DT Tablet,Acloriv 200mg Tablet DT,Acipox 200mg Tablet DT,Headache,Dizziness,Vomiting
+242,augmentin es oral suspension,,,,,,Vomiting,Nausea,Diarrhea
+243,amrolstar cream,Amrosys Cream,Amrfy XL 0.25% Cream,Amrosys Cream,Amrobest Cream,Amtris Cream,Blisters on skin,Nail disorder,Skin irritation
+244,adalene nanogel gel,Alight Plus Gel 15gm for Acne Treatment,Nayzit Gel,Cutiwel Gel,Nioclean AD Gel,Acnesol A Nano Gel,Skin peeling,Erythema (skin redness),Itching
+245,apigat 2.5 tablet,Cadiquis 2.5mg Tablet,Apixapil 2.5mg Tablet,Apiquis 2.5 Tablet,Prepixa 2.5 Tablet,Apixagress 2.5mg Tablet,Anemia (low number of red blood cells),Blood in urine,Bruise
+246,aeromont-b tablet,Drownil M Tablet,Bilatis M 20mg/10mg Tablet,Maxstine M 20mg/10mg Tablet,Bilkwik M Tablet,Bilajoy-M Tablet,Limited data available,,
+247,amlopres 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+248,abevia-n tablet,Oxydex Tablet,Amucoe Nac Tablet,Aphyren-N Tablet,Asmasafe-N Tablet,Effenac AB Tablet,Vomiting,Heartburn,Stomach pain
+249,acamprol tablet,Alcocel 333mg Tablet,Duacam 333mg Tablet,Acmacal 333mg Tablet,Sanprol 333mg Tablet,Acmanet 333mg Tablet,Diarrhea,Abdominal pain,Nausea
+250,ancool  oral suspension sugar free,,,,,,Diarrhea,Constipation,Allergic reaction
+251,atormac cv10 capsule,Lipikind CV 10mg/75mg Capsule,Starclop-AV 10 Capsule,Atchol CV Capsule,Astin CV 10 Capsule,Avas CV 10 Capsule,Stomach pain,Diarrhea,Indigestion
+252,apdrops pd eye drop,Stemox PD Eye Drop,4 Quin PD Eye Drop,Tagamox MF Eye Drop,Chhezmox Eye Drop,Selmox P Eye Drop,Eye irritation,Eye discomfort,Blurred vision
+253,amnurite  10 tablet sr,Micobal-A Tablet SR,Amnuring 10 Tablet SR,,,,Constipation,Difficulty in urination,Weight gain
+254,atonide gel,Proceroid D Gel,Dadgel 0.05% Gel,,,,"Application site reactions (burning, irritation, itching and redness)",Rash,
+255,amlong-a tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+256,acivir 500 infusion,Torvir 500 Infusion,Vircilon 500 Infusion,,,,Vomiting,Nausea,Injection site reaction
+257,af-k lotion,Ketostar Anti Dandruff Lotion,Konaz ZP Lotion,Nuforce Anti Dandruff Lotion,Dencross Scalp Lotion,Odicon- K Lotion,"Application site reactions (burning, irritation, itching and redness)",,
+258,amoxyclav 375 tablet,Moxiforce-CV 375 Tablet,Moxikind-CV 375 Tablet,Flemiclav 375 Tablet,Erox CV 250mg/125mg Tablet,Mega-CV 375 Tablet,Vomiting,Nausea,Diarrhea
+259,abd 400mg tablet,Olworm 400mg Tablet,Zeebee Tablet,Zybend Tablet,Albekem 400mg Tablet,Sezole 400mg Tablet,Vomiting,Dizziness,Increased liver enzymes
+260,amlong 2.5 tablet,Amvasc 2.5mg Tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlokind 2.5 Tablet,Amlip 2.5 Tablet,Headache,Fatigue,Nausea
+261,alburel 20gm solution for infusion,Albudac 20% Injection,Albudac 20% Injection,Albutas 20% Injection,Alburen 20% Solution for Infusion,Albuprime Injection,Vomiting,"Flushing (sense of warmth in the face, ears, neck and trunk)",Fever
+262,anacin tablet,Action 50mg/500mg Tablet,Stopache Tablet,Parcaff 50mg/500mg Tablet,,,Insomnia (difficulty in sleeping),Nervousness,Irritation
+263,azithro 250mg tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+264,azimax 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+265,amlosafe-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+266,air 180 tablet,Lcfex 180 Tablet,Fexofen 180mg Tablet,Histafree 180 Tablet,Fexert 180mg Tablet,Fexolife 180 Tablet,Headache,Drowsiness,Dizziness
+267,adilip 135 tablet dr,,,,,,Abdominal pain,Nausea,Vomiting
+268,apdrops eye drop,Moxiford Eye Drop,Imf Eye Drop,Mosi Eye Drop,Moxiblu Eye Drop,Occumox Eye Drop,Eye discomfort,Dry eye,Burning sensation in eye
+269,amlosafe 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+270,apigat 5 tablet,Cadiquis 5mg Tablet,Apixator 5 Tablet,Apiban 5mg Tablet,Apiquis 5 Tablet,Pixaflo 5 Tablet,Anemia (low number of red blood cells),Blood in urine,Bruise
+271,amlogard 5mg tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+272,amaryl mv 1mg tablet sr,Starvog GM 1 Tablet SR,Voglibite-GM 1 Tablet SR,Glyciphage-VG1 Tablet SR,Trimegavog 1 Tablet SR,Glimisave MV 1 Tablet SR,Nausea,Diarrhea,Abdominal pain
+273,azee 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Cazithro 500mg Tablet,Trulimax 500mg Tablet,Vomiting,Nausea,Abdominal pain
+274,alergin l tablet,L Dio 1 Tablet,Lecope Tablet,LCZ Tablet,1-AL Tablet,L Hist Tablet,Sleepiness,Fatigue,Dryness in mouth
+275,aciloc injection,Ozotac 25mg Injection,Nicotac 25mg Injection,Aztec 25mg Injection,Lantac 25mg Injection,Monoloc 25mg Injection,Headache,Diarrhea,Gastrointestinal disturbance
+276,alex p syrup,Adlemef P Syrup,Loract D Syrup,Zovicold Syrup,Kolq-C Plus Syrup,Zylep C Syrup,Nausea,Headache,Tachycardia
+277,azr tablet,Transimune 50mg Tablet,Azap 50 Tablet,Zesoris-AZ 50mg Tablet,Autorin 50mg Tablet,Azawan Tablet,Decreased white blood cell count,Increased bleeding tendency,Nausea
+278,angicam-beta tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+279,amicobal 10mg/1500mcg tablet,Tryptobal Tablet,Mecotrip 10mg/1500mcg Tablet,Joycobal AT 10mg/1500mcg Tablet,Triptorain-MC 10 Tablet,,Constipation,Difficulty in urination,Weight gain
+280,actibile 300 tablet,Ursocad 300 Tablet,Fortibile 300 Tablet,Urdiogem 300 Tablet,Sorbidiol 300 Tablet,Ursomax 300 Tablet,Abdominal pain,Diarrhea,Hair loss
+281,ambrolite levo syrup,Solvin LS Syrup,Ambrodil-LX Syrup,Zerotuss XP Syrup,Capex LS Syrup,Broxum LS Syrup,Nausea,Vomiting,Diarrhea
+282,amaryl m forte 2mg tablet pr,Glimiprex MF Forte 2 Tablet PR,Glimestar-M2 Forte Tablet PR,Geminor M2 Forte Tablet PR,Glimisave M2 Forte Tablet PR,Glimisave Max Forte 2 Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+283,acivir cream,Setuvir Cream,Herpesafe Cream,Zoster Cream,Zovistar Cream,Aciherpin Cream,"Application site reactions (burning, irritation, itching and redness)",,
+284,azicip 250 tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Zerox 250 Tablet,Vomiting,Nausea,Abdominal pain
+285,algesia cr 200mg/20mg capsule,Dolostat R 200mg/20mg Capsule,Zelofenac RZ 200mg/20mg Capsule,Anzifen RB 200mg/20mg Capsule,Segonac R 200mg/20mg Capsule,Acriwel R 200mg/20mg Capsule,Nausea,Flatulence,Indigestion
+286,ascoril expectorant,Brorex Plus Expectorant,,,,,Nausea,Vomiting,Diarrhea
+287,atorva 80 tablet,Atorsave 80 Tablet,Jubicad 80mg Tablet,Statix 80mg Tablet,Dispitor 80mg Tablet,Lipisafe 80mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+288,acitrom 4 tablet,Nicoz 4mg Tablet,Acimalone 4 Tablet,Nistrom 4mg Tablet,Acethromb 4mg Tablet,Cenorol 4mg Tablet,Hemorrhage,,
+289,alsita 100mg tablet,Sitabite 100mg Tablet,Sita OD 100mg Tablet,Sitanorm 100mg Tablet,Suitglip 100 Tablet,Istavel 100mg Tablet,Nasopharyngitis (inflammation of the throat and nasal passages),Headache,Hypoglycemia (low blood glucose level)
+290,amnurite  5 mg/1500 mcg tablet,Amitop M 5mg/1500mcg Tablet,Amitop M 5 Tablet,,,,Constipation,Difficulty in urination,Weight gain
+291,airz capsule,,,,,,Runny nose,Sore throat,Upper respiratory tract infection
+292,asomex 5 tablet,S-Amcard 5 Tablet,Amlovas S 5mg Tablet,S-Amleod 5 Tablet,Esamlovin 5mg Tablet,S-Amlode 5mg Tablet,Ankle swelling,Dizziness,Fatigue
+293,axcer  90mg tablet,Tikacad 90 Tablet,Brigrel Tablet,Xygrel 90 Tablet,Ticastro 90 Tablet,Ticavic 90 Tablet,Bleeding,Breathlessness,
+294,anaspas tablet,Dicloran Spas Tablet,NEOFORTAN D TABLET,Avapar Tablet,Spasmonorm Tablet,,Nausea,Vomiting,Heartburn
+295,ascabiol emulsion,Gamanom Emulsion,Hexab Emulsion,,,,"Application site reactions (burning, irritation, itching and redness)",Dry skin,
+296,addwize 10mg tablet,Meth OD 10mg Tablet,Inspiral 10mg Tablet,Ritazral Hynidate 10mg Tablet,Mdet 10mg Tablet,,Headache,Insomnia (difficulty in sleeping),Abdominal pain
+297,ascoril plus expectorant,Megaril Expectorant,Pulmo Rest S Expectorant,Respidac TBG Expectorant,Pedicute-A Expectorant,Sudin-EX Expectorant,Nausea,Indigestion,Bloating
+298,amlong 10 tablet,Aginal 10mg Tablet,Amodep 10mg Tablet,Lupidip 10mg Tablet,Amlokind 10mg Tablet,Amcard 10 Tablet,Headache,Fatigue,Nausea
+299,abd plus tablet,Revzole Plus 6mg/400mg Tablet,Wellbend Plus 6mg/400mg Tablet,Cezole Plus 6mg/400mg Tablet,Al Won Plus 6mg/400mg Tablet,Wormtix 6mg/400mg Tablet,Nausea,Vomiting,Diarrhea
+300,allercet-m tablet,Montina-L Tablet,Lecope-M Tablet,Monticope Tablet,Levocet M Tablet,Ronycold-M Tablet,Nausea,Diarrhea,Dryness in mouth
+301,augpen -ds suspension,Moxclav BD DS 457mg Suspension,Zoxil CV 400mg/5ml/57mg/5ml Suspension,Rzcv Forte Suspension,Princiclav Suspension,Addclav Forte Suspension,Nausea,Vomiting,Abdominal pain
+302,althrocin liquid,Erocyn 125mg Oral Suspension,,,,,Vomiting,Nausea,Abdominal pain
+303,atocor 10 tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,Atorlip 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+304,augpen 625 bid tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+305,atchol-f tablet,Ozovas-F  Tablet,Orvas-FT Tablet,Lipikind-F Tablet,Zivast-F Tablet,Mactor F Tablet,Nausea,Stomach pain,Constipation
+306,alensol-d tablet,Fosabest Tablet,Goldcal Alen 70mg/5600IU Tablet,Forjet Plus Tablet,Devbone D 70mg/5600IU Tablet,Indibon-D70 Tablet,Headache,"Musculoskeletal (bone, muscle or joint) pain",Back pain
+307,arbitel-trio 25 tablet er,Teldawn LNB 10mg/25mg/40mg Tablet ER,Cardexa 10mg/25mg/40mg Tablet ER,Metolar Trio 25 Tablet ER,Telma LNB 10mg/25mg/40mg Tablet ER,Met XL Trio 25 Tablet,Nausea,Taste change,Constipation
+308,acivir eye ointment,Zovirax Eye Ointment,Yavir Eye Ointment,Virinox Eye Ointment,Eyevir Eye Ointment,L Vir 3% Eye Ointment,Eye redness,Stinging sensation,
+309,aceclo tablet,Topnac 100mg Tablet,Topflam 100mg Tablet,Acicloflex 100mg Tablet,Acenal 100mg Tablet,Safronac 100mg Tablet,Vomiting,Stomach pain/epigastric pain,Nausea
+310,actrapid 100 iu/ml flexpen,Wosulin-R DispoPen,Lupisulin R 100IU/ml Cartridge,Insuman Rapid 100IU/ml Solution for Injection,Actrapid HM 100IU/ml Penfill,Actrapid 100IU/ml Solution for Injection,Hypoglycemia (low blood glucose level),Weight gain,Edema (swelling)
+311,amitone 25mg tablet,Amidep 25mg Tablet,Amitril 25mg Tablet,Amitar 25mg Tablet,Trilin 25mg Tablet,Latilin 25mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+312,anafortan syrup,,,,,,Dryness in mouth,Constipation,Blurred vision
+313,acera-d capsule sr,Pepcia-D Capsule SR,Rabega D 30mg/20mg Capsule SR,Rabekind-DSR Capsule,Rzole DSR Capsule,Rabezol DSR  Capsule,Diarrhea,Stomach pain,Dryness in mouth
+314,aerodil sf expectorant,Asphyllin Expectorant,Tudex AM Expectorant,Zyrex Expectorant,Tusbex Expectorant,X Par A Expectorant,Excessive salivation,Fatigue,Paresthesia (tingling or pricking sensation)
+315,aculip h 12.5 mg/5 mg tablet,Trixide-H Tablet,Emotrip 12.5 mg/5 mg Tablet,Aculip H 12.5mg/5mg Tablet,Trixide 12.5 mg/5 mg Tablet,Kimitrip 12.5mg/5mg Tablet,Constipation,Difficulty in urination,Weight gain
+316,aztolet  20 tablet,Asitor C 20mg/75mg Tablet,Clopica AV 20mg/75mg Tablet,Clopigard CV 20mg/75mg Tablet,Genericart Atorvastatin+Clopidogrel 20mg/75mg Tablet,Levitor CV 20mg/75mg Tablet,Stomach pain,Diarrhea,Indigestion
+317,amlopin 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+318,arimidex 1mg tablet,Aromita Tablet,Femistra Tablet,Anastronat 1mg Tablet,Anastronat 1mg Tablet,Femitraz Tablet,Hot flashes,Nausea,Osteoporosis
+319,alzil-m 5 tablet,DavaIndia Donepezil+Memantine 5mg/5mg Tablet,Denjil-Plus Tablet,Depzil Plus 5mg/5mg Tablet,Larentine D 5mg/5mg Tablet,Talimem 5 Tablet,Nausea,Vomiting,Loss of appetite
+320,acuvert tablet,Protil 5mg Tablet,Vestil 5mg Tablet,Nurotil 5mg Tablet,Nausetil 5mg Tablet,Navtil 5mg Tablet,Drowsiness,Orthostatic hypotension (sudden lowering of blood pressure on standing),
+321,alciflox 500mg tablet,Wocipflo 500mg Tablet,Strox 500mg Tablet,Ciprodac 500 Tablet,Cifran OD 500mg Tablet,Ciprowin 500mg Tablet,Headache,Dizziness,Gastrointestinal disorder
+322,azax 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Zerox 250 Tablet,Vomiting,Nausea,Abdominal pain
+323,aceclo spas tablet,Spastone-RM Tablet,Albiflam D 80mg/100mg Tablet,Ricnac DV 80mg/100mg Tablet,Fenalin D 80mg/100mg Tablet,Derot A 80mg/100mg Tablet,Diarrhea,Nausea,Vomiting
+324,asthakind-ls drop,,,,,,Nausea,Vomiting,Diarrhea
+325,ascabiol emulsion,Gamanom Emulsion,Hexab Emulsion,,,,"Application site reactions (burning, irritation, itching and redness)",Dry skin,
+326,alphadol 0.25mcg capsule,Vitalpha Soft Gelatin Capsule,Alphadol-C Soft Gelatin Capsule,,,,Rash,Itching,Abdominal pain
+327,alex cough lozenges sugar free,CHERICOF 5MG LOZENGES,Tossex D 5mg Lozenges,,,,Sleepiness,Dizziness,Confusion
+328,arip mt 10 tablet,Apiz 10mg Tablet,Aripiren 10mg Tablet,Ripramat 10 Tablet,Rizotal 10mg Tablet,Ariday 10 Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+329,anabel liquid gel,Ulsore Gel,Ulcerfree Gel,Mugel Freshora Gel,Orogard SG Gel,Mosiba Gel,No common side effects seen,,
+330,aricep 5 tablet,DavaIndia Donepezil 5mg Tablet,Demenza 5mg Tablet,Dnp 5mg Tablet,Gigapezil 5mg Tablet,Depzil 5mg Tablet,Nausea,Diarrhea,Insomnia (difficulty in sleeping)
+331,amlosafe-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+332,aceclo sr tablet,Algic 200mg Tablet SR,Topnac 200mg Tablet SR,Kindac 200mg Tablet SR,Ultranac 200mg Tablet SR,Bignac 200mg Tablet SR,Dizziness,Indigestion,Nausea
+333,azopt opthalmic suspension,Brinzemic Eye Drop,Bridic 1% Eye Drop,Brinzodoc 1% Eye Drop,,,Blurred vision,Bitter taste,
+334,amitop 10 tablet,Triptop 10mg Tablet,Relidep 10mg Tablet,Amitone 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+335,ambulax m tablet,Anzal Plus -H 0.25mg/10mg Tablet,Azox P 0.25mg/10mg Tablet,Tensyn AZ M 0.25 mg/10 mg Tablet,Biozolam Plus 0.25 mg/10 mg Tablet,Zepro 0.25mg/10mg Tablet,Confusion,Drowsiness,Memory impairment
+336,alcipro 500mg tablet,Wocipflo 500mg Tablet,Strox 500mg Tablet,Ciprodac 500 Tablet,Alciflox 500mg Tablet,Cifran OD 500mg Tablet,Headache,Dizziness,Gastrointestinal disorder
+337,assurans tablet,Sildaflow 20mg Tablet,Pulmoday 20mg Tablet,PAH 20 Tablet,Esylnafil 20mg Tablet,Penegra Pah Tablet,"Flushing (sense of warmth in the face, ears, neck and trunk)",Headache,Stiffness
+338,augpen lb 625 tablet,Nishclav 625 LB Tablet,Rzcv LB 500mg/125mg Tablet,Nexclav LB 500mg/125mg Tablet,Moxcid-LB 625 Tablet,Moxylik CV 500mg/125mg Tablet,Nausea,Diarrhea,Vomiting
+339,alkaliser syrup,Alkapen Syrup,Alkatrol Syrup,Uriflame Syrup,Acitrol Syrup,Intalka Syrup,Stomach pain,Tiredness,Diarrhea
+340,aquaviron 40mg capsule,Testoki 40mg Capsule,Nuvir 40mg Capsule,Andriol 40mg Capsule,Testonova 40mg Capsule,Androsar 40mg Capsule,Diarrhea,Stomach discomfort,Increased sweating
+341,angiwell 2.6mg tablet,Glyin 2.6mg Tablet,Corcont 2.6mg Tablet,Nitrobid 2.6mg Tablet,Iskem GTN 2.6mg Tablet,Nitrospan 2.6mg Tablet,Blurred vision,Decreased blood pressure,Dizziness
+342,anaflam th  4  tablet,Thioford AP Tablet,Bakwel-AP Tablet,Fense TH Tablet,Thio-Seradic Tablet,Triactin 4 Tablet,Nausea,Vomiting,Heartburn
+343,alzil 5 tablet,DavaIndia Donepezil 5mg Tablet,Demenza 5mg Tablet,Dnp 5mg Tablet,Gigapezil 5mg Tablet,Depzil 5mg Tablet,Nausea,Diarrhea,Insomnia (difficulty in sleeping)
+344,amlo 5mg tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+345,asthalin plus expectorant,Bronkolyte Levo PD Syrup,Nakuf LS Syrup,Cleartuss LS Syrup,Chericof-LS Junior Syrup,Ventiphylline LS Junior Syrup,Nausea,Vomiting,Diarrhea
+346,ascabiol emulsion,Gamanom Emulsion,Hexab Emulsion,,,,"Application site reactions (burning, irritation, itching and redness)",Dry skin,
+347,amitone plus tablet,Trixide-H Tablet,Emotrip 12.5 mg/5 mg Tablet,Aculip H 12.5mg/5mg Tablet,Trixide 12.5 mg/5 mg Tablet,Kimitrip 12.5mg/5mg Tablet,Constipation,Difficulty in urination,Weight gain
+348,akt 2 tablet,Rizide 450 mg/300 mg Tablet,Rifact Kid 450mg/300mg Tablet,Wokex 450mg/300mg Tablet,Coxwin ZH 450 mg/300 mg Tablet,Rifanex 450mg/300mg Tablet,Dark colored urine,Rash,Vomiting
+349,alex plus paediatric oral drops,Monkuff Oral Drops,Coldsoft Oral Drops,Zukamin Oral Drops,Coldest Oral Drops,Avnac Oral Drops,Vomiting,Headache,Restlessness
+350,antacid tablet,Riogel S Tablet,,,,,Constipation,Diarrhea,
+351,apresol tablet,Aprilife 25mg Tablet,Nepresol 25mg Tablet,,,,Diarrhea,Headache,Increased heart rate
+352,atchol 40 tablet,Atorless 40mg Tablet,Lipikind 40 Tablet,Mactor 40 Tablet,Atorsave 40 Tablet,Atorvee 40mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+353,amlong-h tablet,Amoline H 5mg/12.5mg Tablet,Amvio H 5 mg/12.5 mg Tablet,L Core 5 mg/12.5 mg Tablet,Amlokind-H Tablet,AMLOCAD-H 5MG/12.5MG TABLET,Glucose intolerance,Sleepiness,Ankle swelling
+354,airz-ff capsule,,,,,,Runny nose,Sore throat,Upper respiratory tract infection
+355,arflur 3d tablet,Octace Plus Tablet,Anzifen SP Tablet,Mitigate SP Tablet,Petace S 100mg/500mg/15mg Tablet,Kace S 100mg/500mg/15mg Tablet,Nausea,Vomiting,Stomach pain
+356,azmarda 200mg tablet,Sacutan 200 Tablet,Sacumada 200 Tablet,Arnicor 200 Tablet,Sacurise 200 Tablet,Arney 200 Tablet,Dizziness,Increased potassium level in blood,Fatigue
+357,amixide 10mg tablet,Trixide 25 mg/10 mg Tablet,Trixide-H 25mg/10mg Tablet,Mytrip Plus Tablet,Amize Forte 25 mg/10 mg Tablet,Amitone Forte 25 mg/10 mg Tablet,Constipation,Difficulty in urination,Weight gain
+358,avomine 25mg tablet md,Mexiphen -MD Tablet,,,,,Unusual production of breast milk in women and men,,
+359,arpizol 2mg tablet,Asprito 2 Tablet,Aripaso 2mg Tablet,Arip MT 2 Tablet,Apz 2mg Tablet,,Akathisia (inability to stay still),Anxiety,Blurred vision
+360,ascodex cough syrup,Vistadex Syrup,Aldrex Syrup,Imcuf DMR Syrup,Oldex Syrup,Ascodex DX Syrup,Nausea,Indigestion,Bloating
+361,aerocort forte rotacap,,,,,,Hoarseness of voice,Headache,Dizziness
+362,af 200 tablet,Falcon 200mg Tablet,Flow 200mg Tablet,Eselcon 200mg Tablet,Fole 200mg Tablet,Nixican 200 Tablet,Headache,Nausea,Stomach pain
+363,aquasurge  eye drop,Wat-R Eye Drop,Just Tears Eye Drop,Takfresh Eye Drop,Misty Eye Drop,Relub Eye Drop,Eye irritation,Burning eyes,Eye discomfort
+364,atorva asp 75 capsule,Liponorm-Asp Capsule,Zivast ASP 10 Capsule,Atchol-ASP Capsule,Lipicure-AS 75 Capsule,Atorlip-ASP 10 Capsule,Abdominal pain,Constipation,Flatulence
+365,azivent 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+366,azithral eye ointment,Ayzeecon Eye Ointment,Azqure 1% Eye Ointment,Himycin Eye Ointment,Azocin 1% Eye Ointment,Estocin Eye Ointment,Burning eyes,Vomiting,Nausea
+367,adtrol xt tablet,Lumiacal-XT Tablet,Lumiacal-XT Tablet,,,,Dryness in mouth,Nausea,Constipation
+368,aqualube eye drop,Wat-R Eye Drop,Just Tears Eye Drop,Takfresh Eye Drop,Misty Eye Drop,Relub Eye Drop,Eye irritation,Burning eyes,Eye discomfort
+369,antisnake venom injection,Snake Antivenin Injection,V Asv Injection,Snake Venom Antiserum Injection,,,Headache,Nausea,Vomiting
+370,acrotac 25mg capsule,Bdace 25mg Capsule,Sentrane 25mg Capsule,Glacitret 25mg Capsule,Acitrin 25mg Capsule,Acitkon 25mg Capsule,Dryness in mouth,Skin peeling,Itching
+371,azathioprine 50mg tablet,Transimune 50mg Tablet,Azap 50 Tablet,Zesoris-AZ 50mg Tablet,Autorin 50mg Tablet,Azawan Tablet,Decreased white blood cell count,Increased bleeding tendency,Nausea
+372,amrolstar nail lacquer,AM Laqer Nail Lacquer,Amrolmac Nail Lacquer,Fungicros Nail Lacquer,Loceryl Nail Lacquer,,Blisters on skin,Nail disorder,Skin irritation
+373,allercet-m syrup,Montina-L Syrup,1-AL M Syrup,Montemac-L Syrup,Lasma LC kid Syrup,Romilast L Syrup,Rash,Nausea,Diarrhea
+374,atchol 10 tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,Atorlip 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+375,alphagan z ophthalmic solution,Brimopress-LS Eye Drops,Cibrim Z Eye Drops,,,,Blurred vision,Drowsiness,Headache
+376,acutret 10 capsule,Trato 10mg Soft Gelatin Capsule,Isoden 10mg Soft Gelatin Capsule,Adclin 10mg Soft Gelatin Capsule,Isoway 10 Soft Gelatin Capsule,Mavtron 10mg Soft Gelatin Capsule,Dry skin,Increased liver enzymes,Rash
+377,acnedap gel,Acnesone Gel,Acnewar Gel,Pustulex Gel,,,Oily skin,Skin peeling,Dry skin
+378,amoxycillin 125mg oral suspension,SYMOXYL ORAL SUSPENSION,Zymox Premix 125mg Oral Suspension,Moxvid Dry Syrup,Opimox Dry Syrup,Novamox Oral Suspension,Allergy,Rash,Vomiting
+379,advanced lcf kid expectorant,T Kuff Syrup,Kofide Syrup,C C Gesic Plus Syrup,Wifi-S Syrup Sugar Free,Respicure Syrup,Nausea,Diarrhea,Vomiting
+380,amitryn 10 tablet,Relidep 10mg Tablet,Amitone 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Odep 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+381,amtas-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+382,accentrix solution for injection,,,,,,Conjunctival hemorrhage,Eye pain,Eye floaters
+383,arpizol 10 tablet,Aripiren 10mg Tablet,Ripramat 10 Tablet,Rizotal 10mg Tablet,Arip MT 10 Tablet,Ariday 10 Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+384,alkasol oral solution,Uridol Oral Solution,,,,,Stomach pain,Tiredness,Diarrhea
+385,aldactone 100 tablet,Lactone 100mg Tablet,SPILACTONE 100 MG TABLET,Silectone 100 Tablet,Edeflow 100 Tablet,Cglactone 100mg Tablet,Nausea,Vomiting,Leg cramps
+386,aztogold 20 capsule,Avas Gold 75mg/20mg/75mg Capsule,Lipitab Gold 20 Capsule,Atorfit CV Gold 20 Capsule,Lipikind-Plus 20 Capsule,Atorva Gold 20 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+387,addna tablet,Acusalt 1gm Tablet,,,,,Nausea,Vomiting,Stomach pain
+388,amtas-m 50 tablet pr,Gudpres-AM 50 Tablet PR,Protol-AM Tablet PR,Amlodac M Tablet PR,Amlopin-M Tablet PR,Amlovas XM  5/50 Tablet PR,Nausea,Slow heart rate,Abdominal pain
+389,akilos-p tablet,Xtra P 100 mg/500 mg Tablet,Jetace 100 mg/500 mg Tablet,Acebloc P 100 mg/500 mg Tablet,Icobit P 100 mg/500 mg Tablet,Aclomp P 100 mg/500 mg Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+390,avas cv 10 capsule,Lipikind CV 10mg/75mg Capsule,Starclop-AV 10 Capsule,Atchol CV Capsule,Astin CV 10 Capsule,Lipitab CV 10mg/75mg Capsule,Stomach pain,Diarrhea,Indigestion
+391,actilyse 50mg injection,,,,,,Bleeding,Nausea,Vomiting
+392,acceclowoc-sp tablet,Asozen SR Plus 100mg/325mg/10mg Tablet,Accept-SP Tablet,Combifenac SP 100mg/325mg/10mg Tablet,Aceloflam SP Tablet,Parofen-S Tablet,Nausea,Vomiting,Stomach pain
+393,amodep at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+394,amlopres at 25 tablet,Betacard-AM 5mg/25mg Tablet,DavaIndia Amlodipine+Atenolol 5mg/25mg Tablet,Numlo-AT 5mg/25mg Tablet,Amlokos AT 5mg/25mg Tablet,Dipinol 5 mg/25 mg Tablet,Sleepiness,Headache,Ankle swelling
+395,acular ls ophthalmic solution,Ketsenz Eye Drop,Ketorocin-LS Eye Drop,Ketsenz LS Eye Drop,,,Burning sensation,Stinging sensation,
+396,anxipan capsule,,,,,,Nausea,Diarrhea,Constipation
+397,advent 91.4mg drops tangy orange,Slox Oral Drops,Doloxy CV Oral Drops,Clavmox Oral Drops,Garclav Oral Drops,Senclav Oral Drops,Nausea,Vomiting,Abdominal pain
+398,azee xl 200mg dry syrup peppermint,Azitru 200mg/5ml Dry Syrup,Zithromin 200mg Dry Syrup,Azenas 200mg/5ml Dry Syrup,Aziclub 200mg Dry Syrup,Azithron 200mg Dry Syrup,Vomiting,Nausea,Abdominal pain
+399,abevia 100 capsule,Broncocet ACB Capsule,Broncofil 100mg Capsule,Bronet 100mg Capsule,Axeldox 100 Capsule,Ambrodil-XP Capsule,Nausea,Headache,Vomiting
+400,alex oral drops orange,Tricold Oral Drops,Cinaryl-AF Oral Drops,Alerfri AF Oral Drops,Entimin Oral Drops,Joecold Oral Drops,Vomiting,Headache,Restlessness
+401,amoxyclav ds syrup,Cynoclav DS Syrup,Satclav DS Syrup,Amoclave  DS  Syrup,Semox CV Forte Syrup,Moxifide Duo Syrup,Nausea,Vomiting,Abdominal pain
+402,alcoliv tablet,METBAX TABLET,Alcofast 500mg Tablet,Livodox 500mg Tablet,Metadoxil 500mg Tablet,Aeroliv M 500mg Tablet,Nausea,Upset stomach,Diarrhea
+403,anosum cream,Sucross Ano Cream,Elfate-LM Rectal Cream,Pileclear S Cream,Surect Cream,Softee Cream,Burning sensation,Tingling,Rash
+404,amlovas-m 5/50 tablet pr,Metoder XL-AM Tablet PR,Gudpres-AM 50 Tablet PR,Amlodac M Tablet PR,Amlopin-M Tablet PR,Amlovas XM  5/50 Tablet PR,Nausea,Slow heart rate,Abdominal pain
+405,alkamax mb alkamax mb6 oral solution,Urocitra-M B6 Oral Solution Sugar Free Lemon,Lizerton B6 Oral Solution Orange Sugar Free,K Mac B6  Oral Solution,Noculi B6 Oral Solution,Potron MB6 Oral Solution Delicious Pineapple Sugar Free,Diarrhea,Nausea,Vomiting
+406,amlosafe tm 40 tablet,Telmikind-AM Tablet,Tytan-AM Tablet,Amlopres TL Tablet,Telvas-AM Tablet,Telmital-A Tablet,Sleepiness,Ankle swelling,Headache
+407,apetamin syrup,Add App 2mg/5ml Syrup,Toractin 2mg/5ml Syrup,Apetiz Syrup,Apeton 2mg/5ml Syrup,Cipron Syrup,Dizziness,Headache,
+408,aceflam p 100mg/325mg tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+409,ascovent -sr tablet,Venphylin-SR Tablet,Uliphyalline 200 SR Tablet,Asmasafe 200mg Tablet SR,Acethama 200 SR Tablet,Abiways 200 SR Tablet,Nausea,Headache,Vomiting
+410,acotrust  tablet,Acosat 100mg Tablet,Actapro Tablet,Dycotiam Tablet,Tocamide Tablet,Actapro Tablet,Headache,Diarrhea,
+411,acupat ophthalmic solution,Lopine-K Eye Drop,Histpat-KT Eye Drop,Oloris-KT Eye Drop,Eylac-O Eye Drop,Oloket Ophthalmic Solution,Burning eyes,Stinging in the eyes,Dry eye
+412,arcolane 2% scalp solution,Nuket Solution,Ketosa Solution,Ketonol Scalp Solution,Konaz Solution,Ketovate Solution,Skin peeling,"Application site reactions (burning, irritation, itching and redness)",Nausea
+413,atropine 1% eye drop,Ataron Eye Drop,Atromet Eye Drop,Atrosun Eye Drop,Atrop Eye Drop,Opthopin 1% Eye Drop,Stinging sensation,High blood pressure,
+414,amyclox-lb capsule,Lax LB 250mg/250mg Capsule,Keeclox L Capsule,Wasoclox 250mg/250mg Capsule,Siclomox 250mg/250mg/60Million spores Capsule,Zonemox CL Capsule,Rash,Vomiting,Allergic reaction
+415,alamin injection,Micabal Injection,Cycobal Injection,Cobanuron Injection,Fotia Plus Injection,Neuri Forte Injection,Decreased appetite,Diarrhea,Nausea
+416,aquim pf eye drop,HYVISC FORTE  EYE DROPS,Hyloaid Eye Drop,Ultra-Moist Eye Drop,Hyane Eye Drop,Soha Liquigel,Limited data available,,
+417,arbitel-am tablet,Telmikind-AM Tablet,Tytan-AM Tablet,Amlopres TL Tablet,Telvas-AM Tablet,Telmital-A Tablet,Sleepiness,Ankle swelling,Headache
+418,aprecap 125/80 capsule,Apritech 125/80 Capsule,Emvoid 125 mg/80 mg Capsule,Apry 125mg/80mg Capsule,Empov 125mg/80mg Capsule,Apricyt Kit,Constipation,Indigestion,Headache
+419,ab phylline syrup,A-Phyl 10mg/ml Syrup,,,,,Nausea,Headache,Vomiting
+420,azeflo ft nasal spray,Fivasa AZ 27.5 mcg/140 mcg Nasal Spray,Cazomist-AZ Nasal Spray,Ffns-AZ Nasal Spray,Furaze Nasal Spray,Austril AZ Nasal Spray,Taste change,Nosebleeds,Headache
+421,atorva f tablet,Ozovas-F  Tablet,Orvas-FT Tablet,Lipikind-F Tablet,Zivast-F Tablet,Atchol-F Tablet,Nausea,Stomach pain,Constipation
+422,amicline plus tablet,,,,,,Nausea,Loss of appetite,Flatulence
+423,acimol mr 100mg/325mg/250mg tablet,Kapinac CZ Tablet,Zoceclo MR 100mg/325mg/250mg Tablet,Clanac MR Tablet,Acelyn MR 100mg/325mg/250mg Tablet,Lyfenac-MR Tablet,Nausea,Vomiting,Heartburn
+424,abiways tablet,Oxydex Tablet,Amucoe Nac Tablet,Aphyren-N Tablet,Asmasafe-N Tablet,Effenac AB Tablet,Vomiting,Heartburn,Stomach pain
+425,asthakind tablet,Terpect 100 mg/2.5 mg/4 mg Tablet,Terpect Tablet,Ventus Tablet,,,Nausea,Diarrhea,Bloating
+426,aprezo 10 tablet,Apxenta 10 Tablet,Apxenta 10 Tablet,Apraize 10 Tablet,,,Diarrhea,Nausea,Vomiting
+427,air 120 tablet,Lcfex Tablet,Etofex 120mg Tablet,Nexofex 120mg Tablet,Histafree 120 Tablet,Fexofen 120 Tablet,Headache,Drowsiness,Dizziness
+428,amoxycillin  250mg capsule,Amoxipen 250mg Capsule,Hipen A 250mg Capsule,Moxipal 250mg Capsule,Amoxil 250mg Capsule,Moxikem 250mg Capsule,Rash,Vomiting,Allergic reaction
+429,acenac sp 100mg/325mg/15mg tablet,Vetory SP Tablet,Ibugesic ASP Tablet,Acemiz-S Tablet,Dolokind AA Tablet,Anaflam Xps  Tablet,Nausea,Vomiting,Stomach pain
+430,aginal-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+431,allrite dc tablet er,,,,,,Headache,Dryness in mouth,Nausea
+432,asthalin 2 tablet,Salmaplon 2mg Tablet,Salbid 2mg Tablet,Salbetol 2 Tablet,Asthacip 2mg Tablet,Brethmol 2mg Tablet,Tremors,Headache,Palpitations
+433,arip mt 2 tablet,Asprito 2 Tablet,Aripaso 2mg Tablet,Apz 2mg Tablet,Arpizol 2mg Tablet,,Akathisia (inability to stay still),Anxiety,Blurred vision
+434,alcet 5mg tablet,L Dio 1 Tablet,LCZ Tablet,Lecope Tablet,1-AL Tablet,L Hist Tablet,Sleepiness,Fatigue,Dryness in mouth
+435,aplazar tablet,Nefrogard Tablet,Ketorite 200mg Tablet,Ketalog 200mg Tablet,Alfaren 200mg Tablet,Septasteril Tablet,Increased calcium level in blood,,
+436,amicon 10 tablet,Triptop 10mg Tablet,Relidep 10mg Tablet,Amitone 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+437,amaryl m forte 1mg tablet pr,Glimiprex MF Forte 1 Tablet PR,Duopil 1 Forte Tablet PR,Walaphage G 1 Forte Tablet PR,Glimestar-M1 Forte Tablet PR,Glyciphage-G 1 Forte Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+438,amicline tablet,Mobitide 500mg Tablet,,,,,Nausea,Vomiting,Itching
+439,acivir iv injection,,,,,,Vomiting,Nausea,Injection site reaction
+440,atm 200 oral suspension,Spazit Suspension,Aziitech 200mg Oral Suspension,Azee 200mg Dry Syrup,Azmo 200mg Oral Suspension,Zoran Suspension,Vomiting,Nausea,Abdominal pain
+441,apidra solostar 100iu/ml injection,,,,,,Hypoglycemia (low blood glucose level),Nasopharyngitis (inflammation of the throat and nasal passages),Upper respiratory tract infection
+442,ab2 kit,Festone Combi Kit,Dismis MM Kit,Safe Abort Kit,Penetrex Knot Tablet,Mifty Kit,Nausea,Vomiting,Diarrhea
+443,amitryn 10 tablet,Relidep 10mg Tablet,Amitone 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Odep 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+444,atarax 25mg injection,,,,,,Sedation,Nausea,Vomiting
+445,afoglip m  500 tablet er,Teneliglip-M 500 Tablet ER,Tenipack M Tablet ER,Tenlicure M 500 Tablet ER,Tenemerze M 500mg/20mg Tablet ER,Tenali M 500 Tablet ER,Hypoglycemia (low blood glucose level),Nausea,Vomiting
+446,amlozaar tablet,LTK-AM Tablet,Amcard-LP Tablet,Z-Sar-A Tablet,Zilos-AM Tablet,Neopress AM 50mg/5mg Tablet,Sleepiness,Ankle swelling,Headache
+447,abel 40 tablet,Azilura 40 Tablet,Zilarta 40 Tablet,Nexsart 40 Tablet,Azildac 40 Tablet,Altoran 40 Tablet,Dizziness,Muscle damage,Diarrhea
+448,acolate plus tablet,Leforin PP Tablet,Cybercold 5mg/5mg/500mg Tablet,Alicare Plus Tablet,Codolin 5mg/5mg/500mg Tablet,Fenty Cold 5mg/5mg/500mg Tablet,Vomiting,Dryness in mouth,Headache
+449,ampilox ds tablet,,,,,,Rash,Vomiting,Allergic reaction
+450,asthalin rotacaps,,,,,,Tachycardia,Tremors,Headache
+451,asthalin dx syrup,Bronkolyte DC Syrup,Fluoffd Syrup,Kosat D Syrup,Brozine D Plus Syrup,Ezycuf-D Syrup,Nausea,Vomiting,Loss of appetite
+452,asthalin rotacaps,,,,,,Tachycardia,Tremors,Headache
+453,atorlip 20 tablet,Atchol 20 Tablet,Lipikind 20 Tablet,Orvas 20 Tablet,Atorace 20 Tablet,Zivast 20 Tablet,Dyspepsia,Abdominal pain,Indigestion
+454,altacef 500 tablet,Cefoxim 500 Tablet,Zefu 500 Tablet,Bigcef 500 Tablet,Cefakind 500 Tablet,Pulmocef 500 Tablet,Rash,Vomiting,Allergic reaction
+455,amlokind 2.5 tablet,Amvasc 2.5mg Tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlip 2.5 Tablet,Amlong 2.5 Tablet,Headache,Fatigue,Nausea
+456,ambistryn-s 0.75gm injection,,,,,,Skin rash,Vomiting,Fever
+457,ambulax-et tablet,Etidac P 0.5mg/20mg Tablet,Etipro Tablet,Etilax P 0.5mg/20mg Tablet,Ritebenz Beta 0.5mg/20mg Tablet,Betapro-ET Tablet,Confusion,Memory impairment,Drowsiness
+458,acceclowoc-p tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+459,alprax forte 0.5 mg/50 mg tablet,Mares Plus 0.5mg/50mg Tablet,Restyl Forte 0.5 mg/50 mg Tablet,Alzy Plus 0.5mg/50mg Tablet,Altawin S 0.5mg/50mg Tablet,Alzex Forte 0.5 mg/50 mg Tablet,Nausea,Vomiting,Diarrhea
+460,alsita-m 100 tablet er,Macsita-MXR 100/500 Tablet,SitaOD MSR 100/500 Tablet,Sitawok M XR 500 Tablet,Istamet  XR 500 Tablet,Sitared-M XR100/500 Tablet,Hypoglycemia (low blood glucose level),Nausea,Vomiting
+461,axogurd nt tablet sr,Nervotop Tablet SR,Pregahart NT 75mg/10mg Tablet SR,Methypro-NT Tablet SR,Novomine N 75mg/10mg Tablet SR,Preganut-N Tablet SR,Constipation,Difficulty in urination,Weight gain
+462,aclind bp 2.5% gel,Clinroz-BP 2.5% Gel,Duoclin-B Gel,Tyret B 1% Gel,Clin Bpo Gel,Decomedo Gel,Erythema (skin redness),Skin peeling,Dryness
+463,anxiset 0.5 tablet,Sanxit 0.5mg Tablet,Xentas 0.5mg Tablet,Spenzo 0.5 Tablet,Xolybex 0.5mg Tablet,Flp 0.5mg Tablet,Sleepiness,Orthostatic hypotension (sudden lowering of blood pressure on standing),Dryness in mouth
+464,atonide-h cream,Locort Cream,Sorias Cream,Urea HC Cream,Delster Cream,Drocort Cream,"Application site reactions (burning, irritation, itching and redness)",,
+465,aldonil tablet,Aristat 50mg Tablet,Eparel 50 Tablet,Aldorace 50mg Tablet,Nurestat 50mg Tablet,Epalridase 50mg Tablet,Nausea,Vomiting,Abnormal liver function
+466,anticold  tablet,Sino Tablet,Ephiros Tablet,,,,Vomiting,Headache,Restlessness
+467,alcros 100 capsule,Itralase 100 Capsule,Canditral 100 Capsule,Syntran Capsule,Itrafree 100mg Capsule,Itromed 100 Capsule,Nausea,Common cold,Cough
+468,azibact 200 readymix oral suspension,Zythro 200mg Oral Suspension,Azimox 200mg Oral Suspension,Azimcin 200mg Oral Suspension,Uber 200 Oral Suspension,Aziitech 200mg Oral Suspension,Vomiting,Nausea,Abdominal pain
+469,atchol 20 tablet,Lipikind 20 Tablet,Orvas 20 Tablet,Atorace 20 Tablet,Zivast 20 Tablet,Lipvas 20 Tablet,Dyspepsia,Abdominal pain,Indigestion
+470,azibest 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+471,amoxy 500mg capsule,Tormoxin 500mg Capsule,Cipmox 500 Capsule,Tidoxyl 500mg Capsule,Actimox 500mg Capsule,SB Mox 500mg Capsule,Rash,Vomiting,Allergic reaction
+472,a-ret 0.05% gel,Trion Gel,Retop-A 0.05% Gel,Truoin Gel,,,Erythema (skin redness),Skin irritation,Dry skin
+473,adenosine 3mg injection,Adenoject 3mg Injection,Adenocor 3mg Injection,Adnet 3mg Injection,,,"Flushing (sense of warmth in the face, ears, neck and trunk)",Dizziness,Lightheadedness
+474,ascoril plus tablet,Oripect Tablet,Brethex 100mg/2.5mg/8mg Tablet,Pulmo Rest S 100 mg/2.5 mg/8 mg Tablet,Rex Tablet,Mahaq 100 mg/2.5 mg/8 mg Tablet,Nausea,Diarrhea,Bloating
+475,azulix 2 mf forte tablet pr,Glimiprex MF Forte 2 Tablet PR,Glimestar-M2 Forte Tablet PR,Geminor M2 Forte Tablet PR,Glimisave M2 Forte Tablet PR,Glimisave Max Forte 2 Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+476,amlokind-h tablet,Amoline H 5mg/12.5mg Tablet,Amvio H 5 mg/12.5 mg Tablet,L Core 5 mg/12.5 mg Tablet,AMLOCAD-H 5MG/12.5MG TABLET,Amleod H 5mg/12.5mg Tablet,Glucose intolerance,Sleepiness,Ankle swelling
+477,aziderm 10% gel,Zebor Gel,Acnerus AZ 10% Gel,Ezanic 10% Gel,,,"Application site reactions (burning, irritation, itching and redness)",,
+478,amlopin-m tablet pr,Gudpres-AM 50 Tablet PR,Protol-AM Tablet PR,Amlodac M Tablet PR,Amlovas XM  5/50 Tablet PR,Prolomet AM 50 Tablet PR,Nausea,Slow heart rate,Abdominal pain
+479,ascodex junior syrup,Respicure-D Syrup,Chericof Syrup,Respicure-D Syrup,Ataqued Syrup,Ascoril D Junior Cough Syrup,Nausea,Vomiting,Loss of appetite
+480,alevo 500 tablet,Nirliv 500mg Tablet,Levocef 500mg Tablet,Levoshan 500mg Tablet,Lek 500mg Tablet,Qulef 500mg Tablet,Headache,Dizziness,Nausea
+481,avanair 200 tablet,Avanext 200 Tablet,,,,,Headache,"Flushing (sense of warmth in the face, ears, neck and trunk)",Nasal congestion (stuffy nose)
+482,atorlip 40 tablet,Atorless 40mg Tablet,Atchol 40 Tablet,Lipikind 40 Tablet,Mactor 40 Tablet,Atorsave 40 Tablet,Dyspepsia,Abdominal pain,Indigestion
+483,anafortan-mf 50mg/250mg tablet,Bigspas M 50mg/250mg Tablet,Spasmonorm M Tablet,,,,Nausea,Vomiting,Dryness in mouth
+484,amitriptyline hcl 25mg tablet,Amidep 25mg Tablet,Amitril 25mg Tablet,Amitar 25mg Tablet,Latilin 25mg Tablet,Amiford 25mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+485,aqsusten  25 solution for injection,,,,,,Hot flushes,,
+486,amicet 5 mg/60 mg tablet,Fedcet-A Tablet,Luzer-A 5mg/60mg Tablet,Mzic D 5mg/60mg Tablet,Lzitop A 5mg/60mg Tablet,Arileev-AM 5mg/60mg Tablet,Upset stomach,Dryness in mouth,Headache
+487,amrox junior syrup,Lecof A Syrup,Rithmax BM Syrup,Kufril Syrup,Kind X Syrup,Bronkolyte PD Syrup,Excessive salivation,Fatigue,Paresthesia (tingling or pricking sensation)
+488,atm 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+489,anawin heavy 5mg injection,Bupizuva Heavy 5mg Injection,Bupifix-H Injection,Relicane 5mg Injection,Bupivaine 5mg Injection,Bipivac 5mg Injection,Nausea,Vomiting,Paresthesia (tingling or pricking sensation)
+490,adaple-c gel,Alight Plus Gel 15gm for Acne Treatment,Nayzit Gel,Cutiwel Gel,Nioclean AD Gel,Acnesol A Nano Gel,Skin peeling,Erythema (skin redness),Itching
+491,aravon injection,Carevon 1.5mg Injection,Fraseda 1.5mg Injection,Ezycut 1.5mg Injection,Edarkos 1.5mg Injection,Edinova 1.5mg Injection,Bruise,Walking difficulties,Headache
+492,akilos-sp tablet,Octace Plus Tablet,Anzifen SP Tablet,Mitigate SP Tablet,Petace S 100mg/500mg/15mg Tablet,Starnac Plus 100mg/500mg/15mg Tablet,Nausea,Vomiting,Stomach pain
+493,amlozaar-h tablet,Adblock LH 50mg/5mg/12.5mg Tablet,Resitan Amh Tablet,Amlonis H Tablet,Amlosar H 50mg/5mg/12.5mg Tablet,Tri Losacar Tablet,Ankle swelling,Headache,Dizziness
+494,alight plus gel,Nayzit Gel,Cutiwel Gel,Nioclean AD Gel,Acnesol A Nano Gel,Acnicin Gel,Skin peeling,Erythema (skin redness),Itching
+495,anaspas 25mg injection,Bigspas-D 25mg/25mg Injection,Spasmonorm Injection,,,,Nausea,Vomiting,Heartburn
+496,azibact lr 100 readymix,Infurox 100mg Oral Suspension,Ibithral 100 Rediuse Oral Suspension,Zithro Oral Suspension,Azilide 100 RediMed Oral Suspension,Azikem 100mg/5ml Oral Suspension,Vomiting,Nausea,Abdominal pain
+497,aquazide 25 tablet,Xenia 25mg Tablet,Hydrazide 25 Tablet,Thiazide 25mg Tablet,Bpzide 25mg Tablet,Hydride 25mg Tablet,Headache,Nausea,Altered blood lipid level
+498,amlodac 2.5 tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlokind 2.5 Tablet,Amlip 2.5 Tablet,Amlong 2.5 Tablet,Headache,Fatigue,Nausea
+499,amoxclav 500 mg/125 mg tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+500,amplinak opthalmic suspension,Nepacin Eye Drop,Esnac Eye Drop,Nepastar Eye Drop,Micronac PF Eye Drop,Nepcinac Eye Drop,Decreased vision,Foreign body sensation in eyes,Increased intraocular pressure
+501,aplevant 1.5mg pre-filled pen (0.5ml each),,,,,,Nausea,Diarrhea,Vomiting
+502,ambrodil-xp syrup,Resebron Syrup,Acelast 50mg/5ml Syrup,Acaster 50mg Syrup,Acebrolin 50mg/5ml Syrup,Phyllin-AC 50mg Syrup,Nausea,Headache,Vomiting
+503,arvast 10 tablet,Fortius 10 Tablet,Unizuva 10mg Tablet,Lipirose 10 Tablet,Consivas 10 Tablet,Jupiros 10 Tablet,Muscle pain,Weakness,Headache
+504,ascoril flu drops,Belrin Oral Drops,Tricold Oral Drops,Cinaryl-AF Oral Drops,Alerfri AF Oral Drops,Entimin Oral Drops,Vomiting,Headache,Restlessness
+505,atharv healthcare minrav 5 minoxidil 5% topical solution,Minoxil 5% Solution,Tinfal Solution,Minoxy 5% Solution,Rootz-M5 Solution,MNX 5 Solution,Itching,Chest pain,Headache
+506,amoxyclav oral suspension,Goldclav Oral Suspension,Moxiclip Dry Syrup,Tervis DS Oral Suspension,Bestomax Dry Syrup,Amoxyril-CV Dry Syrup,Nausea,Vomiting,Abdominal pain
+507,ata mont 20mg/10mg tablet,Aeromont-B Tablet,Bilamont Tablet,Drownil M Tablet,Maxstine M 20mg/10mg Tablet,Bilkwik M Tablet,Limited data available,,
+508,acimol 100 mg/325 mg tablet,Dolostat PC 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Acenext P 100mg/325mg Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+509,antidep 25mg tablet,Impramine 25mg Tablet,Eldep 25mg Tablet,Deprid 25mg Tablet,Depranil 25mg Tablet,Kidep 25mg Tablet,Gastrointestinal disturbance,Nervousness,Sleep disorder
+510,artificial tears bp eye drop,AT Plus Artificial Tears,Lacryl Eye Drop,Cmph Eye Drop,Procel 0.3% Eye Drop,Otears 0.3% Eye Drop,Blurred vision,Eye irritation,Eye pain
+511,almox 250 mg tablet dt,Mokcan 250mg Tablet DT,Amurol 250mg Tablet DT,Lupimox 250mg Tablet DT,Moxipil 250mg Tablet DT,Amoxil 250mg Tablet DT,Rash,Vomiting,Allergic reaction
+512,azicip 250 tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Zerox 250 Tablet,Vomiting,Nausea,Abdominal pain
+513,augpen hs 200 mg/28.5 mg suspension,Moxifide CV 200mg/28.5mg Suspension,AC Duo DS Suspension,Bilclav Duo 200 mg/28.5 mg Suspension,Symbiotik XL Suspension,Zoxil CV 200mg/28.5mg Suspension,Nausea,Vomiting,Abdominal pain
+514,anfoe 10000iu injection,Ceriton Epo 10000IU Injection,Relipoietin 10000IU Injection,Espogen 10000IU Injection,Wepox 10000IU Injection,Rpo 10000IU Injection,High blood pressure,Nausea,Vomiting
+515,acnovate gel,Alight Plus Gel 15gm for Acne Treatment,Nayzit Gel,Cutiwel Gel,Nioclean AD Gel,Acnesol A Nano Gel,Skin peeling,Erythema (skin redness),Itching
+516,ampoxin 250 capsule,Duoclox 125 mg/125 mg Capsule,Empic 125mg/125mg Capsule,Tobiotic 125mg/125mg Capsule,Wilclox 125mg/125mg Capsule,Syncocin 125mg/125mg Capsule,Nausea,Vomiting,Diarrhea
+517,azibact lr readymix 200,Azam 200 Oral Suspension,Spazit Suspension,Azimox 200mg Oral Suspension,Uber 200 Oral Suspension,Azee 200mg Dry Syrup,Vomiting,Nausea,Abdominal pain
+518,avanext 100mg tablet,Avanair 100 Tablet,,,,,Headache,"Flushing (sense of warmth in the face, ears, neck and trunk)",Nasal congestion (stuffy nose)
+519,anti-thyrox 10 tablet,Thyrodip 10mg Tablet,Carmazole 10mg Tablet,Carkozom 10 Tablet,Sterzole 10 Tablet,Thyrosim 10mg Tablet,Nausea,Headache,Joint pain
+520,aztor 80 tablet,Atorsave 80 Tablet,Jubicad 80mg Tablet,Statix 80mg Tablet,Dispitor 80mg Tablet,Modlip 80mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+521,akair lc tablet,Montina-L Tablet,Lecope-M Tablet,Monticope Tablet,Levocet M Tablet,Ronycold-M Tablet,Nausea,Diarrhea,Dryness in mouth
+522,astymin-sn infusion,,,,,,No common side effects seen,,
+523,asprito 2 tablet,Aripaso 2mg Tablet,Arip MT 2 Tablet,Apz 2mg Tablet,Arpizol 2mg Tablet,,Akathisia (inability to stay still),Anxiety,Blurred vision
+524,asomex-at tablet,Samloday A 2.5 mg/50 mg Tablet,Amlomed AT 2.5 mg/50 mg Tablet,Samlokind-AT Tablet,Esdil AT 2.5mg/50mg Tablet,Samlodon AT 2.5mg/50mg Tablet,Sleepiness,Headache,Ankle swelling
+525,anabel-ct gel,Ulsore Gel,Ulcerfree Gel,Mugel Freshora Gel,Orogard SG Gel,Mosiba Gel,No common side effects seen,,
+526,amlovas 2.5 tablet,Amvasc 2.5mg Tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlokind 2.5 Tablet,Amlip 2.5 Tablet,Headache,Fatigue,Nausea
+527,amlovas h  tablet,Amoline H 5mg/12.5mg Tablet,Amvio H 5 mg/12.5 mg Tablet,L Core 5 mg/12.5 mg Tablet,Amlokind-H Tablet,AMLOCAD-H 5MG/12.5MG TABLET,Glucose intolerance,Sleepiness,Ankle swelling
+528,amodep 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+529,acidose 500mg tablet,Udosis 500mg Tablet,Nodosis Tablet,Audosis Tablet,Sodinor 500mg Tablet,Sobiren 500mg Tablet,Stomach cramp,Flatulence,
+530,ab-next gel,Pernex-Plus Gel,Adapure Gel,Proxaid Gel,Abzit Gel,Acrobenz A Gel,Erythema (skin redness),Burning sensation,Scaling
+531,actapro tablet,Acosat 100mg Tablet,Dycotiam Tablet,Tocamide Tablet,Acogut Tablet,Acotrust  Tablet,Headache,Diarrhea,
+532,avas 20 tablet,Atchol 20 Tablet,Lipikind 20 Tablet,Orvas 20 Tablet,Atorace 20 Tablet,Zivast 20 Tablet,Dyspepsia,Abdominal pain,Indigestion
+533,aqua ear drop,Otidrop Ear Drop,Ocotic Ear Drop,P-Cure Ear Drop,Otiden Ear Drop,Early Ear Drop,"Application site reactions (burning, irritation, itching and redness)",,
+534,arflur-p tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Acenext P 100mg/325mg Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+535,acnesol 1% solution,Erytop Lotion,Corclin Lotion,Clinch Lotion,Clivazit 1% Lotion,,"Application site reactions (burning, irritation, itching and redness)",Skin rash,Stomach pain
+536,antiflu 12mg/ml syrup,Mcosvir Syrup,,,,,Nausea,Vomiting,Abdominal pain
+537,asiclopam tablet,Joycom Plus 0.5 mg/10 mg Tablet,Essita Plus Tablet,Galop Plus 10 Tablet,Censpram Plus Tablet,Feliz S Plus Tablet,Delayed ejaculation,Confusion,Vomiting
+538,atorlip gold 20 capsule,Avas Gold 75mg/20mg/75mg Capsule,Lipitab Gold 20 Capsule,Atorfit CV Gold 20 Capsule,Lipikind-Plus 20 Capsule,Atorva Gold 20 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+539,amrox-ls junior syrup,AG-LS Junior Syrup,Ampropil LS Syrup,Fleetus-PD Syrup,Cufiset LS Junior Syrup,Cuflift-LS Junior Syrup,Bronchitis (inflammation of the airways),Dizziness,Vomiting
+540,alcarex eye drop,Altadine Eye Drop,Caftadine Eye Drop,,,,Eye irritation,Itching,Stinging in the eyes
+541,amantex tablet,Comantrel-T Tablet,Manotrel 100mg Tablet,Amantrel Tablet,Parkitidin Tablet,,Nausea,Dryness in mouth,Constipation
+542,acenac tablet,Topnac 100mg Tablet,Topflam 100mg Tablet,Acicloflex 100mg Tablet,Acenal 100mg Tablet,Safronac 100mg Tablet,Vomiting,Stomach pain/epigastric pain,Nausea
+543,adapen gel,Alene Gel,Adaple 0.1% Gel,Acfree Gel,Vandep 0.1% Gel,Admark Gel,Erythema (skin redness),Dry skin,Skin peeling
+544,almefkem spas 10mg/250mg tablet,Spasmonil Plus Tablet,Spastone Tablet,Anglospas Forte 10 mg/250 mg Tablet,Mefnic 10mg/250mg Tablet,Colimex MF Tablet,Dizziness,Dryness in mouth,Blurred vision
+545,atonide cream,Desostar 0.05% Cream,Desomod Cream,Desova Cream,Desomag Cream,Dermanide Cream,"Application site reactions (burning, irritation, itching and redness)",Rash,
+546,amcard 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amlong Tablet,Camlodip 5mg Tablet,Headache,Fatigue,Nausea
+547,avene (abbott) 0.5mg/10mg tablet,Clotas Plus H 0.5mg/10mg Tablet,Clonax-Plus Tablet,Nuro Beta Plus 0.5mg/10mg Tablet,,,Confusion,Memory impairment,Drowsiness
+548,albutamol neo syrup,Vent PD 50mg/1mg Syrup,Tricos PD Syrup,,,,Nausea,Vomiting,Restlessness
+549,atchol-asp capsule,Liponorm-Asp Capsule,Zivast ASP 10 Capsule,Lipicure-AS 75 Capsule,Atorlip-ASP 10 Capsule,Atorec-ASP Capsule,Abdominal pain,Constipation,Flatulence
+550,arbitel-h tablet,Xstan-H Tablet,Telmitop HC 40 mg/12.5 mg Tablet,Telozit H 40mg/12.5mg Tablet,Telvas H 40/12.5 Tablet,Telirap H 40mg/12.5mg Tablet,Fatigue,Dizziness,Nausea
+551,aziderm 15% gel,Picspot Gel,,,,,"Application site reactions (burning, irritation, itching and redness)",,
+552,axcer  60mg tablet,Brigrel 60mg Tablet,Tigemac 60mg Tablet,Ticavic 60 Tablet,Torplat 60 Tablet,Ticaplat 60mg Tablet,Bleeding,Breathlessness,
+553,abiways-m tablet sr,Venphylin-M Tablet SR,Muciday Tablet SR,Acebrofact-M Tablet SR,Oxybro Plus Tablet SR,Acphy M 200mg/10mg Tablet SR,Vomiting,Heartburn,Stomach pain
+554,astymin-3  10mg/8mg infusion,,,,,,No common side effects seen,,
+555,amlopres l tablet,Etopres LP 5 mg/5 mg Tablet,Listril AM Tablet,Aamin L 5mg/5mg Tablet,Aldo L Tablet,Acedip Tablet,Ankle swelling,Headache,Tiredness
+556,amifru plus tablet,Torfree AL 10mg/5mg Tablet,,,,,Headache,Dizziness,Metabolic alkalosis
+557,armotraz tablet,Aromita Tablet,Femistra Tablet,Anastronat 1mg Tablet,Femitraz Tablet,Elinal  Tablet,Hot flashes,Nausea,Osteoporosis
+558,aldigesic th 100mg/4mg tablet,Bignac-MR 4 Tablet,Neorelax A 4mg Tablet,Thioquest A 100 mg/4 mg Tablet,Canace-TH4 Tablet,Thichoren AC 4 Tablet,Nausea,Vomiting,Heartburn
+559,abixim 200mg tablet,Cefilab 200 Tablet,Cefix 200 Tablet,Mahacef 200 Tablet,Cefi 200 Tablet,Ceftas 200 Tablet,Nausea,Stomach pain,Indigestion
+560,arbitel-mt 50 tablet er,Xstan Beta 50 Tablet ER,Telmikind Beta 50 Tablet ER,Telvas Beta 50 Tablet ER,Macsart Beta 50 Tablet ER,Tel-Revelol 40/50 Tablet ER,Headache,Weakness,Dizziness
+561,aziderm 20% gel,Zebor 20% Gel,Acnerus AZ 20% Gel,Ezanic 20% Gel,,,"Application site reactions (burning, irritation, itching and redness)",,
+562,amiject 500mg injection,Megamika 500mg Injection,Amilab 500mg Injection,Acil 500mg Injection,Emica 500mg Injection,Mika Best 500mg Injection,Increased blood urea,"Injection site reactions (pain, swelling, redness)",
+563,azikem 250mg tablet,Azicip 250 Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Zerox 250 Tablet,Vomiting,Nausea,Abdominal pain
+564,aten-d tablet,Atekind D 50mg/2.5mg Tablet,Atelol D 50mg/2.5mg Tablet,,,,Nausea,Indigestion,Diarrhea
+565,altonil 5 tablet md,Melolay Tablet MD,,,,,Headache,Drowsiness,
+566,azipro 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+567,addphos granules,,,,,,Nausea,Diarrhea,
+568,alkof ls syrup,Tucin D Junior Syrup,Zescoryl DX Syrup,Decoril DX 5mg/10mg/5mg Syrup,Snedex Syrup,Cortoux D Syrup,Nausea,Vomiting,Upset stomach
+569,alsita 50mg tablet,Sitabite 50mg Tablet,Istavel 50mg Tablet,Sitared 50 Tablet,Sitapride 50mg Tablet,Sitaday 50 Tablet,Nasopharyngitis (inflammation of the throat and nasal passages),Headache,Hypoglycemia (low blood glucose level)
+570,amlip 10 tablet,Aginal 10mg Tablet,Amodep 10mg Tablet,Lupidip 10mg Tablet,Amlokind 10mg Tablet,Amcard 10 Tablet,Headache,Fatigue,Nausea
+571,apdrops kt 0.4 eye drops bak free,Kitmox-KTL Ophthalmic Solution,Moxidrop-KT Eye Drop,Moxzap KT Eye Drop Bak Free,Topomox-KT Eye Drop Preservative Free,Moxi 4G KT Eye Drop,Conjunctivitis,Reduced visual acuity,Dry eye
+572,acimol forte 100mg/325mg/15mg tablet,Vetory SP Tablet,Ibugesic ASP Tablet,Acemiz-S Tablet,Dolokind AA Tablet,Anaflam Xps  Tablet,Nausea,Vomiting,Stomach pain
+573,acnetor ad gel,Alight Plus Gel 15gm for Acne Treatment,Nayzit Gel,Cutiwel Gel,Nioclean AD Gel,Acnesol A Nano Gel,Skin peeling,Erythema (skin redness),Itching
+574,atocor 40 tablet,Atorless 40mg Tablet,Atchol 40 Tablet,Lipikind 40 Tablet,Mactor 40 Tablet,Atorsave 40 Tablet,Dyspepsia,Abdominal pain,Indigestion
+575,angicam 5mg tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+576,aprezo 20 tablet,Apraize 20 Tablet,,,,,Diarrhea,Nausea,Vomiting
+577,asthakind-dx syrup sugar free,Wytuss-DMR Syrup Mint Sugar Free,Dcrocof-DX Syrup Sugar Free,Broxino-DX Syrup Sugar Free,Imotus D Syrup,Brikuff-DX Syrup,Nausea,Vomiting,Loss of appetite
+578,amitax 500mg injection,Megamika 500mg Injection,Amilab 500mg Injection,Acil 500mg Injection,Emica 500mg Injection,Mika Best 500mg Injection,Increased blood urea,"Injection site reactions (pain, swelling, redness)",
+579,actibile 150 tablet,Fortibile 150 Tablet,Ursomax 150 Tablet,Ursocad 150 Tablet,Udigold 150 Tablet,Urdiogem 150 Tablet,Abdominal pain,Diarrhea,Hair loss
+580,atorva gold 20 capsule,Atchol Gold 20 Capsule,Avas Gold 75mg/20mg/75mg Capsule,Lipitab Gold 20 Capsule,Atorfit CV Gold 20 Capsule,Lipikind-Plus 20 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+581,allercet cold syrup,Histacare Syrup,Zincold PD Syrup,Catarrh AF Syrup,Welminic Syrup Gluten Free,Solvin Cold AF Syrup,Vomiting,Headache,Restlessness
+582,alzero m tablet,Montina-L Tablet,Lecope-M Tablet,Monticope Tablet,Levocet M Tablet,Ronycold-M Tablet,Nausea,Diarrhea,Dryness in mouth
+583,azulix 1 mf forte tablet pr,Glimiprex MF Forte 1 Tablet PR,Duopil 1 Forte Tablet PR,Walaphage G 1 Forte Tablet PR,Glimestar-M1 Forte Tablet PR,Glimital-M1 Forte Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+584,azimax 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+585,aloja 25 tablet,,,,,,Headache,Hypoglycaemia (low blood sugar level) in combination with insulin or sulphonylurea,Nasopharyngitis (inflammation of the throat and nasal passages)
+586,arbitel-ct 40 tablet,Newtel-CH 40 Tablet,Venpres-CH 40mg/12.5mg Tablet,Telmikind-CT 40 Tablet,Telvas-CT 40 Tablet,Macsart CH 40 Tablet,Dizziness,Back pain,Sinus infection
+587,anthocyn-tx tablet,Texavil GH 250mg/50mg Tablet,Gluxi TX 250mg/50mg Tablet,Regnum-TX Tablet,,,Diarrhea,Nausea,Vomiting
+588,actoid 25mg capsule,Bdace 25mg Capsule,Sentrane 25mg Capsule,Glacitret 25mg Capsule,Acitrin 25mg Capsule,Acitkon 25mg Capsule,Dryness in mouth,Skin peeling,Itching
+589,atocor 10 tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,Atorlip 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+590,ascoril plus ls expectorant,Asthakind-LS Expectorant Cola Sugar Free,Nakuf LS+ SF Expectorant Cherry Sugar Free,Piritexyl-LS SF Expectorant,Tuspel LS 1 Expectorant,Macbery LS Expectorant Sugar Free,Nausea,Vomiting,Diarrhea
+591,aztor 5 tablet,Orvas 5 Tablet,Zivast 5 Tablet,Atorslim 5mg Tablet,Nustat 5mg Tablet,Atorise 5mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+592,aziwok 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+593,avastin 100mg injection,Bevnexxa 100mg Injection,Advamab 100mg Injection,Krabeva 100mg Injection,Bevacirel 100mg Injection,Bevarest 100mg Injection,Rectal bleeding,Taste change,Headache
+594,acitrin 25mg capsule,Bdace 25mg Capsule,Sentrane 25mg Capsule,Glacitret 25mg Capsule,Acitkon 25mg Capsule,Acitinext 25 Capsule,Dryness in mouth,Skin peeling,Itching
+595,antiblue 10mg tablet,Relidep 10mg Tablet,Amitone 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Odep 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+596,arpimune me 50mg capsule,Cyclonox 50mg Soft Gelatin Capsule,Sorigo 50mg Soft Gelatin Capsule,Sandimmun Neoral 50mg Soft Gelatin Capsule,Sandimmun Neoral 50mg Soft Gelatin Capsule,,Headache,Nausea,Vomiting
+597,azithral tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+598,ampiclox 250mg/250mg tablet,Synclox Kid Tablet,Baxin 250 mg/250 mg Tablet,RACLOX-LB 250MG/250MG TABLET,Tobiotic 250mg/250mg Tablet,Carolox Tablet,Allergic reaction,Rash,Stomach pain
+599,analiv 500 tablet,Hepacure Tablet,Hepmend 500mg Tablet,Lornit 500 Tablet,,,"Injection site reactions (pain, swelling, redness)",,
+600,actifed 25 mg/2.5 mg tablet,,,,,,Nausea,Headache,Nervousness
+601,amlong a-25 tablet,Betacard-AM 5mg/25mg Tablet,DavaIndia Amlodipine+Atenolol 5mg/25mg Tablet,Numlo-AT 5mg/25mg Tablet,Amlokos AT 5mg/25mg Tablet,Dipinol 5 mg/25 mg Tablet,Sleepiness,Headache,Ankle swelling
+602,azibact 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+603,alendrate 70mg tablet,Gatofos 70mg Tablet,Alendix 70mg Tablet,Rafomax 70mg Tablet,Alenost 70mg Tablet,Alenfos 70mg Tablet,Diarrhea,Headache,Heartburn
+604,amrosys cream,Amrolstar Cream,Amrfy XL 0.25% Cream,Amrolstar Cream,Amrobest Cream,Amtris Cream,Blisters on skin,Nail disorder,Skin irritation
+605,aminophylline 250mg injection,,,,,,Irritation,Frequent urge to urinate,Nausea
+606,ambrican 5 tablet,Zambri 5mg Tablet,Ibitan 5mg Tablet,Pulmonext 5 Tablet,Endobloc 5 Tablet,Volibris Tablet,Sinus inflammation,Nasal congestion (stuffy nose),Peripheral edema
+607,arkamin h tablet,,,,,,Sedation,Dryness in mouth,Decreased potassium level in blood
+608,alex-l cough syrup mango sugar free,Zerotuss Oral Suspension,Kofdip Oral Suspension Mango,Coff-Tuss Oral Suspension Mango,Zerotuss Oral Suspension Sugar Free,Lecofil LC Oral Suspension Delicious Mango,Nausea,Drowsiness,Dizziness
+609,atorfit 10 tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,Atorlip 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+610,alphagan p eye drop,Brimosun P Eye Drop,,,,,Blurred vision,Drowsiness,Headache
+611,arzep nasal spray,Azelast Nasal Spray,Azep Nasal Spray,Nazohist 0.1% Nasal Spray,Azevent Nasal Spray,,Bitter taste,Nasal irritation,
+612,angizem cd 90 capsule er,Dilzem CD 90 Capsule ER,,,,,Headache,Constipation,Dizziness
+613,advent 457mg tablet dt,Novamox CV 400mg/57mg Tablet DT,Mega CV Forte 400mg/57mg Tablet DT,Augpen Forte 400mg/57mg Tablet DT,Delpoclav 457mg Tablet DT,Clavam Forte DT Tablet,Nausea,Vomiting,Abdominal pain
+614,alcros 200 capsule,Candiforce 200 Capsule,Candirap 200 Capsule,Candiforce 200 Capsule,Canditral 200 Capsule,Syntran 200 Capsule,Nausea,Common cold,Cough
+615,amixide tablet,Trixide 25 mg/10 mg Tablet,Trixide-H 25mg/10mg Tablet,Mytrip Plus Tablet,Amitone Forte 25 mg/10 mg Tablet,Emotrip 25 mg/10 mg Tablet,Constipation,Difficulty in urination,Weight gain
+616,aztogold 10 capsule,Atorlip Gold 10 Capsule,Clavix Gold 10 Capsule,Lipicure Gold 10 Capsule,Atormac Gold 10 Capsule,Atonita Gold 75mg/10mg/75mg Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+617,alcoban 500mg tablet,DavaIndia Disulfiram 500mg Tablet,Cronodol 500mg Tablet,Disfit 500 Tablet,Dizone 500mg Tablet,Gigadif 500mg Tablet,Headache,Fatigue,Drowsiness
+618,arvast-a 75 capsule,Rozutin AP 10mg/75mg Capsule,Rosur Asp Capsule,Rosycap-ASP 10/75 Capsule,Zyrova ASP 75 Capsule,Roseday-A 10 Capsule,Nausea,Headache,Constipation
+619,amlopin-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+620,azilab 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+621,amnuring 10 tablet sr,Micobal-A Tablet SR,Amnurite  10 Tablet SR,,,,Constipation,Difficulty in urination,Weight gain
+622,ablung 200mg tablet sr,Venphylin-SR Tablet,Uliphyalline 200 SR Tablet,Asmasafe 200mg Tablet SR,Acethama 200 SR Tablet,Abiways 200 SR Tablet,Nausea,Headache,Vomiting
+623,afoglip tablet,Ecoglip-T Tablet,Dynaglipt Tablet,Tenlimac Tablet,Megagliptin Tablet,Tenali Tablet,Dizziness,Headache,Diarrhea
+624,acefen sp tablet,Octace Plus Tablet,Anzifen SP Tablet,Mitigate SP Tablet,Kace S 100mg/500mg/15mg Tablet,Starnac Plus 100mg/500mg/15mg Tablet,Nausea,Vomiting,Stomach pain
+625,aceclopar 100mg/325mg tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+626,acotrust  od 300mg tablet er,Acotop 300mg Tablet ER,Dycotiam SR 300mg Tablet,Orgamide 300mg Tablet ER,Actapro OD Tablet,Acogut 300 ER Tablet,Headache,Diarrhea,
+627,avas 40 tablet,Atorless 40mg Tablet,Atchol 40 Tablet,Lipikind 40 Tablet,Mactor 40 Tablet,Atorsave 40 Tablet,Dyspepsia,Abdominal pain,Indigestion
+628,acegaba nt 400mg/10mg tablet,Nervic-NT Tablet,Gabanyt 400mg/10mg Tablet,Mylamin GN Tablet,Dutam Plus Tablet,Arobaba NT 400mg/10mg Tablet,Constipation,Difficulty in urination,Weight gain
+629,alerid cold tablet,Demlar 5mg/325mg/10mg Tablet,Evercold Plus 5mg/325mg/10mg Tablet,Bio CC 5mg/325mg/10mg Tablet,Okacet Cold Tablet,Cheston Cold Tablet,Nausea,Vomiting,Headache
+630,acolate tablet,L Dio Plus Tablet,Zincold LP Tablet,Lecold Plus Tablet,Nazoset Tablet,Votcold Tablet,Nausea,Vomiting,Sleepiness
+631,antoxid e softgel capsule,Zevion 400 Capsule,Evopin 400 Capsule,E-Gen 400 Capsule,Toco-E 400 Capsule,,Headache,Dizziness,Blurred vision
+632,agoprex tablet,AGOVIZ 25MG TABLET,CIRCALTIN 25 MG TABLET,Agodep 25mg Tablet,Simelatin 25mg Tablet,Agopose 25mg Tablet,Headache,Nausea,Dizziness
+633,amlip 2.5 tablet,Amvasc 2.5mg Tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlokind 2.5 Tablet,Amlong 2.5 Tablet,Headache,Fatigue,Nausea
+634,alnitro 2.6 tablet cr,Nestin 2.6mg Tablet CR,Anglit 2.6 Tablet CR,Ntgn 2.6 Tablet CR,Nitrolife 2.6 Tablet CR,Nitro-G 2.6 Tablet CR,Blurred vision,Decreased blood pressure,Dizziness
+635,alkem piroxicam injection,Mizocam Injection,Zoxicam 20mg Injection,P Cam 20mg Injection,Doloage 20mg Injection,Campy Injection,"Injection site reactions (pain, swelling, redness)",Vomiting,Stomach pain
+636,azithral junior 200mg/5ml drop,Zohri 200mg/5ml Drop,,,,,Vomiting,Nausea,Abdominal pain
+637,amtris cream,Amrosys Cream,Amrolstar Cream,Amrfy XL 0.25% Cream,Amrolstar Cream,Amrosys Cream,Blisters on skin,Nail disorder,Skin irritation
+638,af 300 tablet,Aceflu 300 Tablet,Fluvell 300mg Tablet,Megmazole 300mg Tablet,Xiffung 300mg Tablet,Vilofung 300 Tablet,Headache,Nausea,Stomach pain
+639,alaspan ag syrup,Daslin NF Syrup,Extus Syrup,Alastin AG Syrup,Magnatuss A Syrup,Lorfast-AM Syrup,Nausea,Diarrhea,Vomiting
+640,asthalin ax jr expectorant,Levolin Plus Jr Expectorant,Bricarex LS Expectorant,Asthakind-LS Junior Expectorant,,,Nausea,Vomiting,Diarrhea
+641,abiways 200 sr tablet,Venphylin-SR Tablet,Uliphyalline 200 SR Tablet,Asmasafe 200mg Tablet SR,Acethama 200 SR Tablet,Abevia 200 SR Tablet,Nausea,Headache,Vomiting
+642,atorva 5 tablet,Orvas 5 Tablet,Zivast 5 Tablet,Atorslim 5mg Tablet,Nustat 5mg Tablet,Atorise 5mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+643,ambizyme 300mg tablet,,,,,,Headache,Nausea,Hair loss
+644,acegrow 3d tablet,Enact-3D Tablet,AFM Tablet,Acebronk MFX 10mg/120mg/200mg Tablet,Sebnix FM 10mg/120mg/200mg Tablet,Fexmont Ace 10mg/120mg/200mg Tablet,Nausea,Vomiting,Diarrhea
+645,alerfri tablet,Alril Tablet,Elzico New Tablet,Contus Plus Tablet,Capnyl Tablet,Freshmol Active Tablet,Nausea,Headache,Insomnia (difficulty in sleeping)
+646,azee 500 injection,Zycin 500mg Injection,Mzee 500mg Injection,Aziwok 500mg Injection,Azirow 500mg Injection,Toracin 500mg Injection,"Injection site reactions (pain, swelling, redness)",Vomiting,Nausea
+647,azenam 1gm injection,Reonam 1gm Injection,Druzem 1gm Injection,Azotum 1gm Injection,Limonam 1gm Injection,Manvit 1gm Injection,Rash,"Injection site reactions (pain, swelling, redness)",Vomiting
+648,aceret 25 capsule,Bdace 25mg Capsule,Sentrane 25mg Capsule,Glacitret 25mg Capsule,Acitrin 25mg Capsule,Acitkon 25mg Capsule,Dryness in mouth,Skin peeling,Itching
+649,alkarate liquid,Alkel Liquid,Citralite Liquid,Alkel Liquid,,,Stomach pain,Tiredness,Diarrhea
+650,alprax plus tablet sr,Neosert Plus 0.5mg/25mg Tablet SR,,,,,Nausea,Vomiting,Diarrhea
+651,arachitol 3l injection,Kalzin 3L Injection,NU D3 300000IU Injection,Avcal D3 Injection,,,"Injection site reactions (pain, swelling, redness)",Weakness,Muscle pain
+652,alex junior ds syrup,Respicure-D Syrup,Chericof Syrup,Respicure-D Syrup,Ataqued Syrup,Ascoril D Junior Cough Syrup,Nausea,Vomiting,Loss of appetite
+653,amtas-m 25 tablet pr,DavaIndia Amlodipine+Metoprolol Succinate 5mg/25mg Tablet PR,Metadon 25 AM Tablet PR,Gudpres-AM 25 Tablet PR,Amlokind Beta 5mg/25mg Tablet PR,Amloss-Beta Tablet PR,Nausea,Slow heart rate,Abdominal pain
+654,anset 4mg tablet md,Vorast 4mg Tablet MD,Vomiford -MD Tablet,Vomigen 4mg Tablet MD,Emetosim Tablet MD,Vomiflux 4mg Tablet MD,Constipation,Diarrhea,Fatigue
+655,acecloren tablet,Vetory SP Tablet,Ibugesic ASP Tablet,Acemiz-S Tablet,Dolokind AA Tablet,Anaflam Xps  Tablet,Nausea,Vomiting,Stomach pain
+656,atraxin 25 tablet,HD Zine 25mg Tablet,Hyzox 25 Tablet,Hizet 25mg Tablet,Hydil 25mg Tablet,Zyzine 25mg Tablet,Sedation,Nausea,Vomiting
+657,atorva gold 10 capsule,Atchol Gold 10 Capsule,Clavix Gold 10 Capsule,Atormac Gold 10 Capsule,Atonita Gold 75mg/10mg/75mg Capsule,Clopitab-CV Gold 10 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+658,amlong-tl 40 tablet,Telmikind-AM Tablet,Tytan-AM Tablet,Amlopres TL Tablet,Telvas-AM Tablet,Telmital-A Tablet,Sleepiness,Ankle swelling,Headache
+659,apidra 100iu/ml solution for injection,Apidra 100IU Cartridge,,,,,Hypoglycemia (low blood glucose level),Nasopharyngitis (inflammation of the throat and nasal passages),Upper respiratory tract infection
+660,apraize 30 tablet,Apremist 30mg Tablet,Aplex 30mg Tablet,Aprotyl 30mg Tablet,Mprila Tablet,Pdlast Tablet,Diarrhea,Nausea,Vomiting
+661,azithral 500mg injection,Zycin 500mg Injection,Mzee 500mg Injection,Aziwok 500mg Injection,Azirow 500mg Injection,Toracin 500mg Injection,"Injection site reactions (pain, swelling, redness)",Vomiting,Nausea
+662,ampoxin 1gm injection,Elclox Injection,Ace 500 mg/500 mg Injection,Mix 500 mg/500 mg Injection,Syncocin 500 mg/500 mg Injection,Baxin 500 mg/500 mg Injection,Allergic reaction,Rash,Stomach pain
+663,aspirin 300mg tablet,,,,,,Heartburn,Increased bleeding tendency,Nausea
+664,akurit tablet,Scc JR 150 mg/75 mg Tablet,Zid Kid 150mg/75mg Tablet,Rimmax 2Fdc 150 mg/75 mg Tablet,Ticinex 150mg/75mg Tablet,Coxcure 150mg/75mg Tablet,Dark colored urine,Rash,Vomiting
+665,agna 10000 capsule dr,Enzelo 10000 Capsule DR,Panstal Plus 10000 Capsule DR,,,,Stomach pain,Bloating,Diarrhea
+666,alkashot b6 oral solution delicious pineapple sugar free,Lizerton B6 Oral Solution Orange Sugar Free,K Mac B6  Oral Solution,Noculi B6 Oral Solution,Potron MB6 Oral Solution Delicious Pineapple Sugar Free,Alkamax MB Alkamax MB6 Oral Solution,Diarrhea,Nausea,Vomiting
+667,ascoril plus expectorant ginger lemon,Megaril Expectorant,Pulmo Rest S Expectorant,Respidac TBG Expectorant,Pedicute-A Expectorant,Sudin-EX Expectorant,Nausea,Indigestion,Bloating
+668,atormac gold 10 capsule,Atchol Gold 10 Capsule,Atorlip Gold 10 Capsule,Clavix Gold 10 Capsule,Atonita Gold 75mg/10mg/75mg Capsule,Clopitab-CV Gold 10 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+669,altonil plus 5 tablet,,,,,,Headache,Common cold,Back pain
+670,acimol-sp tablet,Nace Plus 100mg/15mg Tablet,Aclocare S 100mg/15mg Tablet,Aciana S 100mg/15mg Tablet,Aciky-S 100mg/15mg Tablet,Assert-S Tablet,Nausea,Vomiting,Heartburn
+671,avas cv 20 capsule,Atorec CV 20 Capsule,Astin CV 20 Capsule,Atorsave CV 20 Capsule,Statiga CV 20mg/75mg Capsule,Deplatt-AV 20 Capsule,Stomach pain,Diarrhea,Indigestion
+672,amlopres 2.5 tablet,Amvasc 2.5mg Tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlokind 2.5 Tablet,Amlip 2.5 Tablet,Headache,Fatigue,Nausea
+673,aceclowal p 100mg/500mg tablet,Xtra P 100 mg/500 mg Tablet,Jetace 100 mg/500 mg Tablet,Acebloc P 100 mg/500 mg Tablet,Icobit P 100 mg/500 mg Tablet,Aclomp P 100 mg/500 mg Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+674,airtec fb 400 instacap,,,,,,Tremors,Dryness in mouth,Palpitations
+675,ablung 100mg capsule,Broncocet ACB Capsule,Broncofil 100mg Capsule,Axeldox 100 Capsule,Ambrodil-XP Capsule,Oxybro 100 Capsule,Nausea,Headache,Vomiting
+676,alex cold syrup berry,Histacare Syrup,Zincold PD Syrup,Noblok-AF Syrup,Welminic Syrup Gluten Free,Solvin Cold AF Syrup,Vomiting,Headache,Restlessness
+677,armod 50 tablet,Acronite 50 Tablet,Walkalarm 50mg Tablet,Armovin 50 Tablet,Waklert 50 Tablet,Armovigil 50mg Tablet,Headache,Dizziness,Nausea
+678,alcros sb 50 capsule,Subitral 50mg Capsule,IT-Mac SB Capsule,Flucos ITZ 50 Capsule,Itaspor-SB Capsule,I-Win SB 50 Capsule,Nausea,Common cold,Cough
+679,ambrolite d plus syrup,Respicure-D Syrup,Chericof Syrup,Respicure-D Syrup,Ataqued Syrup,Ascoril D Junior Cough Syrup,Nausea,Vomiting,Loss of appetite
+680,alkem cold 5 mg/500 mg/5 mg tablet,Kolcare Tablet,Stalcold Tablet,Cetconil Tablet,Mucobar Cold Tablet,Nozee Tablet,Nausea,Vomiting,Headache
+681,azovas t 40 tablet,Zeblong T 40mg/8mg Tablet,Telmed-AZ 40 Tablet,Telma AZ 40mg/8mg Tablet,Azilta T 40 Tablet,Emdip T 40mg/8mg Tablet,Dizziness,Headache,Nausea
+682,a-ret 0.025% gel,Tronin 0.025% Gel,Renol 0.025% Gel,Factor A Gel,Dee-T Topical Gel,Retop-A 0.025% Gel,Erythema (skin redness),Skin irritation,Dry skin
+683,anafortan drop,,,,,,Arrhythmia (irregular heartbeats),Constipation,Difficulty in urination
+684,asomex-tm tablet,Espin TM  Tablet,,,,,Nausea,Taste change,Diarrhea
+685,aloatm 5% solution,Hydrahair Max Solution,Minch-AT Solution,Minokem-N 5% Solution,Minokem-N 5% Solution,,Application site irritation,Itching,Headache
+686,acekay sera tablet,Octace Plus Tablet,Anzifen SP Tablet,Mitigate SP Tablet,Kace S 100mg/500mg/15mg Tablet,Starnac Plus 100mg/500mg/15mg Tablet,Nausea,Vomiting,Stomach pain
+687,alprax 1mg tablet sr,Ansilumirm 1mg Tablet SR,Anxit 1mg Tablet SR,Alpramax 1mg Tablet SR,Zolipax 1mg Tablet SR,Zolam 1mg Tablet SR,Lightheadedness,Drowsiness,
+688,amoxible-cl 625 tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+689,alzil-m 10 tablet,Talimem 10 Tablet,Memancad D Tablet,Pezilus M 5mg/10mg Tablet,Donetine-M 10 Tablet,Alzigo M 5mg/10mg Tablet,Nausea,Vomiting,Loss of appetite
+690,ageless tablet,Aisa  Tablet,,,,,Nausea,Vomiting,
+691,apdrops dm eye drop,Moxiblu-D Eye Drop,Centaflox DX Eye Drop,Dexcin-M Eye Drop,Moxitak D Eye Drop,Occucom Eye Drop,Eye irritation,Eye discomfort,Blurred vision
+692,agycin 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+693,aminowel infusion,Albumed Infusion,,,,,Folic acid deficiency,Chills,Fever
+694,amnurite beta 10/40 er tablet,Triptorain-PR Tablet ER,,,,,Sedation,Weight gain,Fatigue
+695,asklerol 3% injection,Troydoca 30mg Injection,,,,,Injection site pain,Pain in extremities,Thrombophlebitis
+696,altonil 10 tablet,Delatonin Tablet,Cirkedian Tablet,Restfine 10mg Tablet,Lamrest 10 Tablet,Noctoryl 10mg Tablet,Headache,Drowsiness,
+697,atorlip gold 10 capsule,Clavix Gold 10 Capsule,Lipicure Gold 10 Capsule,Atormac Gold 10 Capsule,Atonita Gold 75mg/10mg/75mg Capsule,Clopitab-CV Gold 10 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+698,anti druf lotion,Ketostar Anti Dandruff Lotion,AF-K Lotion,Konaz ZP Lotion,Nuforce Anti Dandruff Lotion,Dencross Scalp Lotion,"Application site reactions (burning, irritation, itching and redness)",,
+699,aceloflam plus tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+700,altonil plus 10 tablet,,,,,,Headache,Common cold,Back pain
+701,actemra 400 mg injection,,,,,,Headache,High blood pressure,Upper respiratory tract infection
+702,ampilox cv 500 mg/125 mg tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+703,alconol 500mg tablet,DavaIndia Disulfiram 500mg Tablet,Cronodol 500mg Tablet,Disfit 500 Tablet,Dizone 500mg Tablet,Gigadif 500mg Tablet,Headache,Fatigue,Drowsiness
+704,atchol cv capsule,Lipikind CV 10mg/75mg Capsule,Starclop-AV 10 Capsule,Astin CV 10 Capsule,Avas CV 10 Capsule,Lipitab CV 10mg/75mg Capsule,Stomach pain,Diarrhea,Indigestion
+705,atormac gold 20 capsule,Avas Gold 75mg/20mg/75mg Capsule,Lipitab Gold 20 Capsule,Atorfit CV Gold 20 Capsule,Lipikind-Plus 20 Capsule,Atorva Gold 20 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+706,allegra 120mg tablet,Lcfex Tablet,Etofex 120mg Tablet,F Din 120mg Tablet,Nexofex 120mg Tablet,Fexise 120mg Tablet,Headache,Drowsiness,Dizziness
+707,acepar 100mg/325mg tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+708,ampanel 4 tablet,Perampil 4mg Tablet,Hetram 4mg Tablet,Percompa 4mg Tablet,Addperam 4mg Tablet,Perampa 4mg Tablet,Dizziness,Sleepiness,Fatigue
+709,albutamol syrup,Asthacure Plus Syrup,Ventidil B S Syrup,,,,Nausea,Vomiting,Bloating
+710,aztor ez tablet,Orvas-EZ Tablet,Aova-EZ 10mg/10mg Tablet,Zuvas E 10mg/10mg Tablet,Jvastor-EZ 10mg/10mg Tablet,Atba EZ 10mg/10mg Tablet,Nausea,Muscle pain,Increased transaminase level in blood
+711,alfakit tablet,Renoalfa Tablet,Nefrosave Keto Tablet,Ketodel Tablet,Ketomega Tablet,Henalog Tablet,No common side effects seen,,
+712,atocor 20 tablet,Atchol 20 Tablet,Lipikind 20 Tablet,Atorace 20 Tablet,Zivast 20 Tablet,Lipvas 20 Tablet,Dyspepsia,Abdominal pain,Indigestion
+713,amitryn 25 tablet,Amidep 25mg Tablet,Amitril 25mg Tablet,Amitar 25mg Tablet,Latilin 25mg Tablet,Amiford 25mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+714,atormac cv 20 capsule,Atorec CV 20 Capsule,Avas CV 20 Capsule,Astin CV 20 Capsule,Atorsave CV 20 Capsule,Statiga CV 20mg/75mg Capsule,Stomach pain,Diarrhea,Indigestion
+715,amrofast cream,Amrosys Cream,Amrolstar Cream,Amrolstar Cream,Amrosys Cream,Amtris Cream,Blisters on skin,Nail disorder,Skin irritation
+716,arbitel-mt 25 tablet er,Telmikaa MT 25 Tablet ER,Telvas Beta 25 Tablet ER,Telmikind Beta 40mg/25mg Tablet ER,Macsart Beta 25 Tablet ER,Telmed Beta 25 Tablet ER,Headache,Weakness,Dizziness
+717,azithral-xl 100 liquid,Infurox 100mg Oral Suspension,Ibithral 100 Rediuse Oral Suspension,Zithro Oral Suspension,Azilide 100 RediMed Oral Suspension,Azikem 100mg/5ml Oral Suspension,Vomiting,Nausea,Abdominal pain
+718,azi 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+719,alphadopa tablet,Emdopa 250mg Tablet,Aldopam 250mg Tablet,AM Dopa 250mg Tablet,GYNAPRES 250MG TABLET,Dopah 250 Tablet,Dizziness,Fatigue,Dryness in mouth
+720,abz 400mg tablet,Olworm 400mg Tablet,Zeebee Tablet,Zybend Tablet,Albekem 400mg Tablet,Sezole 400mg Tablet,Vomiting,Dizziness,Increased liver enzymes
+721,allerkast lc tablet,Montina-L Tablet,Lecope-M Tablet,Monticope Tablet,Levocet M Tablet,Ronycold-M Tablet,Nausea,Diarrhea,Dryness in mouth
+722,amlodac t 40 mg/5 mg tablet,Telmikind-AM Tablet,Tytan-AM Tablet,Amlopres TL Tablet,Telvas-AM Tablet,Telmital-A Tablet,Sleepiness,Ankle swelling,Headache
+723,ascodex dx syrup,Vistadex Syrup,Ascodex Cough Syrup,Aldrex Syrup,Imcuf DMR Syrup,Fencough Syrup,Nausea,Indigestion,Bloating
+724,aerodil-ls expectorant,Usal LS Expectorant,Sulung PD Expectorant,Tuspel LS Expectorant,Bro-Zedex  LS 0.5 Expectorant Raspberry,Macbery Junior  Expectorant,Nausea,Vomiting,Diarrhea
+725,absolut dm capsule,Myelogen Forte Capsule,,,,,Limited data available,,
+726,azikind 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+727,avoprost d 8mg/0.5mg capsule,Prostagard-D8 Capsule,Sildonix-D Capsule,Seeflow-D Capsule,Silocare D 8 Capsule,Silocap-D Capsule,Ejaculation disorder,Impotence,Headache
+728,arbitel-av tablet,StayHappi Telmisartan+Atorvastatin 40mg/10mg Tablet,Tesarto-A 40mg/10mg Tablet,Lipisar 40 mg/10 mg Tablet,Telbax ST 40mg/10mg Tablet,STALIA A  TABLET 40 MG/10 MG,Nausea,Stomach pain,Constipation
+729,amlopres-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+730,atorlip 80 tablet,Atorsave 80 Tablet,Jubicad 80mg Tablet,Statix 80mg Tablet,Dispitor 80mg Tablet,Modlip 80mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+731,aquasurge  max eye drop,Lubrifresh Gel Eye Drop,Misty Gel,Lubrifresh Gel,Ultra Gel Eye Drop,Just Tears Liquigel,Eye irritation,Burning eyes,Eye discomfort
+732,androgel,Androfil Gel,Testoheal Gel,Androtas Gel,Cernos Gel,Androrise Gel,"Injection site reactions (pain, swelling, redness)",Acne,Voice change
+733,atocor-cv 10 capsule,Lipikind CV 10mg/75mg Capsule,Atorniz-C Capsule,Atchol CV Capsule,Astin CV 10 Capsule,Avas CV 10 Capsule,Stomach pain,Diarrhea,Indigestion
+734,amnuring 5 tablet sr,Triptorain-MC 5 Tablet SR,,,,,Constipation,Difficulty in urination,Weight gain
+735,aldactone t 10 tablet,Vitator SP Tablet,Torsid Plus 10/50 Tablet,Torspec Plus 50mg/10mg Tablet,Jbtor Plus 50mg/10mg Tablet,Pretor Plus 50mg/10mg Tablet,Dizziness,Frequent urge to urinate,Headache
+736,ascodex plus syrup,Viscosin Syrup,Bromodyne Syrup,Amohist Syrup,,,Nausea,Diarrhea,Bloating
+737,addkay tablet pr,,,,,,"Injection site reactions (pain, swelling, redness)",Diarrhea,Nausea
+738,aggribloc 5mg infusion,Aggrilek Infusion,Terofib 5mg Infusion,Tirofuse Injection,Agrifib 5mg Infusion,Tiroban 5mg Infusion,Headache,Nausea,Hematoma
+739,acotibien 100mg tablet,Actapro Tablet,Dycotiam Tablet,Tocamide Tablet,Actapro Tablet,Acogut Tablet,Headache,Diarrhea,
+740,althrocin 100mg drop,,,,,,Nausea,Vomiting,Abdominal pain
+741,ambrodil-s plus syrup,Bro-Zedex  Syrup,,,,,Taste change,Nausea,Oral hypoesthesia
+742,alsita-m 100 forte tablet er,Sitawok M XR 1000 Tablet,Macsita-MXR 100/1000 Tablet,SitaOD MSR 100/1000 Tablet,Istamet XR Tablet,Sitared XR Tablet,Hypoglycemia (low blood glucose level),Nausea,Vomiting
+743,amoxil 250mg capsule,Amoxipen 250mg Capsule,Hipen A 250mg Capsule,Moxipal 250mg Capsule,Mokcan 250mg Capsule,Moxikem 250mg Capsule,Rash,Vomiting,Allergic reaction
+744,amnurite beta 10/40 er tablet,Triptorain-PR Tablet ER,,,,,Sedation,Weight gain,Fatigue
+745,asklerol 3% injection,Troydoca 30mg Injection,,,,,Injection site pain,Pain in extremities,Thrombophlebitis
+746,altonil 10 tablet,Delatonin Tablet,Cirkedian Tablet,Restfine 10mg Tablet,Lamrest 10 Tablet,Noctoryl 10mg Tablet,Headache,Drowsiness,
+747,atorlip gold 10 capsule,Clavix Gold 10 Capsule,Lipicure Gold 10 Capsule,Atormac Gold 10 Capsule,Atonita Gold 75mg/10mg/75mg Capsule,Clopitab-CV Gold 10 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+748,anti druf lotion,Ketostar Anti Dandruff Lotion,AF-K Lotion,Konaz ZP Lotion,Nuforce Anti Dandruff Lotion,Dencross Scalp Lotion,"Application site reactions (burning, irritation, itching and redness)",,
+749,aceloflam plus tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+750,altonil plus 10 tablet,,,,,,Headache,Common cold,Back pain
+751,actemra 400 mg injection,,,,,,Headache,High blood pressure,Upper respiratory tract infection
+752,ampilox cv 500 mg/125 mg tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+753,alconol 500mg tablet,DavaIndia Disulfiram 500mg Tablet,Cronodol 500mg Tablet,Disfit 500 Tablet,Dizone 500mg Tablet,Gigadif 500mg Tablet,Headache,Fatigue,Drowsiness
+754,atchol cv capsule,Lipikind CV 10mg/75mg Capsule,Starclop-AV 10 Capsule,Astin CV 10 Capsule,Avas CV 10 Capsule,Lipitab CV 10mg/75mg Capsule,Stomach pain,Diarrhea,Indigestion
+755,atormac gold 20 capsule,Avas Gold 75mg/20mg/75mg Capsule,Lipitab Gold 20 Capsule,Atorfit CV Gold 20 Capsule,Lipikind-Plus 20 Capsule,Atorva Gold 20 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+756,allegra 120mg tablet,Lcfex Tablet,Etofex 120mg Tablet,F Din 120mg Tablet,Nexofex 120mg Tablet,Fexise 120mg Tablet,Headache,Drowsiness,Dizziness
+757,acepar 100mg/325mg tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+758,ampanel 4 tablet,Perampil 4mg Tablet,Hetram 4mg Tablet,Percompa 4mg Tablet,Addperam 4mg Tablet,Perampa 4mg Tablet,Dizziness,Sleepiness,Fatigue
+759,albutamol syrup,Asthacure Plus Syrup,Ventidil B S Syrup,,,,Nausea,Vomiting,Bloating
+760,aztor ez tablet,Orvas-EZ Tablet,Aova-EZ 10mg/10mg Tablet,Zuvas E 10mg/10mg Tablet,Jvastor-EZ 10mg/10mg Tablet,Atba EZ 10mg/10mg Tablet,Nausea,Muscle pain,Increased transaminase level in blood
+761,alfakit tablet,Renoalfa Tablet,Nefrosave Keto Tablet,Ketodel Tablet,Ketomega Tablet,Henalog Tablet,No common side effects seen,,
+762,atocor 20 tablet,Atchol 20 Tablet,Lipikind 20 Tablet,Atorace 20 Tablet,Zivast 20 Tablet,Lipvas 20 Tablet,Dyspepsia,Abdominal pain,Indigestion
+763,amitryn 25 tablet,Amidep 25mg Tablet,Amitril 25mg Tablet,Amitar 25mg Tablet,Latilin 25mg Tablet,Amiford 25mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+764,atormac cv 20 capsule,Atorec CV 20 Capsule,Avas CV 20 Capsule,Astin CV 20 Capsule,Atorsave CV 20 Capsule,Statiga CV 20mg/75mg Capsule,Stomach pain,Diarrhea,Indigestion
+765,amrofast cream,Amrosys Cream,Amrolstar Cream,Amrolstar Cream,Amrosys Cream,Amtris Cream,Blisters on skin,Nail disorder,Skin irritation
+766,arbitel-mt 25 tablet er,Telmikaa MT 25 Tablet ER,Telvas Beta 25 Tablet ER,Telmikind Beta 40mg/25mg Tablet ER,Macsart Beta 25 Tablet ER,Telmed Beta 25 Tablet ER,Headache,Weakness,Dizziness
+767,azithral-xl 100 liquid,Infurox 100mg Oral Suspension,Ibithral 100 Rediuse Oral Suspension,Zithro Oral Suspension,Azilide 100 RediMed Oral Suspension,Azikem 100mg/5ml Oral Suspension,Vomiting,Nausea,Abdominal pain
+768,azi 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+769,alphadopa tablet,Emdopa 250mg Tablet,Aldopam 250mg Tablet,AM Dopa 250mg Tablet,GYNAPRES 250MG TABLET,Dopah 250 Tablet,Dizziness,Fatigue,Dryness in mouth
+770,abz 400mg tablet,Olworm 400mg Tablet,Zeebee Tablet,Zybend Tablet,Albekem 400mg Tablet,Sezole 400mg Tablet,Vomiting,Dizziness,Increased liver enzymes
+771,allerkast lc tablet,Montina-L Tablet,Lecope-M Tablet,Monticope Tablet,Levocet M Tablet,Ronycold-M Tablet,Nausea,Diarrhea,Dryness in mouth
+772,amlodac t 40 mg/5 mg tablet,Telmikind-AM Tablet,Tytan-AM Tablet,Amlopres TL Tablet,Telvas-AM Tablet,Telmital-A Tablet,Sleepiness,Ankle swelling,Headache
+773,ascodex dx syrup,Vistadex Syrup,Ascodex Cough Syrup,Aldrex Syrup,Imcuf DMR Syrup,Fencough Syrup,Nausea,Indigestion,Bloating
+774,aerodil-ls expectorant,Usal LS Expectorant,Sulung PD Expectorant,Tuspel LS Expectorant,Bro-Zedex  LS 0.5 Expectorant Raspberry,Macbery Junior  Expectorant,Nausea,Vomiting,Diarrhea
+775,absolut dm capsule,Myelogen Forte Capsule,,,,,Limited data available,,
+776,azikind 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+777,avoprost d 8mg/0.5mg capsule,Prostagard-D8 Capsule,Sildonix-D Capsule,Seeflow-D Capsule,Silocare D 8 Capsule,Silocap-D Capsule,Ejaculation disorder,Impotence,Headache
+778,arbitel-av tablet,StayHappi Telmisartan+Atorvastatin 40mg/10mg Tablet,Tesarto-A 40mg/10mg Tablet,Lipisar 40 mg/10 mg Tablet,Telbax ST 40mg/10mg Tablet,STALIA A  TABLET 40 MG/10 MG,Nausea,Stomach pain,Constipation
+779,amlopres-at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+780,atorlip 80 tablet,Atorsave 80 Tablet,Jubicad 80mg Tablet,Statix 80mg Tablet,Dispitor 80mg Tablet,Modlip 80mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+781,aquasurge  max eye drop,Lubrifresh Gel Eye Drop,Misty Gel,Lubrifresh Gel,Ultra Gel Eye Drop,Just Tears Liquigel,Eye irritation,Burning eyes,Eye discomfort
+782,androgel,Androfil Gel,Testoheal Gel,Androtas Gel,Cernos Gel,Androrise Gel,"Injection site reactions (pain, swelling, redness)",Acne,Voice change
+783,atocor-cv 10 capsule,Lipikind CV 10mg/75mg Capsule,Atorniz-C Capsule,Atchol CV Capsule,Astin CV 10 Capsule,Avas CV 10 Capsule,Stomach pain,Diarrhea,Indigestion
+784,amnuring 5 tablet sr,Triptorain-MC 5 Tablet SR,,,,,Constipation,Difficulty in urination,Weight gain
+785,aldactone t 10 tablet,Vitator SP Tablet,Torsid Plus 10/50 Tablet,Torspec Plus 50mg/10mg Tablet,Jbtor Plus 50mg/10mg Tablet,Pretor Plus 50mg/10mg Tablet,Dizziness,Frequent urge to urinate,Headache
+786,ascodex plus syrup,Viscosin Syrup,Bromodyne Syrup,Amohist Syrup,,,Nausea,Diarrhea,Bloating
+787,addkay tablet pr,,,,,,"Injection site reactions (pain, swelling, redness)",Diarrhea,Nausea
+788,aggribloc 5mg infusion,Aggrilek Infusion,Terofib 5mg Infusion,Tirofuse Injection,Agrifib 5mg Infusion,Tiroban 5mg Infusion,Headache,Nausea,Hematoma
+789,acotibien 100mg tablet,Actapro Tablet,Dycotiam Tablet,Tocamide Tablet,Actapro Tablet,Acogut Tablet,Headache,Diarrhea,
+790,althrocin 100mg drop,,,,,,Nausea,Vomiting,Abdominal pain
+791,ambrodil-s plus syrup,Bro-Zedex  Syrup,,,,,Taste change,Nausea,Oral hypoesthesia
+792,alsita-m 100 forte tablet er,Sitawok M XR 1000 Tablet,Macsita-MXR 100/1000 Tablet,SitaOD MSR 100/1000 Tablet,Istamet XR Tablet,Sitared XR Tablet,Hypoglycemia (low blood glucose level),Nausea,Vomiting
+793,amoxil 250mg capsule,Amoxipen 250mg Capsule,Hipen A 250mg Capsule,Moxipal 250mg Capsule,Mokcan 250mg Capsule,Moxikem 250mg Capsule,Rash,Vomiting,Allergic reaction
+794,amicet plus tablet,Esartan AP Tablet,Lecope-AD Tablet,Kylazine AP 60mg/5mg/5mg Tablet,,,Vomiting,Dryness in mouth,Headache
+795,azitus 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+796,atorlip-asp 20 capsule,Atorise Asp 20mg/75mg Capsule,DavaIndia Atorvastatin+Aspirin 20mg/75mg Capsule,Biotor Asp 20mg/75mg Capsule,Atorvatin AP 20/75 Capsule,Lipvas ASP 20 Capsule,Abdominal pain,Constipation,Flatulence
+797,allegra 30mg tablet,Altiva 30mg Tablet,Ultigra 30mg Tablet,Delpodine 30mg Tablet,Fex 30mg Tablet,Fexomax 30mg Tablet,Headache,Drowsiness,Dizziness
+798,acutrol c 400 tablet,Phoscut 400 Tablet,Revlamer 400 Tablet,Forsemer 400mg Tablet,Selaglob 400mg Tablet,Acutrol 400 Tablet,Nausea,Vomiting,Upper abdominal pain
+799,ace proxyvon th 4 tablet,Thioford AP Tablet,Bakwel-AP Tablet,Fense TH Tablet,Anaflam TH  4  Tablet,Thio-Seradic Tablet,Nausea,Vomiting,Heartburn
+800,almefkem-d tablet,Tavera M Tablet,Drofem Tablet,Namspas Dr Tablet,Verispas MF 80 mg/250 mg Tablet,Egadro MF 80mg/250mg Tablet,Nausea,Vomiting,Diarrhea
+801,anfoe 4000iu injection,Erypro 4000IU Injection,Relipoietin 4000IU Injection,Vintor 4000 Injection,Eporise 4000 Injection,Repoitin 4000 Injection,High blood pressure,Nausea,Vomiting
+802,auxerg cream,,,,,,Dry skin,Burning sensation,Skin irritation
+803,ata tablet,Drownil 20mg Tablet,Bilacalm Tablet,Bilachek Tablet,Bilambic 20mg Tablet,Bilacad Tablet,Headache,Drowsiness,
+804,amisant 200 tablet,Cgsulpride 200mg Tablet,Zopride 200mg Tablet,Sulvol 200mg Tablet,Zulpride 200mg Tablet,Amicest 200mg Tablet,Nausea,Vomiting,Dryness in mouth
+805,allercet-l tablet,L Dio 1 Tablet,Lecope Tablet,LCZ Tablet,1-AL Tablet,L Hist Tablet,Sleepiness,Fatigue,Dryness in mouth
+806,andre plus eye drops,New I-Kul Plus Ophthalmic Solution,New I-Kul Plus Ophthalmic Solution,Zeecool Plus Eye Drops,,,Eye irritation,Burning eyes,Stinging in the eyes
+807,arbitel 20 tablet,Macsart 20 Tablet,Telmikind 20 Tablet,Inditel 20 Tablet,Telma 20 Tablet,Telma 20 Tablet,Upper respiratory tract infection,Sinus infection,Back pain
+808,acrotac 10mg capsule,A Tret 10mg Capsule,Acitros 10mg Capsule,Acipsor 10mg Capsule,Acitrin 10mg Capsule,Zoratame 10mg Capsule,Dryness in mouth,Skin peeling,Itching
+809,ara eye gel,Eyemist Gel,Genteal Gel,,,,Blurred vision,Eye irritation,Eye pain
+810,aginal 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+811,amtas 2.5 tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlokind 2.5 Tablet,Amlip 2.5 Tablet,Amlong 2.5 Tablet,Headache,Fatigue,Nausea
+812,aricep 10 tablet,Nepzil 10mg Tablet,Bonzil 10mg Tablet,Dnp 10mg Tablet,Alzepil 10mg Tablet,Donzil 10mg Tablet,Nausea,Diarrhea,Insomnia (difficulty in sleeping)
+813,ad 10mg sachet,Hydral 10mg Sachet,Racy 10mg Sachet,Lomorest 10mg Sachet,Zomatril 10 Sachet,Dotril 10mg Sachet,Skin rash,Vomiting,Dizziness
+814,a ret hc cream,Acnon HQ Cream,Tretcee HQ Cream,Melzorg Cream,Melalite Plus Cream,,Thinning of skin,Dry skin,"Application site reactions (burning, irritation, itching and redness)"
+815,astin cv 10 capsule,Lipikind CV 10mg/75mg Capsule,Starclop-AV 10 Capsule,Atchol CV Capsule,Avas CV 10 Capsule,Lipitab CV 10mg/75mg Capsule,Stomach pain,Diarrhea,Indigestion
+816,amodep 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+817,arifine 2.5 tablet,Aripel 2.5mg Tablet,Aricalm 2.5mg Tablet,Ariday 2.5 Tablet,,,Akathisia (inability to stay still),Anxiety,Blurred vision
+818,azithral 250mg dt tablet,3A 250mg Tablet DT,Elzee 250mg Tablet DT,Azilide 250mg Tablet DT,Azix 250mg Tablet DT,Azbact 250mg Tablet DT,Vomiting,Nausea,Abdominal pain
+819,apilysin syrup,Apeton Plus Syrup,Appegain Syrup,Episure Syrup,Appcyp Syrup,Cpol Syrup,Constipation,Dryness in mouth,Drowsiness
+820,acetik-hc ear drop,,,,,,"Application site reactions (burning, irritation, itching and redness)",,
+821,aricep-m  tablet,DavaIndia Donepezil+Memantine 5mg/5mg Tablet,Denjil-Plus Tablet,Depzil Plus 5mg/5mg Tablet,Larentine D 5mg/5mg Tablet,Talimem 5 Tablet,Nausea,Vomiting,Loss of appetite
+822,airtec fb 200 instacap,,,,,,Tremors,Dryness in mouth,Palpitations
+823,amoxy 250mg capsule,Amoxipen 250mg Capsule,Hipen A 250mg Capsule,Moxipal 250mg Capsule,Amoxil 250mg Capsule,Moxikem 250mg Capsule,Rash,Vomiting,Allergic reaction
+824,alorti tablet,Alastin 10mg Tablet,Lorhine 10mg Tablet,Claridin Tablet,Loritoz 10mg Tablet,Lorshine 10mg Tablet,Sleepiness,Headache,
+825,app.up plus syrup,Aptitrust Syrup,,,,,Constipation,Dryness in mouth,Drowsiness
+826,atormac tg tablet,Ozovas-F  Tablet,Orvas-FT Tablet,Lipikind-F Tablet,Zivast-F Tablet,Atchol-F Tablet,Nausea,Stomach pain,Constipation
+827,afoglip m  1000 tablet er,Glipijub M Forte Tablet ER,Tenali M 1000mg/20mg Tablet ER,Tenligon-M 1000 Tablet ER,Tenlivas M 1000mg/20mg Tablet ER,Glipon MF Forte Tablet ER,Hypoglycemia (low blood glucose level),Nausea,Vomiting
+828,ambistryn-s 1gm injection,MERSTREP 1GM INJECTION,Streptomac 1gm Injection,,,,Skin rash,Vomiting,Fever
+829,anti cold syrup,Wentcold Syrup,Pcan-P Syrup,Finecold Plus Syrup,Activent Kid Syrup,Histadol Syrup,Diarrhea,Rash,Nausea
+830,anxipam 0.5mg tablet md,Lozep 0.5mg Tablet MD,Clodep 0.5mg Tablet MD,Prozepton 0.5mg Tablet MD,Clonapax 0.5mg Tablet MD,Clonam-IR 0.5 Tablet MD,Depression,Dizziness,Drowsiness
+831,abmac tablet,Levotrack AM 200mg/5mg/10mg Tablet,DE Allergi AB 200mg/5mg/10mg Tablet,Adnofast DL 200mg/5mg/10mg Tablet,Bigphylin Plus 200mg/5mg/10mg Tablet,Con DL 200mg/5mg/10mg Tablet,Nausea,Vomiting,Stomach pain
+832,alkof syrup orange,Nanokof Syrup,Chupp LS Syrup,Lecof Junior Syrup,Agikuff Syrup,Libitus Plus Syrup,Nausea,Diarrhea,Bloating
+833,anin tablet,Dubnil 5mg Tablet,Fetugard 5mg Tablet,Pregular 5mg Tablet,Prolin A 5mg Tablet,Lutanin 5mg Tablet,Edema (swelling),Bloating,Depression
+834,acnedap plus gel,Dapsib Gel,Acnewar Plus Gel,,,,Skin irritation,Itching,Burning sensation at the site of application
+835,apresol plus tablet,Sorbitrate HF Tablet,Nitrohart Tablet,Muzika 20mg/37.5mg Tablet,Isorus Tablet,Isolazine Tablet,Headache,Dizziness,
+836,azulix mv 2mg/500mg/0.3mg tablet sr,Vogliboz-GM3 Tablet SR,Vogs-GM 2/0.3 Tablet SR,Voglinorm GM 2/0.3 Tablet SR,T-Vobit VX2 Tablet SR,Zoryl MV 2/0.3 Tablet SR,Nausea,Diarrhea,Abdominal pain
+837,ace-proxyvon sp tablet,Vetory SP Tablet,Ibugesic ASP Tablet,Acemiz-S Tablet,Dolokind AA Tablet,Anaflam Xps  Tablet,Nausea,Vomiting,Stomach pain
+838,angistat 2.5 capsule tr,Angiplat 2.5 Capsule TR,Vasovin - XL 2.5 Capsule,Angispan - TR 2.5mg Capsule,,,Blurred vision,Decreased blood pressure,Dizziness
+839,anafortan n 100 mg/50 mg tablet,Sumo Spas 100mg/50mg Tablet,Camifort N Tablet,,,,Nausea,Vomiting,Constipation
+840,atorlip cv capsule,Lipikind CV 10mg/75mg Capsule,Atchol CV Capsule,Astin CV 10 Capsule,Avas CV 10 Capsule,Lipitab CV 10mg/75mg Capsule,Stomach pain,Diarrhea,Indigestion
+841,anozest cream,Nifedip LA  Cream,Anomed L Cream,Anobliss Cream,Anorelief Cream,Escot Cream,Anal irritation,,
+842,amoxil 250mg tablet dt,Mokcan 250mg Tablet DT,Amurol 250mg Tablet DT,Lupimox 250mg Tablet DT,Moxipil 250mg Tablet DT,Pressmox 250mg Tablet DT,Rash,Vomiting,Allergic reaction
+843,acemiz 100mg tablet,Topnac 100mg Tablet,Topflam 100mg Tablet,Acicloflex 100mg Tablet,Acenal 100mg Tablet,Safronac 100mg Tablet,Vomiting,Stomach pain/epigastric pain,Nausea
+844,alrista plus tablet sr,Epineuron SR Tablet,Epalpex-M SR Tablet,Epalrica-M Tablet SR,Aldonil Plus Tablet SR,Nurestat-Plus Tablet SR,Nausea,Vomiting,Increased liver enzymes
+845,ascapil 12a tablet dt,,,,,,Nausea,Vomiting,Diarrhea
+846,addex 500mg ointment,Codol Ointment,Codol Ointment,Cadress Ointment,Idoxine Ointment,,Pain,Swelling,
+847,acetik ear drop,Otocil 2% Ear Drop,Otocil 2% Ear Drop,,,,Burning sensation,Irritation,Local reaction
+848,aisa  tablet,Ageless Tablet,,,,,Nausea,Vomiting,
+849,acolate p plus tablet,Levlar Tablet,Apicold AL Tablet,Medilocold Tablet,Alerzilevo Cold Tablet,Lecet-AP Tablet,Nausea,Vomiting,Dryness in mouth
+850,airz-f digihaler,Forglyn CFC Free Inhaler,,,,,Indigestion,High blood pressure,Nasopharyngitis (inflammation of the throat and nasal passages)
+851,anleo-dsr capsule,Linpan-D Capsule PR,Padup Capsule PR,Pantadom-SR Capsule,Pantakind-DSR Capsule,Pantosec D SR Capsule,Diarrhea,Stomach pain,Flatulence
+852,aladrine 2.5mg tablet,Jolavi Tablet,Midgeo Tablet,Actiful 2.5mg Tablet,Midotab 2.5 Tablet,Midrex 2.5mg Tablet,Headache,Nausea,Rash
+853,azarga eye drop,,,,,,Itching,Irritation,Stinging sensation
+854,amlopres 10 tablet,Aginal 10mg Tablet,Amodep 10mg Tablet,Lupidip 10mg Tablet,Amlokind 10mg Tablet,Amcard 10 Tablet,Headache,Fatigue,Nausea
+855,anti-thyrox 5 tablet,Carmazole 5mg Tablet,Thyrodip 5mg Tablet,Thyrozole 5mg Tablet,Neo-Mercazole 5 Tablet,Carkozom 5 Tablet,Nausea,Headache,Joint pain
+856,anthocyn-tx cream,M-Laz Cream,Depiluk Cream,Nucell-TX Cream,Glu-Cell Cream,Xinfine Cream,Dry skin,Skin rash,
+857,anomed l cream,Nifedip LA  Cream,Anozest Cream,Anobliss Cream,Anorelief Cream,Escot Cream,Anal irritation,,
+858,ampoxin-cv 500mg/125mg tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+859,azilide 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+860,app up syrup,Trisotis Plus Syrup,Anzicyp Syrup,Mecyp Syrup,Cytadine-TS Syrup,Pneucyprodin T Syrup,Constipation,Dryness in mouth,Drowsiness
+861,apraize 10 tablet,Apxenta 10 Tablet,Apxenta 10 Tablet,Aprezo 10 Tablet,,,Diarrhea,Nausea,Vomiting
+862,alkasol oral solution sugar free,Uridol Oral Solution,,,,,Stomach pain,Tiredness,Diarrhea
+863,abirapro 250mg tablet,Zelgor 250mg Tablet,Abitate 250mg Tablet,Xbira 250mg Tablet,Zecyte 250mg Tablet,Abura Tablet,Edema (swelling),Vomiting,Decreased potassium level in blood
+864,acolate kid syrup mango,Indikof P Syrup,Akuminic P Syrup,Cufmol Plus Syrup,Colprex Syrup Strawberry,Tricold Plus Syrup,Diarrhea,Rash,Nausea
+865,androtas gel,Androfil Gel,Testoheal Gel,Androgel,Cernos Gel,Androrise Gel,"Injection site reactions (pain, swelling, redness)",Acne,Voice change
+866,atorec-asp capsule,Liponorm-Asp Capsule,Zivast ASP 10 Capsule,Atchol-ASP Capsule,Lipicure-AS 75 Capsule,Atorlip-ASP 10 Capsule,Abdominal pain,Constipation,Flatulence
+867,aziwok 100 liquid,Infurox 100mg Oral Suspension,Ibithral 100 Rediuse Oral Suspension,Azilide 100 RediMed Oral Suspension,Azikem 100mg/5ml Oral Suspension,Pratham 100 Rediuse Oral Suspension,Vomiting,Nausea,Abdominal pain
+868,amitryn-c tablet,Trixide-H Tablet,Emotrip 12.5 mg/5 mg Tablet,Aculip H 12.5mg/5mg Tablet,Trixide 12.5 mg/5 mg Tablet,Kimitrip 12.5mg/5mg Tablet,Constipation,Difficulty in urination,Weight gain
+869,azee 1000 tablet,Aziagio 1000mg Tablet,Bactrocin 1000mg Tablet,Laz 1000mg Tablet,Azysafe 1000mg Tablet,Orizee 1000mg Tablet,Vomiting,Nausea,Abdominal pain
+870,adefresh 400 tablet,Poinmeth 400mg Tablet,SAMPURE 400MG TABLET,INTASAM 400 MG TABLET,Livopam 400 Tablet,Adenomax 400mg Tablet,Nausea,Diarrhea,Upset stomach
+871,abphylin 100mg capsule,Broncocet ACB Capsule,Broncofil 100mg Capsule,Axeldox 100 Capsule,Ambrodil-XP Capsule,Oxybro 100 Capsule,Nausea,Headache,Vomiting
+872,adriamycin 50mg injection,Metodox 50mg Injection,Doxorex 50mg Injection,Doxilyd 50mg Injection,Adronex RD 50mg Injection,Doxotero 50mg Injection,Vomiting,Allergic reaction,Nausea
+873,azulix mv 2/0.2 tablet sr,Starvog GM 2 Tablet SR,Metsmall GV 2 Tablet SR,Voglibite-GM 2 Tablet SR,Glyciphage-VG2 Tablet SR,Amaryl MV 2mg Tablet SR,Nausea,Diarrhea,Abdominal pain
+874,absolut dm capsule,Myelogen Forte Capsule,,,,,Limited data available,,
+875,ambrodil-xp capsule,Broncofil 100mg Capsule,Axeldox 100 Capsule,Oxybro 100 Capsule,Abby 100mg Capsule,Bromucas 100 Capsule,Nausea,Headache,Vomiting
+876,augxetil 500mg tablet,Cefoxim 500 Tablet,Zefu 500 Tablet,Bigcef 500 Tablet,Cefakind 500 Tablet,Pulmocef 500 Tablet,Rash,Vomiting,Allergic reaction
+877,adiff gel,Alene Gel,Difra Gel,Adaple 0.1% Gel,Acfree Gel,Vandep 0.1% Gel,Erythema (skin redness),Dry skin,Skin peeling
+878,augplat 250mcg injection,Romiset Injection,Romy Injection,,,,Headache,Joint pain,Dizziness
+879,actiheal-d tablet,Myoheal D Tablet,Edinase-D  Tablet,Seradic-Plus Tablet,Umanoflam-D Tablet,Coevitenz  -D Tablet,Nausea,Vomiting,Heartburn
+880,adilip 45 tablet dr,,,,,,Increased liver enzymes,Nausea,Vomiting
+881,adalipca 40mg injection,Cipleumab 40mg Injection,Plamumab 40mg Injection,Adalirel 40mg Injection,Adalimac 40mg Injection,Envira 40mg Injection,Headache,Sinus inflammation,Rash
+882,alfa gpc tablet,,,,,,No common side effects seen,,
+883,atracurium besilate injection,,,,,,Itching,Skin rash,Erythema (skin redness)
+884,ambropil br syrup,,,,,,Headache,Dryness in mouth,Upset stomach
+885,andriol 40mg testocap,Testoki 40mg Capsule,Nuvir 40mg Capsule,Andriol 40mg Capsule,Testonova 40mg Capsule,Androsar 40mg Capsule,Diarrhea,Stomach discomfort,Increased sweating
+886,analgin 500mg tablet,Bral 500mg Tablet,,,,,Vomiting,Stomach pain,Nausea
+887,asprito 5 tablet,Aritab 5mg Tablet,Arip 5mg Tablet,Aripiren 5mg Tablet,Ripramat 5 Tablet,Nulet 5 Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+888,accuzon 1g injection,Riax 1000mg Injection,Axitrix 1000mg Injection,Texar 1000mg Injection,Arazex Injection,Avezone 1000mg Injection,Diarrhea,Abnormal liver function tests,Rash
+889,atrest 25 tablet,Ticfree Tablet,Ticrest 25 Tablet,Ticstop Tablet,Revocon Tablet,,Nausea,Insomnia (difficulty in sleeping),Anxiety
+890,amlodac m tablet pr,Gudpres-AM 50 Tablet PR,Protol-AM Tablet PR,Amlopin-M Tablet PR,Amlovas XM  5/50 Tablet PR,Prolomet AM 50 Tablet PR,Nausea,Slow heart rate,Abdominal pain
+891,amicin 500mg injection,Megamika 500mg Injection,Amilab 500mg Injection,Acil 500mg Injection,Emica 500mg Injection,Mika Best 500mg Injection,Increased blood urea,"Injection site reactions (pain, swelling, redness)",
+892,atocor gold 20 capsule,Avas Gold 75mg/20mg/75mg Capsule,Lipitab Gold 20 Capsule,Atorfit CV Gold 20 Capsule,Lipikind-Plus 20 Capsule,Atorva Gold 20 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+893,adilip 45 tablet dr,,,,,,Increased liver enzymes,Nausea,Vomiting
+894,analgin 500mg tablet,Bral 500mg Tablet,,,,,Vomiting,Stomach pain,Nausea
+895,asprito 5 tablet,Aritab 5mg Tablet,Arip 5mg Tablet,Aripiren 5mg Tablet,Ripramat 5 Tablet,Nulet 5 Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+896,atocor 80 tablet,Atorsave 80 Tablet,Jubicad 80mg Tablet,Statix 80mg Tablet,Dispitor 80mg Tablet,Lipisafe 80mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+897,atrest 25 tablet,Ticfree Tablet,Ticrest 25 Tablet,Ticstop Tablet,Revocon Tablet,,Nausea,Insomnia (difficulty in sleeping),Anxiety
+898,actifed plus tablet,,,,,,Nausea,Allergic reaction,Sleepiness
+899,alcinac p 100mg/325mg tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+900,arpizol 15 tablet,Apiz 15mg Tablet,Arimelt 15mg Tablet,Arzur 15 Tablet,Nulet 15 Tablet,Aripiren 15mg Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+901,arigaba nt tablet,Nervic-NT Tablet,Gabanyt 400mg/10mg Tablet,Mylamin GN Tablet,Dutam Plus Tablet,Arobaba NT 400mg/10mg Tablet,Constipation,Difficulty in urination,Weight gain
+902,acivir 400mg syrup,,,,,,Headache,Dizziness,Vomiting
+903,amlomed at 5mg/50mg tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+904,azusa t 8/40 tablet,Zeblong T 40mg/8mg Tablet,Telmed-AZ 40 Tablet,Telma AZ 40mg/8mg Tablet,Azilta T 40 Tablet,Emdip T 40mg/8mg Tablet,Dizziness,Headache,Nausea
+905,azomycin 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+906,abortab 200mg tablet,Medabon 200mg Tablet,Termipil 200mg Tablet,Pregnot 200mg Tablet,Termipil 200mg Kit,Mifecon 200mg Tablet,Nausea,Vomiting,Uterine cramps
+907,aldryl syrup,Anadryl  Syrup,Maxodyl Syrup,Maxodyl Syrup,Lupihist Plus Syrup,Histadril Syrup,Stomach pain/epigastric pain,Sleepiness,Dizziness
+908,azibact 100 readymix oral suspension,Infurox 100mg Oral Suspension,Ibithral 100 Rediuse Oral Suspension,Zithro Oral Suspension,Azilide 100 RediMed Oral Suspension,Azikem 100mg/5ml Oral Suspension,Vomiting,Nausea,Abdominal pain
+909,accuzon plus 1.5gm injection,Effimax S 1000 mg/500 mg Injection,Trixon S 1000 mg/500 mg Injection,Big-Tum 1.5G Injection,Extacef XL 1000mg/500mg Injection,Cefrine Plus 1000 mg/500 mg Injection,Diarrhea,Increased liver enzymes,Allergic reaction
+910,anaproct ointment,,,,,,"Application site reactions (burning, irritation, itching and redness)",,
+911,attentrol 10mg capsule,Tomoxetin 10mg Capsule,Atexitine 10 Capsule,,,,Headache,Nausea,Vomiting
+912,amace tablet,Entp-A 5mg/5mg Tablet,AMENA 5MG/5MG TABLET,AMLOGEN-EL 5MG/5MG TABLET,ENVAS AM 5 MG/5 MG TABLET,Ampril 5mg/5mg Tablet,Decreased blood pressure,Sleepiness,Taste change
+913,aciloc-s suspension sugar free,Pracid O Suspension,Megagel Plus Suspension,Endcid-O Suspension,Anburn O Suspension,Zestnate Suspension,Chalky taste,Diarrhea,Constipation
+914,ara eye drop,Nanovisc Eye Drop,Lacrisol Eye Drop,Aqualina Eye Drop,Liketears Plus Eye Drop,,"Application site reactions (burning, irritation, itching and redness)",,
+915,aziwok-xl 200 liquid,Azigard 200mg/5ml Suspension,Azis 200mg/5ml Suspension,Azinova 200mg/5ml Suspension,Laz 200mg/5ml Suspension,Azicin Suspension,Vomiting,Nausea,Abdominal pain
+916,aim7 60 xr tablet,Glizid Total P  15 Tablet SR,Gliclize Total 60mg/15mg/500mg Tablet SR,Bytey Total 60mg/15mg/500mg Tablet SR,Dayclazide Total 60mg/15mg/500mg Tablet SR,Carryl MP 60mg/15mg/500mg Tablet SR,Hypoglycemia (low blood glucose level),Dizziness,Headache
+917,atchol gold 10 capsule,Atorlip Gold 10 Capsule,Clavix Gold 10 Capsule,Atormac Gold 10 Capsule,Atonita Gold 75mg/10mg/75mg Capsule,Clopitab-CV Gold 10 Capsule,Increased bleeding tendency,Abdominal pain,Indigestion
+918,acenac-p  tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+919,amortas cream,Arolson Cream,Zydiwon Cream,Amrolwin Cream,Emrolfin Cream,Amrolwin Cream,Limited data available,,
+920,aldonil plus tablet sr,Alrista Plus Tablet SR,Epineuron SR Tablet,Epalpex-M SR Tablet,Epalrica-M Tablet SR,Nurestat-Plus Tablet SR,Nausea,Vomiting,Increased liver enzymes
+921,auxerg cream,,,,,,Dry skin,Burning sensation,Skin irritation
+922,acotrust  tablet,Acosat 100mg Tablet,Actapro Tablet,Dycotiam Tablet,Tocamide Tablet,Actapro Tablet,Headache,Diarrhea,
+923,aldep 10 tablet,Relidep 10mg Tablet,Amitone 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Odep 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+924,at sp tablet,Closera P 50 mg/500 mg/10 mg Tablet,Dentain Plus 50 mg/500 mg/10 mg Tablet,Surgesic P Tablet,Painoxol S Tablet,Infladase Plus 50 mg/500 mg/10 mg Tablet,Nausea,Vomiting,Stomach pain
+925,anxol tablet,Donyx 25mg Tablet,,,,,Drowsiness,Dryness in mouth,Tiredness
+926,aricef o 50mg/5ml dry syrup,Cafex 50mg Dry Syrup,Cefolin 50mg/5ml Dry Syrup,Fimial Dry Syrup,Cianfit 50mg Dry Syrup,Xf 50mg Dry Syrup,Abdominal pain,Allergy,Nausea
+927,addwize od 18mg tablet,Concerta 18mg Tablet,,,,,Headache,Insomnia (difficulty in sleeping),Abdominal pain
+928,amipride 50 tablet,Gressami 50mg Tablet,Amisyt 50mg Tablet,Quinpride 50 Tablet,Restpride 50 Tablet,Sulvol 50mg Tablet,Nausea,Vomiting,Dryness in mouth
+929,altiva 120mg tablet,Lcfex Tablet,Etofex 120mg Tablet,Nexofex 120mg Tablet,Fexise 120mg Tablet,Histafree 120 Tablet,Headache,Drowsiness,Dizziness
+930,aclon-sp tablet,Octace Plus Tablet,Anzifen SP Tablet,Mitigate SP Tablet,Kace S 100mg/500mg/15mg Tablet,Starnac Plus 100mg/500mg/15mg Tablet,Nausea,Vomiting,Stomach pain
+931,allenza tablet,Bromin Tablet,Edinase  -DS Tablet,Rubrosin Tablet,Jubiflam Forte Tablet,Tyronide DS Tablet,No common side effects seen,,
+932,amrolmac cream,Alimnator Cream,Amrosys Cream,Amrolstar Cream,Amrfy XL 0.25% Cream,Amrolstar Cream,Blisters on skin,Nail disorder,Skin irritation
+933,atrovas 40mg tablet,Atorless 40mg Tablet,Atchol 40 Tablet,Lipikind 40 Tablet,Mactor 40 Tablet,Atorsave 40 Tablet,Dyspepsia,Abdominal pain,Indigestion
+934,amtas 10 tablet,Aginal 10mg Tablet,Amodep 10mg Tablet,Lupidip 10mg Tablet,Amlokind 10mg Tablet,Amcard 10 Tablet,Headache,Fatigue,Nausea
+935,alpostin 500mcg injection,Prostin VR Paediatric Injection,Prostal Injection,Prostaver 500mcg Injection,Bioglandin 500mcg Injection,Prostin VR 500mcg Injection,Apnea (absence of breathing),Fever,
+936,alka-ph syrup,Cadicitron 1.4gm/5ml Syrup,Acrocitron 1.4gm/5ml Syrup,Alkacit Syrup,Alkawin 1.4gm/5ml Syrup,Alto's Citrasol Liquid,Stomach pain,Tiredness,Diarrhea
+937,amlokind beta 5mg/25mg tablet pr,DavaIndia Amlodipine+Metoprolol Succinate 5mg/25mg Tablet PR,Metadon 25 AM Tablet PR,Gudpres-AM 25 Tablet PR,Amloss-Beta Tablet PR,Amlosafe MT 25 Tablet PR,Nausea,Slow heart rate,Abdominal pain
+938,afogatran 110 capsule,Dabigo 110mg Capsule,Dabimend 110 Capsule,Dabiac 110mg Capsule,Dabifib 110 Capsule,Dabipla 110mg Capsule,Nausea,Anemia (low number of red blood cells),Gastrointestinal bleeding
+939,auradex 4mg tablet,Decdak 4mg Tablet,Dexford 4mg Tablet,Decdan 4mg Tablet,Dexane 4mg Tablet,Dexa 4mg Tablet,Cardiovascular complications,Metabolic disorder,Infection
+940,ancool  sf suspension,Asuc 500mg Suspension,,,,,Constipation,,
+941,aggramed 5mg infusion,Aggrilek Infusion,Terofib 5mg Infusion,Tirofuse Injection,Agrifib 5mg Infusion,Tiroban 5mg Infusion,Headache,Nausea,Hematoma
+942,acetamide 250mg tablet,Acemax 250mg Tablet,Opt Tablet,ACTAMIDE 250MG TABLET,Zac 250mg Tablet,Actazid 250mg Tablet,Tingling sensation of extremity,Loss of appetite,Diarrhea
+943,agmacet 10mg tablet,Cetral O 10mg Tablet,Dio 1 10mg Tablet,Leecet Tablet,CTZ Tablet,Cetcip Tablet,Sleepiness,Dizziness,
+944,amloz at tablet,Biopress AM Tablet,Lupidip-A Tablet,Amlip AT Tablet,Amlovas-AT Tablet,Amdepin-AT Tablet,Sleepiness,Headache,Ankle swelling
+945,aerodil-dx syrup raspberry sugar free,Codistar-DX  Syrup,Corex DX  Syrup,Supko DX Syrup,Bricarex-DX Syrup,Cheston D Syrup Sugar Free,Upset stomach,Sleepiness,
+946,arip mt 10 tablet,Apiz 10mg Tablet,Aripiren 10mg Tablet,Ripramat 10 Tablet,Rizotal 10mg Tablet,Ariday 10 Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+947,alivher es tablet,Endothik ES 1mg/25mg Tablet,,,,,Diarrhea,Nausea,Stomach pain
+948,amrfy 0.25% cream,Amrosys Cream,Amrolstar Cream,Amrolstar Cream,Amrosys Cream,Amtris Cream,Blisters on skin,Nail disorder,Skin irritation
+949,amrobrut cream,Arolson Cream,Zydiwon Cream,Amrolwin Cream,Emrolfin Cream,Amrolwin Cream,Limited data available,,
+950,ace plus tablet,Dolostat PC 100 mg/325 mg Tablet,Acimol 100 mg/325 mg Tablet,Topnac P Tablet,Arflur-P Tablet,Ark-AP Tablet,Nausea,Vomiting,Stomach pain/epigastric pain
+951,advent 228.5mg dry syrup,Mokcan CV 200mg/28.5mg Dry Syrup,Clavmentin Duo Dry Syrup,Xtraclav 200 mg/28.5 mg Dry Syrup,Mpx-CV Dry Syrup,Clavituf 200 mg/28.5 mg Dry Syrup,Nausea,Vomiting,Abdominal pain
+952,alides 5mg tablet,Lorday Tablet,Deswin 5mg Tablet,Nucope 5mg Tablet,Eslot 5mg Tablet,DE Argella 5mg Tablet,Sleepiness,Dizziness,
+953,alastin am tablet,Loridin AM Tablet,CLARIDIN AM TABLET,Lorpd AM 60mg/5mg Tablet,Lorich-AM Tablet,Lorist AX 60mg/5mg Tablet,Upset stomach,Headache,Sleepiness
+954,ascodex sf syrup sugar free,Winnow X Syrup,Ascodex BR Syrup,Nefdyl X Syrup,Cosodril BT Syrup,Salmodil Plus Syrup,Nausea,Diarrhea,Bloating
+955,amclaid 625 tablet,Penciclav 500 mg/125 mg Tablet,Moxikind-CV 625 Tablet,Moxiforce-CV 625 Tablet,Fightox 625 Tablet,Novamox CV 625mg Tablet,Vomiting,Nausea,Diarrhea
+956,avoprost 8mg capsule,Prostagard 8 Capsule,Silostride Capsule,Sildoease 8mg Capsule,Silotrif 8 Capsule,Silosmart 8mg Capsule,Retrograde ejaculation,Dizziness,Diarrhea
+957,amiline 10mg tablet,Relidep 10mg Tablet,Amitone 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Odep 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+958,arvast f 10 tablet,Rozucor F LS 67mg/10mg Tablet,Jupiros FL 67 mg/10 mg Tablet,Rolistat F 10 Tablet,Rozafin F 67mg/10mg Tablet,Rozuxia-F 67mg/10mg Tablet,Headache,Muscle pain,Constipation
+959,anin 500mg injection,Depovig 500mg Injection,Pregaphase 500mg Injection,Oxyron 500 Injection,Eutrion H 500mg Injection,Hergest Injection,Injection site pain,Injection site swelling,Red spots or bumps
+960,amloz 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+961,azulix 4 mf forte tablet pr,Isryl-M 4 Forte Tablet PR,Diapride M4 Forte Tablet PR,Glador M4 Forte Tablet PR,Glycomet-GP 4 Forte Tablet PR,Glimestar-M4 Forte Tablet PR,Hypoglycemia (low blood glucose level),Headache,Nausea
+962,amtas-at 25 tablet,Betacard-AM 5mg/25mg Tablet,DavaIndia Amlodipine+Atenolol 5mg/25mg Tablet,Numlo-AT 5mg/25mg Tablet,Amlokos AT 5mg/25mg Tablet,Dipinol 5 mg/25 mg Tablet,Sleepiness,Headache,Ankle swelling
+963,arophyll hd 10mg/120mg/200mg tablet,Enact-3D Tablet,AFM Tablet,Acebronk MFX 10mg/120mg/200mg Tablet,Sebnix FM 10mg/120mg/200mg Tablet,Fexmont Ace 10mg/120mg/200mg Tablet,Nausea,Vomiting,Diarrhea
+964,alcaft eye drop,Caftaday Eye Drop,,,,,Eye irritation,Itching,Stinging in the eyes
+965,acitrom 0.5 tablet,,,,,,Hemorrhage,,
+966,asar 40 tablet,Azilura 40 Tablet,Zilarta 40 Tablet,Nexsart 40 Tablet,Azildac 40 Tablet,Altoran 40 Tablet,Dizziness,Muscle damage,Diarrhea
+967,anxit 0.5 sr tablet,Trika SR 0.5 Tablet,,,,,Lightheadedness,Drowsiness,
+968,alkazip syrup,Alkastar Syrup,Alkapil Syrup,Q Citra 1.53gm/5ml Syrup,Oneston 1.53gm/5ml Syrup,Urogard Urogard-SF Syrup Sugar Free,Stomach pain,Tiredness,Diarrhea
+969,afoglip m  500 tablet er,Teneliglip-M 500 Tablet ER,Tenipack M Tablet ER,Tenlicure M 500 Tablet ER,Tenemerze M 500mg/20mg Tablet ER,Tenali M 500 Tablet ER,Hypoglycemia (low blood glucose level),Nausea,Vomiting
+970,arvast-cf 10 capsule dr,,,,,,Headache,Muscle pain,Constipation
+971,augmentin 375 duo tablet,Moxikind-CV 375 Tablet,Flemiclav 375 Tablet,Erox CV 250mg/125mg Tablet,Mega-CV 375 Tablet,Indclav 375 Tablet,Vomiting,Nausea,Diarrhea
+972,actrapid 100iu/ml solution for injection,Wosulin-R DispoPen,Lupisulin R 100IU/ml Cartridge,Insuman Rapid 100IU/ml Solution for Injection,Actrapid HM 100IU/ml Penfill,Huminsulin R 100IU Cartridge,Hypoglycemia (low blood glucose level),Weight gain,Edema (swelling)
+973,axinerve-p tablet sr,Mahagaba-M OD Tablet SR,Nervijen-P SR Tablet,Gabasafe Plus  SR 75 Tablet,Revlin M Tablet SR,Axogurd-SR Tablet,Dizziness,Sleepiness,Tiredness
+974,adiflam plus 400 mg/500 mg tablet,Multigon Tablet,Ibuwin 400 mg/500 mg Tablet,Tolfen Tablet,Ibuflam 400 mg/500 mg Tablet,Arden Plus 400 mg/500 mg Tablet,Heartburn,Indigestion,Nausea
+975,amitop m 5mg/1500mcg tablet,Amnurite  5 mg/1500 mcg Tablet,,,,,Constipation,Difficulty in urination,Weight gain
+976,asomex-d tablet,Amlovin H 2.5mg/12.5mg Tablet,Espin H 2.5 mg/12.5 mg Tablet,ASOMEX D  TABLET 2.5mg/12.5mg,Eslo-D Tablet,,Glucose intolerance,Sleepiness,Ankle swelling
+977,azro 500 tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+978,answell 400 mg/325 mg tablet,Bruace 400 mg/325 mg Tablet,Rupar 400 mg/325 mg Tablet,Brufamol Tablet,Brumol 400 mg/325 mg Tablet,Zupar 400mg/325mg Tablet,Heartburn,Indigestion,Nausea
+979,acenext 100mg tablet,Topnac 100mg Tablet,Topflam 100mg Tablet,Acenal 100mg Tablet,Safronac 100mg Tablet,Dolokind 100mg Tablet,Vomiting,Stomach pain/epigastric pain,Nausea
+980,advent 1.2gm  injection,Megox 1000 mg/200 mg Injection,Amoxyclav 1000 mg/200 mg Injection,Moxilium CV 1000mg/200mg Injection,Lactoclaav 1000mg/200mg Injection,Indclav 1000 mg/200 mg Injection,Vomiting,Nausea,Diarrhea
+981,azilup 500 mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+982,aceron tc tablet,,,,,,Nausea,Vomiting,Heartburn
+983,aldigesic-rab capsule sr,Douxrab Ace 200mg/20mg Capsule SR,Rabispan-AC Capsule SR,Rient-A Capsule SR,Rabewan AC 200mg/20mg Capsule SR,Redugesic OD Capsule SR,Nausea,Flatulence,Indigestion
+984,action or 1000mg tablet,Paracin 1000mg Tablet,Arden 1000 Tablet,Opara Tablet,Calpol 1000mg Tablet,Pyrigesic 1000 Tablet,Stomach pain,Nausea,Vomiting
+985,adilin 40mg tablet sr,Isotropic 40 SR Tablet,Divos 40 Tablet SR,Isoman-SR 40 Tablet,Spzac 40mg Tablet SR,Prymavas 40mg Tablet SR,Dizziness,Palpitations,
+986,abhayrab-pf vaccine,Sure Rab Vaccine,Rabipur Vaccine,Zuvirab Vaccine,Abhayrab Vaccine,,Pain,Joint pain,Injection site redness
+987,amlodac 10 tablet,Aginal 10mg Tablet,Amodep 10mg Tablet,Lupidip 10mg Tablet,Amlokind 10mg Tablet,Amcard 10 Tablet,Headache,Fatigue,Nausea
+988,alfalog tablet,Renoalfa Tablet,Nefrosave Keto Tablet,Ketodel Tablet,Ketomega Tablet,Henalog Tablet,Increased calcium level in blood,,
+989,azax 500 tablet,Zithrocare 500mg Tablet,Zady 500 Tablet,Cazithro 500mg Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+990,azifast gel,Zithrotop 2% Gel,Topmycin Gel,,,,"Application site reactions (burning, irritation, itching and redness)",Vomiting,Nausea
+991,amlovas-l tablet,Etopres LP 5 mg/5 mg Tablet,Listril AM Tablet,Aamin L 5mg/5mg Tablet,Aldo L Tablet,Acedip Tablet,Ankle swelling,Headache,Tiredness
+992,atorsave d 10 tablet,Lipigraf D3 Tablet,Atorfit D 10mg/1000IU Tablet,Atocer-D 10mg/1000IU Tablet,Megmator D3 10mg/1000IU Tablet,Atormac D 10 Tablet,Nausea,Stomach pain,Constipation
+993,amfy v  vaginal gel,,,,,,No common side effects seen,Nausea,Vomiting
+994,amit 10 mg tablet,Relidep 10mg Tablet,Amitone 10mg Tablet,Tryp 10mg Tablet,Amitril 10mg Tablet,Odep 10mg Tablet,Constipation,Dryness in mouth,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+995,alex p paed drop,,,,,,Nausea,Headache,Insomnia (difficulty in sleeping)
+996,azivent 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+997,Alto's citrasol liquid,Cadicitron 1.4gm/5ml Syrup,Acrocitron 1.4gm/5ml Syrup,Alkacit Syrup,Alkawin 1.4gm/5ml Syrup,Citodac Syrup,Stomach pain,Tiredness,Diarrhea
+998,amorfine cream,Amrosys Cream,Amrolstar Cream,Amrolstar Cream,Amrosys Cream,Amrobest Cream,Blisters on skin,Nail disorder,Skin irritation
+999,azapure tablet,Transimune 50mg Tablet,Azap 50 Tablet,Zesoris-AZ 50mg Tablet,Autorin 50mg Tablet,Azin Tablet,Decreased white blood cell count,Increased bleeding tendency,Nausea
+1000,akme-entoquol tablet,,,,,,Constipation,Nausea,Vomiting
+1001,amrolmac cream,Amrosys Cream,Amrolstar Cream,Amrolstar Cream,Amrosys Cream,Amrobest Cream,Blisters on skin,Nail disorder,Skin irritation
+1002,atherochek 10 tablet,,,,,,Joint pain,Increased liver enzymes,Nausea
+1003,axepta 18mg tablet,Atmosril 18mg Tablet,Attera 18mg Tablet,Atomox 18mg Tablet,Atonext 18 Tablet,Tomkid 18mg Tablet,Headache,Nausea,Vomiting
+1004,alconil 500mg tablet,DavaIndia Disulfiram 500mg Tablet,Cronodol 500mg Tablet,Disfit 500 Tablet,Dizone 500mg Tablet,Gigadif 500mg Tablet,Headache,Fatigue,Drowsiness
+1005,ascodex d syrup,Respicure-D Syrup,Chericof Syrup,Respicure-D Syrup,Ataqued Syrup,Ascoril D Junior Cough Syrup,Nausea,Vomiting,Loss of appetite
+1006,angiplat 6.5 capsule tr,Angistat 6.5 Capsule TR,Vasovin-XL 6.5 Capsule,Angispan-TR 6.5mg Capsule,,,Blurred vision,Decreased blood pressure,Dizziness
+1007,adfrar injection,Mabvinra 40mg Injection,Exemptia 40mg/0.8ml Injection,Admira 40mg/0.8ml Injection,,,Headache,Sinus inflammation,Rash
+1008,ambrox t syrup,T Kuff Syrup,Advanced LCF Kid Expectorant,Kofide Syrup,C C Gesic Plus Syrup,Wifi-S Syrup Sugar Free,Nausea,Diarrhea,Vomiting
+1009,aciloc only oral liquid,,,,,,Headache,Diarrhea,Gastrointestinal disturbance
+1010,azunate 60mg injection,Arteross 60mg Injection,Falciart 60mg Injection,Falsitis AR Injection,Leonate 60mg Injection,Neosunate 60mg Injection,Headache,Dizziness,Weakness
+1011,acton-or plus+ tablet,Thiossil Plus 325mg/4mg Tablet,Thiobit Plus 325mg/4mg Tablet,,,,Stomach pain,Diarrhea,Skin rash
+1012,amikacin 250mg injection,Cachmik 250mg Injection,Amikas 250mg Injection,Amibiotic 250mg Injection,Amister 250mg Injection,Ivimicin 250mg Injection,Increased blood urea,"Injection site reactions (pain, swelling, redness)",
+1013,accardi mr tablet mr,Danavish Trimetazidine 35mg Tablet MR,Invidon 35 XR Tablet,Trinol 35mg Tablet MR,Angidine Retard Tablet MR,Triden 35mg Tablet MR,Dizziness,Headache,Nausea
+1014,acenac-sr tablet,Algic 200mg Tablet SR,Topnac 200mg Tablet SR,Kindac 200mg Tablet SR,Ultranac 200mg Tablet SR,Bignac 200mg Tablet SR,Dizziness,Indigestion,Nausea
+1015,albutamol plus tablet,Brosal Forte Tablet,,,,,Nausea,Vomiting,Bloating
+1016,azirin 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+1017,amlodac ch tablet,Amlong CT Tablet,Amlovas CH 5 mg/12.5 mg Tablet,Enzochlor 5mg/12.5mg Tablet,,,Glucose intolerance,Sleepiness,Ankle swelling
+1018,atorec 10 tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,Atorlip 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+1019,azilide 100 redimed oral suspension,Aziphar 100 Suspension,Ibithral 100 Rediuse Oral Suspension,G-Thro 100 Suspension,Azikem 100mg/5ml Oral Suspension,Pratham 100 Rediuse Oral Suspension,Vomiting,Nausea,Abdominal pain
+1020,alkanil syrup,,,,,,Stomach pain,Tiredness,Diarrhea
+1021,atrest 12.5 tablet,,,,,,Nausea,Insomnia (difficulty in sleeping),Anxiety
+1022,abvida 50mg tablet,Gliptagreat 50 Tablet,Zukanorm 50 Tablet,Vilatin Tablet,Glipy Tablet,Viltor 50 Tablet,Hypoglycemia (low blood glucose level),Tremors,Headache
+1023,azee xl 100mg dry syrup peppermint,Azitru 100mg/5ml Dry Syrup,Aziwok 100mg/5ml Dry Syrup,Zithromin 100mg Dry Syrup,Aziclub 100mg Dry Syrup,Azoking Dry Syrup,Vomiting,Nausea,Abdominal pain
+1024,asa 75mg tablet,Sprin 75mg Tablet,CV Sprin 75mg Tablet,Aspidot 75mg Tablet,E Prin 75mg Tablet,Loprin 75 Tablet,Heartburn,Increased bleeding tendency,Nausea
+1025,amnurite  25 tablet sr,Amnuring 25 Tablet SR,,,,,Constipation,Difficulty in urination,Weight gain
+1026,atorlip 5 tablet,Orvas 5 Tablet,Zivast 5 Tablet,Lesstrol 5mg Tablet,Atorslim 5mg Tablet,Nustat 5mg Tablet,Dyspepsia,Abdominal pain,Indigestion
+1027,acnetoin plus gel,Clim-IT Gel,,,,,Skin peeling,Itching,Stinging sensation
+1028,amlovas-m 5/25 tablet pr,DavaIndia Amlodipine+Metoprolol Succinate 5mg/25mg Tablet PR,Metadon 25 AM Tablet PR,Gudpres-AM 25 Tablet PR,Amlokind Beta 5mg/25mg Tablet PR,Amloss-Beta Tablet PR,Nausea,Slow heart rate,Abdominal pain
+1029,aziford 500mg tablet,Zithrocare 500mg Tablet,Azax 500 Tablet,Zady 500 Tablet,Trulimax 500mg Tablet,Azifast 500 Tablet,Vomiting,Nausea,Abdominal pain
+1030,anglit 2.6 tablet cr,Winitro 2.6mg Tablet CR,Nestin 2.6mg Tablet CR,Ntgn 2.6 Tablet CR,Nitrolife 2.6 Tablet CR,Nitro-G 2.6 Tablet CR,Blurred vision,Decreased blood pressure,Dizziness
+1031,amlogard 2.5mg tablet,Amvasc 2.5mg Tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlokind 2.5 Tablet,Amlip 2.5 Tablet,Headache,Fatigue,Nausea
+1032,amdepin 5 tablet,Amset 5mg Tablet,Amlip 5 Tablet,Avacard 5mg Tablet,Amcard 5 Tablet,Amlong Tablet,Headache,Fatigue,Nausea
+1033,ab-resp tablet,Abrofyl 100mg Tablet,Acebrovel 100mg Tablet,Axeldox 100mg Tablet,Mucobus Tablet,Acbram 100mg Tablet,Nausea,Headache,Vomiting
+1034,amiodar 200 tablet,Panarone 200mg Tablet,Duron 200 Tablet,Tachyra 200 Tablet,Art-X Tablet,Cordarone X Tablet,Lung damage,Tachycardia,Congestive cardiac failure
+1035,amazeo od 100 tablet sr,Amibet 100 SR Tablet,Cizorest 100 OD Tablet SR,Amilyst 100mg Tablet SR,Soltus OD 100 Tablet SR,,Nausea,Vomiting,Dryness in mouth
+1036,alzero m syrup,Leco-M 2.5mg/5mg Syrup,Medlivo M Syrup,Epimon L Syrup,Evocet M Kid Syrup,Alerbit M Syrup,Rash,Nausea,Diarrhea
+1037,acocontin tablet cr,Mucovert-CR Tablet,,,,,Vomiting,Nausea,Upset stomach
+1038,alphacept 8 tablet,Silorap 8mg Tablet,Silolax 8mg Tablet,Sidopac 8mg Tablet,Prostasil 8 Tablet,Siloflow 8mg Tablet,Retrograde ejaculation,Dizziness,Diarrhea
+1039,azithral xl 200 liquid,Azam 200 Oral Suspension,Spazit Suspension,Aziitech 200mg Oral Suspension,Aziecro 200mg Oral Suspension,Azee 200mg Dry Syrup,Vomiting,Nausea,Abdominal pain
+1040,altime cf syrup,Cedea Syrup,Ritz CF Syrup,Reditime Syrup,Citrikof Syrup,Exiliq Syrup,Vomiting,Nausea,Diarrhea
+1041,augxetil cv 500 tablet,Cefakind-CV 500 Tablet,Zefu-CV 500 Tablet,Keftil CV 500mg/125mg Tablet,Octocef-CV 500mg/125mg Tablet,Addcefurox CV 500mg/125mg Tablet,Nausea,Vomiting,Diarrhea
+1042,ambrolite cold syrup,Ambril Syrup,Respolite Syrup,Ambrolene Syrup,Revibrox Plus 30mg/5ml Syrup,Cofnil AM 30mg Syrup,Vomiting,Nausea,Upset stomach
+1043,altonil syrup,Trunap Syrup,Trunap Syrup,Noctura Syrup,,,Headache,Drowsiness,
+1044,asolt-at tablet,,,,,,Nausea,Vomiting,Heartburn
+1045,acocare 300mg tablet sr,Akostol-OD Tablet SR,Acosat 300mg Tablet SR,Cotia 300mg Tablet SR,Acoride 300 ER Tablet,Acotibien 300 SR Tablet,Headache,Diarrhea,
+1046,amoxyclav 1000 mg/200 mg injection,Megox 1000 mg/200 mg Injection,Moxilium CV 1000mg/200mg Injection,Lactoclaav 1000mg/200mg Injection,Indclav 1000 mg/200 mg Injection,Clavactum 1000mg/200mg Injection,Vomiting,Nausea,Diarrhea
+1047,anti cold tablet,New Hatric 3 Tablet,Coldarin All in 1 Tablet,Sumo Cold Tablet,Coldnyl-Plus Tablet,Rimycold-P Tablet,Nausea,Vomiting,Insomnia (difficulty in sleeping)
+1048,alciflox d eye/ear drops,Kemocip D Eye/Ear Drops,Biocip D Eye/Ear Drops,Zoxan-D Eye/Ear Drops,Lucipro D Eye/Ear Drops,Floxomed D Eye/Ear Drops,"Application site reactions (burning, irritation, itching and redness)",Eye discomfort,Corneal deposits
+1049,advastat 10 tablet,Fortius 10 Tablet,Unizuva 10mg Tablet,Lipirose 10 Tablet,Consivas 10 Tablet,Jupiros 10 Tablet,Muscle pain,Weakness,Headache
+1050,aldigesic mr tablet,Frenac MR 100mg/250mg/325mg Tablet,Stalace MR 100mg/250mg/325mg Tablet,Afast-MR Tablet,Acelonox MR Tablet,Clora MR 100mg/250mg/325mg Tablet,Nausea,Sleepiness,Vomiting
+1051,arzu 10 tablet,Aripiren 10mg Tablet,Ripramat 10 Tablet,Rizotal 10mg Tablet,Arip MT 10 Tablet,Ariday 10 Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+1052,asprito 10 tablet,Apiz 10mg Tablet,Aripiren 10mg Tablet,Ripramat 10 Tablet,Rizotal 10mg Tablet,Arip MT 10 Tablet,Akathisia (inability to stay still),Anxiety,Blurred vision
+1053,azifast 250 tablet,Azicip 250 Tablet,Azikem 250mg Tablet,Fitzee 250 Tablet,Azi Q 250mg Tablet,Azax 250 Tablet,Vomiting,Nausea,Abdominal pain
+1054,anfoe 6000iu injection,Erypro Safe 6000IU Injection,Epofer 6000IU Injection,Vintor 6000IU Injection,Epofaith 6000IU Injection,Rpo 6000IU Injection,High blood pressure,Nausea,Vomiting
+1055,acnelak-clz cream,StayHappi Clindamycin+Zinc acetate Cream,,,,,Skin peeling,Erythema (skin redness),Dry skin
+1056,amoxil 500mg injection,Amox C 500mg Injection,Optimox 500mg Injection,Mox 500mg Injection,Vexicin 500mg Injection,Novamox 500mg Injection,"Injection site reactions (pain, swelling, redness)",Rash,Vomiting
+1057,alenix 5 tablet,Lorday Tablet,Alides 5mg Tablet,Deswin 5mg Tablet,Nucope 5mg Tablet,Eslot 5mg Tablet,Sleepiness,Dizziness,
+1058,atorbest 10 tablet,Atorast 10mg Tablet,Zivast 10 Tablet,Storvas 10 Tablet,Tonact 10 Tablet,Atorlip 10 Tablet,Dyspepsia,Abdominal pain,Indigestion
+1059,amide 25 tablet,Exam 25mg Tablet,Amal T 25mg Tablet,Amisyt 25mg Tablet,Amal T 25mg Tablet,,Nausea,Vomiting,Dryness in mouth
+1060,aleva 5mg tablet,L Dio 1 Tablet,Lecope Tablet,LCZ Tablet,1-AL Tablet,L Hist Tablet,Sleepiness,Fatigue,Dryness in mouth
+1061,amlopin 2.5 tablet,Amvasc 2.5mg Tablet,Ampine 2.5mg Tablet,Amcard 2.5 Tablet,Amlokind 2.5 Tablet,Amlip 2.5 Tablet,Headache,Fatigue,Nausea
+1062,ace-th 4 tablet,Bignac-MR 4 Tablet,Neorelax A 4mg Tablet,Thioquest A 100 mg/4 mg Tablet,Canace-TH4 Tablet,Thichoren AC 4 Tablet,Nausea,Vomiting,Heartburn
+1063,Atrovent HFA,random,,,,,,,
