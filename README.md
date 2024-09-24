@@ -46,10 +46,6 @@ The architecture of HealthSync integrates machine learning algorithms, natural l
 - **Software**: Database Management System, Python, TensorFlow, PyTorch, Networking Protocols, Development Tools, Vision Transformers libraries.
 - **Hardware**: Smartphones, Computers with camera functionality and adequate storage.
 
-## Contact
 
-For any inquiries or further information, please contact:
-- **Prathik** - [prathik3110@gmail.com](mailto:prathik3110@gmail.com)
-- **C S Parthasarathy** - [csparthasarathy1742@gmail.com](mailto:csparthasarathy1742@gmail.com)
 
 ---
